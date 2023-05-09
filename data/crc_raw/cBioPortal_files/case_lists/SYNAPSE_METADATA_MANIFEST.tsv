@@ -1,0 +1,6 @@
+path	parent	name	id	synapseStore	contentType	used	executed	activityName	activityDescription
+/home/kchen/Documents/genie_crc/data/synapse/cBioPortal_files/case_lists/cases_cnaseq.txt	syn39802781	cases_cnaseq.txt	syn39802802	True	text/plain				
+/home/kchen/Documents/genie_crc/data/synapse/cBioPortal_files/case_lists/cases_cna.txt	syn39802781	cases_cna.txt	syn39802795	True	text/plain				
+/home/kchen/Documents/genie_crc/data/synapse/cBioPortal_files/case_lists/cases_Colorectal_Cancer.txt	syn39802781	cases_Colorectal_Cancer.txt	syn39802787	True	text/plain				
+/home/kchen/Documents/genie_crc/data/synapse/cBioPortal_files/case_lists/cases_all.txt	syn39802781	cases_all.txt	syn39802790	True	text/plain				
+/home/kchen/Documents/genie_crc/data/synapse/cBioPortal_files/case_lists/cases_sequenced.txt	syn39802781	cases_sequenced.txt	syn39802805	True	text/plain				

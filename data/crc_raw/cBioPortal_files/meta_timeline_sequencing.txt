@@ -1,0 +1,4 @@
+cancer_study_identifier: crc_genie_bpc
+data_filename: data_timeline_sequencing.txt
+datatype: TIMELINE
+genetic_alteration_type: CLINICAL

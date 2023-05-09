@@ -1,0 +1,6 @@
+path	parent	name	id	synapseStore	contentType	used	executed	activityName	activityDescription
+/home/kchen/Documents/genie_crc/data/nsclc_raw/cBioPortal_files/case_lists/cases_Non-Small_Cell_Lung_Cancer.txt	syn30358148	cases_Non-Small_Cell_Lung_Cancer.txt	syn30358149	True	text/plain				
+/home/kchen/Documents/genie_crc/data/nsclc_raw/cBioPortal_files/case_lists/cases_all.txt	syn30358148	cases_all.txt	syn30358150	True	text/plain				
+/home/kchen/Documents/genie_crc/data/nsclc_raw/cBioPortal_files/case_lists/cases_cna.txt	syn30358148	cases_cna.txt	syn30358151	True	text/plain				
+/home/kchen/Documents/genie_crc/data/nsclc_raw/cBioPortal_files/case_lists/cases_sequenced.txt	syn30358148	cases_sequenced.txt	syn30358154	True	text/plain				
+/home/kchen/Documents/genie_crc/data/nsclc_raw/cBioPortal_files/case_lists/cases_cnaseq.txt	syn30358148	cases_cnaseq.txt	syn30358153	True	text/plain				

@@ -1,0 +1,6 @@
+cancer_study_identifier: crc_genie_bpc
+description: CRC cohort v2.0-public (GENIE 2022) GENIE Release 12.0-public. Several hundred different variables are collected for each of the BPC cohorts; consult the <a href="https://aacr.box.com/s/en5dyu9zfw1krg2u58wlcz01jttc6y9h">Documentation</a> for further detail. To learn more about which variables are visualized in cBioPortal and how, see the cBioPortal <a href="https://docs.google.com/document/d/1IBVF-FLecUG8Od6mSEhYfWH3wATLNMnZcBw2_G0jSAo/edit">ReadMe</a>. <font color="red">Although these data are de-identified, your analysis may require institutional review prior to publication.</font>
+groups: GENIE
+name: GENIE BPC CRC v2.0-public
+short_name: CRC GENIE
+type_of_cancer: mixed

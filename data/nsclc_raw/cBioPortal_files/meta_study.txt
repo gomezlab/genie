@@ -1,0 +1,6 @@
+cancer_study_identifier: nsclc_public_genie_bpc
+description: NSCLC cohort v2.0-public (GENIE 2022) GENIE Release 11.1-public. Several hundred different variables are collected for each of the BPC cohorts; consult the <a href="https://www.aacr.org/professionals/research/aacr-project-genie/the-aacr-project-genie-biopharma-collaborative-bpc/bpc-nsclc-2-0-public/">Documentation</a> for further detail. To learn more about which variables are visualized in cBioPortal and how, see the cBioPortal <a href="https://docs.google.com/document/d/1e9xHL773YkdxYtQcGzUFHxCv7cTU6kA0ZtKHfrZRlkg/edit?usp=sharing">ReadMe</a>. <font color="red">Although these data are de-identified, your analysis may require institutional review prior to publication.</font>
+groups: GENIE
+name: GENIE BPC NSCLC v2.0-public
+short_name: NSCLC GENIE
+type_of_cancer: mixed

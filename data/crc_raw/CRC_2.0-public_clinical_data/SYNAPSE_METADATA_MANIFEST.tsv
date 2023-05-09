@@ -1,0 +1,10 @@
+path	parent	name	id	synapseStore	contentType	used	executed	activityName	activityDescription
+/home/kchen/Documents/genie_crc/data/synapse/CRC_2.0-public_clinical_data/cancer_panel_test_level_dataset.csv	syn39802567	cancer_panel_test_level_dataset.csv	syn39802578	True	text/csv				
+/home/kchen/Documents/genie_crc/data/synapse/CRC_2.0-public_clinical_data/patient_level_dataset.csv	syn39802567	patient_level_dataset.csv	syn39802589	True	text/csv				
+/home/kchen/Documents/genie_crc/data/synapse/CRC_2.0-public_clinical_data/cancer_level_dataset_non_index.csv	syn39802567	cancer_level_dataset_non_index.csv	syn39802575	True	text/csv				
+/home/kchen/Documents/genie_crc/data/synapse/CRC_2.0-public_clinical_data/tm_level_dataset.csv	syn39802567	tm_level_dataset.csv	syn39802593	True	text/csv				
+/home/kchen/Documents/genie_crc/data/synapse/CRC_2.0-public_clinical_data/med_onc_note_level_dataset.csv	syn39802567	med_onc_note_level_dataset.csv	syn39802583	True	text/csv				
+/home/kchen/Documents/genie_crc/data/synapse/CRC_2.0-public_clinical_data/regimen_cancer_level_dataset.csv	syn39802567	regimen_cancer_level_dataset.csv	syn39802591	True	text/csv				
+/home/kchen/Documents/genie_crc/data/synapse/CRC_2.0-public_clinical_data/imaging_level_dataset.csv	syn39802567	imaging_level_dataset.csv	syn39802579	True	text/csv				
+/home/kchen/Documents/genie_crc/data/synapse/CRC_2.0-public_clinical_data/pathology_report_level_dataset.csv	syn39802567	pathology_report_level_dataset.csv	syn39802586	True	text/csv				
+/home/kchen/Documents/genie_crc/data/synapse/CRC_2.0-public_clinical_data/cancer_level_dataset_index.csv	syn39802567	cancer_level_dataset_index.csv	syn39802574	True	text/csv				

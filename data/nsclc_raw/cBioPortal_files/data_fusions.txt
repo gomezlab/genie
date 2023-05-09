@@ -1,0 +1,820 @@
+Hugo_Symbol	Entrez_Gene_Id	Center	Tumor_Sample_Barcode	Fusion	DNA_support	RNA_support	Method	Frame
+ALK		MSK	GENIE-MSK-P-0003446-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+FLT4		MSK	GENIE-MSK-P-0003863-T01-IM5	FLT4-intragenic	yes	unknown		out of frame
+BRAF		MSK	GENIE-MSK-P-0004103-T01-IM5	BRAF-SND1 fusion	yes	unknown		in frame
+ROS1		MSK	GENIE-MSK-P-0004336-T01-IM5	CD74-ROS1 fusion	yes	unknown		in frame
+TP53		MSK	GENIE-MSK-P-0004827-T01-IM5	TP53-intragenic	yes	unknown		unknown
+XPO1		MSK	GENIE-MSK-P-0004827-T01-IM5	XPO1-USP34 fusion	yes	unknown		in frame
+NF1		MSK	GENIE-MSK-P-0005034-T01-IM5	SP2-NF1 fusion	yes	unknown		unknown
+POLD1		MSK	GENIE-MSK-P-0005034-T01-IM5	POLD1-MYH14 fusion	yes	unknown		unknown
+STK11		MSK	GENIE-MSK-P-0005191-T01-IM5	MIDN-STK11 fusion	yes	unknown		out of frame
+ALK		MSK	GENIE-MSK-P-0005321-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+NF1		MSK	GENIE-MSK-P-0005353-T01-IM5	NF1-intragenic	yes	unknown		unknown
+SOX2		MSK	GENIE-MSK-P-0005353-T01-IM5	SOX2OT-SOX2 fusion	yes	unknown		unknown
+RET		MSK	GENIE-MSK-P-0005573-T01-IM5	RET-KIF5B fusion	yes	unknown		in frame
+BRIP1		MSK	GENIE-MSK-P-0005903-T01-IM5	BRIP1-KIAA1267 fusion	yes	unknown		unknown
+MYD88		MSK	GENIE-MSK-P-0005931-T01-IM5	OXSR1-MYD88 fusion	yes	unknown		in frame
+ZFHX3		MSK	GENIE-MSK-P-0005959-T01-IM5	ZFHX3-intragenic	yes	unknown		unknown
+RECQL4		MSK	GENIE-MSK-P-0006151-T01-IM5	RECQL4-ZMAT4 fusion	yes	unknown		unknown
+EGFR		MSK	GENIE-MSK-P-0006268-T01-IM5	EGFR-intragenic	yes	unknown		in frame
+ALK		MSK	GENIE-MSK-P-0006313-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+ERBB3		MSK	GENIE-MSK-P-0006640-T01-IM5	ERBB3-DAZAP2 fusion	yes	unknown		unknown
+EGFR		MSK	GENIE-MSK-P-0006768-T01-IM5	EGFR-intragenic	yes	unknown		unknown
+TP63		MSK	GENIE-MSK-P-0006896-T01-IM5	TP63-MCF2L2 fusion	yes	unknown		in frame
+ALK		MSK	GENIE-MSK-P-0006950-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+RET		MSK	GENIE-MSK-P-0007424-T01-IM5	RET-KIF5B fusion	yes	unknown		in frame
+EIF4A2		MSK	GENIE-MSK-P-0014809-T01-IM6	RFC4-EIF4A2 fusion	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0008764-T02-IM6	ALK-KIF5B fusion	yes	unknown		unknown
+RET		MSK	GENIE-MSK-P-0011035-T01-IM5	RET-KIF5B fusion	yes	unknown		in frame
+TP53		MSK	GENIE-MSK-P-0012925-T01-IM5	TP53-intragenic	yes	unknown		unknown
+TERT		MSK	GENIE-MSK-P-0011157-T01-IM5	TERT-TPPP fusion	yes	unknown		unknown
+RET		MSK	GENIE-MSK-P-0008955-T03-IM5	CCDC6-RET fusion	yes	unknown		in frame
+RET		MSK	GENIE-MSK-P-0013825-T01-IM5	RET-KIF5B fusion	yes	unknown		unknown
+TP53		MSK	GENIE-MSK-P-0012773-T01-IM5	TP53-ATP1B2 fusion	yes	unknown		unknown
+PDGFRA		MSK	GENIE-MSK-P-0012919-T01-IM5	PDGFRA-intragenic	yes	unknown		unknown
+KDR		MSK	GENIE-MSK-P-0012919-T01-IM5	RAP1GDS1-KDR fusion	yes	unknown		unknown
+ABL1		MSK	GENIE-MSK-P-0013514-T01-IM5	ABL1-intragenic	yes	unknown		unknown
+ASXL1		MSK	GENIE-MSK-P-0013705-T01-IM5	RALGAPB-ASXL1 fusion	yes	unknown		unknown
+CUL3		MSK	GENIE-MSK-P-0010741-T01-IM5	CUL3-SERPINE2 fusion	yes	unknown		unknown
+RET		MSK	GENIE-MSK-P-0013886-T01-IM5	EML4-RET fusion	yes	unknown		unknown
+XRCC2		MSK	GENIE-MSK-P-0014120-T01-IM5	XRCC2-EIF3H fusion	yes	unknown		unknown
+RB1		MSK	GENIE-MSK-P-0013935-T01-IM5	RB1-intragenic	yes	unknown		unknown
+VEGFA		MSK	GENIE-MSK-P-0012821-T01-IM5	VEGFA-intragenic	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0011018-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+NCOA3		MSK	GENIE-MSK-P-0012864-T01-IM5	NCOA3-GYG2P1 fusion	yes	unknown		unknown
+ZFHX3		MSK	GENIE-MSK-P-0015061-T01-IM6	ZFHX3-intragenic	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0014385-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+ANKRD11		MSK	GENIE-MSK-P-0013835-T01-IM5	ANKRD11-intragenic	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0002408-T02-IM5	EML4-ALK fusion	yes	unknown		in frame
+ALK		MSK	GENIE-MSK-P-0012778-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+RUNX1		MSK	GENIE-MSK-P-0014502-T01-IM6	RUNX1-intragenic	yes	unknown		in frame
+EGFR		MSK	GENIE-MSK-P-0006768-T02-IM5	EGFR-intragenic	yes	unknown		unknown
+TCF3		MSK	GENIE-MSK-P-0012373-T01-IM5	TCF3-MBD3 fusion	yes	unknown		out of frame
+FGFR3		MSK	GENIE-MSK-P-0012373-T01-IM5	FGFR3-TACC3 fusion	yes	unknown		in frame
+ARID1A		MSK	GENIE-MSK-P-0013379-T01-IM5	PIGV-ARID1A fusion	yes	unknown		unknown
+EGFR		MSK	GENIE-MSK-P-0006268-T02-IM5	EGFR-intragenic	yes	unknown		in frame
+RHOA		MSK	GENIE-MSK-P-0013867-T01-IM5	SUCLG2-RHOA fusion	yes	unknown		unknown
+ROS1		MSK	GENIE-MSK-P-0012525-T01-IM5	CD74-ROS1 fusion	yes	unknown		in frame
+RAD50		MSK	GENIE-MSK-P-0014366-T01-IM6	RAD50-FBN2 fusion	yes	unknown		unknown
+CREBBP		MSK	GENIE-MSK-P-0014257-T01-IM6	CREBBP-intragenic	yes	unknown		unknown
+CRKL		MSK	GENIE-MSK-P-0014222-T01-IM6	RASGEF1C-CRKL fusion	yes	unknown		unknown
+ROS1		MSK	GENIE-MSK-P-0012008-T01-IM5	ROS1-SDC4 fusion	yes	unknown		in frame
+NOTCH3		MSK	GENIE-MSK-P-0010507-T01-IM5	CNTNAP4-NOTCH3 fusion	yes	unknown		unknown
+STK11		MSK	GENIE-MSK-P-0010507-T01-IM5	STK11-intragenic	yes	unknown		out of frame
+B2M		MSK	GENIE-MSK-P-0011268-T01-IM5	TRIM69-B2M fusion	yes	unknown		unknown
+FANCA		MSK	GENIE-MSK-P-0010247-T01-IM5	CDCA8-FANCA fusion	yes	unknown		in frame
+AKT1		MSK	GENIE-MSK-P-0014496-T01-IM6	AKT1-BCL11B fusion	yes	unknown		unknown
+FANCA		MSK	GENIE-MSK-P-0015075-T01-IM6	FANCA-FBXO31 fusion	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0010041-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+TP53		MSK	GENIE-MSK-P-0009702-T01-IM5	PSMD14-TP53 fusion	yes	unknown		unknown
+BRAF		MSK	GENIE-MSK-P-0007861-T01-IM5	AGAP3-BRAF fusion	yes	unknown		in frame
+ERBB2		MSK	GENIE-MSK-P-0009748-T01-IM5	SHC1-ERBB2 fusion	yes	unknown		unknown
+MSH6		MSK	GENIE-MSK-P-0009301-T01-IM5	MSH6-TRIB2 fusion	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0009301-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+SMO		MSK	GENIE-MSK-P-0004996-T02-IM5	MKRN1-SMO fusion	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0009102-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+ARID1A		MSK	GENIE-MSK-P-0008715-T01-IM5	ARID1A-intragenic	yes	unknown		unknown
+STK11		MSK	GENIE-MSK-P-0008715-T01-IM5	STK11-intragenic	yes	unknown		unknown
+MET		MSK	GENIE-MSK-P-0008915-T01-IM5	PTPRZ1-MET fusion	yes	unknown		unknown
+CDH1		MSK	GENIE-MSK-P-0009469-T01-IM5	CDH1-intragenic	yes	unknown		unknown
+INHBA		MSK	GENIE-MSK-P-0008650-T02-IM5	LOC285954-INHBA fusion	yes	unknown		unknown
+BTK		MSK	GENIE-MSK-P-0008427-T01-IM5	BTK-LOC442459 fusion	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0008764-T01-IM5	ALK-KIF5B fusion	yes	unknown		unknown
+NF1		MSK	GENIE-MSK-P-0008161-T02-IM5	NF1-intragenic	yes	unknown		in frame
+ALK		MSK	GENIE-MSK-P-0009353-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+ARID2		MSK	GENIE-MSK-P-0009590-T01-IM5	NUP107-ARID2 fusion	yes	unknown		unknown
+NCOA3		MSK	GENIE-MSK-P-0008757-T01-IM5	BCAS1-NCOA3 fusion	yes	unknown		unknown
+NF1		MSK	GENIE-MSK-P-0007832-T01-IM5	NF1-intragenic	yes	unknown		unknown
+APC		MSK	GENIE-MSK-P-0008978-T01-IM5	APC-intragenic	yes	unknown		unknown
+RET		MSK	GENIE-MSK-P-0009514-T01-IM5	RET-KIF5B fusion	yes	unknown		in frame
+DNMT3B		MSK	GENIE-MSK-P-0016175-T01-IM6	C6orf118-DNMT3B fusion	yes	unknown		unknown
+ROS1		MSK	GENIE-MSK-P-0016175-T01-IM6	ROS1-EYS fusion	yes	unknown		unknown
+INPP4B		MSK	GENIE-MSK-P-0014544-T01-IM6	INPP4B-intragenic	yes	unknown		unknown
+FGFR3		MSK	GENIE-MSK-P-0015195-T01-IM6	FGFR3-TACC3 fusion	yes	unknown		in frame
+TRAF7		MSK	GENIE-MSK-P-0015414-T01-IM6	TRAF7-PKD1 fusion	yes	unknown		unknown
+TAP1		MSK	GENIE-MSK-P-0015600-T01-IM6	COL11A2-TAP1 fusion	yes	unknown		unknown
+RET		MSK	GENIE-MSK-P-0012648-T01-IM5	RET-KIF5B fusion	yes	unknown		in frame
+EGFR		MSK	GENIE-MSK-P-0009307-T01-IM5	EGFR-intragenic	yes	unknown		in frame
+PTEN		MSK	GENIE-MSK-P-0014162-T01-IM5	PTEN-intragenic	yes	unknown		unknown
+BRAF		MSK	GENIE-MSK-P-0001832-T02-IM6	AGK-BRAF fusion	yes	unknown		in frame
+ALK		MSK	GENIE-MSK-P-0013202-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+GATA3		MSK	GENIE-MSK-P-0009431-T01-IM5	LOC100128811-GATA3 fusion	yes	unknown		unknown
+NF1		MSK	GENIE-MSK-P-0008161-T01-IM5	NF1-intragenic	yes	unknown		in frame
+FGFR1		MSK	GENIE-MSK-P-0014932-T01-IM6	FGFR1-intragenic	yes	unknown		out of frame
+ALK		MSK	GENIE-MSK-P-0015110-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+MITF		MSK	GENIE-MSK-P-0006221-T02-IM5	MITF-UNCX fusion	yes	unknown		unknown
+RPTOR		MSK	GENIE-MSK-P-0014506-T01-IM6	RPTOR-C1QL1 fusion	yes	unknown		unknown
+ROS1		MSK	GENIE-MSK-P-0014506-T01-IM6	CD74-ROS1 fusion	yes	unknown		unknown
+RET		MSK	GENIE-MSK-P-0014808-T01-IM6	RET-KIF5B fusion	yes	unknown		in frame
+RET		MSK	GENIE-MSK-P-0014808-T01-IM6	ERCC6-RET fusion	yes	unknown		out of frame
+RET		MSK	GENIE-MSK-P-0002694-T02-IM5	RET-KIF5B fusion	yes	unknown		in frame
+RET		MSK	GENIE-MSK-P-0016221-T01-IM6	RET-KIF5B fusion	yes	unknown		in frame
+ALK	238	VICC	GENIE-VICC-645488-unk-1	ALK-EML4 fusion	yes	unknown		unknown
+ALK	238	VICC	GENIE-VICC-588847-unk-1	ALK-HIP1 fusion	yes	unknown		unknown
+ALK	238	VICC	GENIE-VICC-889760-unk-1	ALK-EML4 fusion	yes	unknown		unknown
+ALK	238	VICC	GENIE-VICC-199259-unk-1	ALK-EML4 fusion	yes	unknown		unknown
+ALK	238	VICC	GENIE-VICC-356066-unk-1	ALK-EML4 fusion	yes	unknown		unknown
+ALK	238	VICC	GENIE-VICC-874813-unk-1	ALK-EML4 fusion	yes	unknown		unknown
+ALK	238	VICC	GENIE-VICC-588847-unk-2	ALK-HIP1 fusion	yes	unknown		unknown
+ALK	238	VICC	GENIE-VICC-588847-unk-3	ALK-HIP1 fusion	yes	unknown		unknown
+BRCA1	672	VICC	GENIE-VICC-647513-unk-1	BRCA1-intragenic	yes	unknown		unknown
+FGFR3	2261	VICC	GENIE-VICC-113334-unk-1	FGFR3-TACC3 fusion	yes	unknown		unknown
+FGFR3	2261	VICC	GENIE-VICC-599899-unk-2	FGFR3-TACC3 fusion	yes	unknown		unknown
+NTRK1	4914	VICC	GENIE-VICC-611118-unk-1	NTRK1-TPM3 fusion	yes	unknown		unknown
+RET	5979	VICC	GENIE-VICC-476409-unk-1	RET-KIF5B fusion	yes	unknown		unknown
+ROS1	6098	VICC	GENIE-VICC-328557-unk-1	ROS1-SDC4 fusion	yes	unknown		unknown
+BRCA1	672	VICC	GENIE-VICC-226565-unk-1	BRCA1-LOC100131347 truncation	yes	unknown		unknown
+EML4	27436	VICC	GENIE-VICC-645488-unk-1	ALK-EML4 fusion	yes	unknown		unknown
+EML4	27436	VICC	GENIE-VICC-889760-unk-1	ALK-EML4 fusion	yes	unknown		unknown
+EML4	27436	VICC	GENIE-VICC-199259-unk-1	ALK-EML4 fusion	yes	unknown		unknown
+EML4	27436	VICC	GENIE-VICC-356066-unk-1	ALK-EML4 fusion	yes	unknown		unknown
+EML4	27436	VICC	GENIE-VICC-874813-unk-1	ALK-EML4 fusion	yes	unknown		unknown
+ERBB2	2064	VICC	GENIE-VICC-199259-unk-1	ERBB2-GRB7 rearrangement	yes	unknown		unknown
+HIP1	3092	VICC	GENIE-VICC-588847-unk-1	ALK-HIP1 fusion	yes	unknown		unknown
+HIP1	3092	VICC	GENIE-VICC-588847-unk-2	ALK-HIP1 fusion	yes	unknown		unknown
+HIP1	3092	VICC	GENIE-VICC-588847-unk-3	ALK-HIP1 fusion	yes	unknown		unknown
+KIF5B	3799	VICC	GENIE-VICC-476409-unk-1	RET-KIF5B fusion	yes	unknown		unknown
+MAGI2	9863	VICC	GENIE-VICC-211570-unk-1	MAGI2-ZNF233 truncation	yes	unknown		unknown
+SDC4	6385	VICC	GENIE-VICC-328557-unk-1	ROS1-SDC4 fusion	yes	unknown		unknown
+TPM3	7170	VICC	GENIE-VICC-611118-unk-1	NTRK1-TPM3 fusion	yes	unknown		unknown
+PTEN	5728	VICC	GENIE-VICC-314304-unk-2	PTEN-intragenic	yes	unknown		unknown
+RET		MSK	GENIE-MSK-P-0016038-T01-IM6	RET-CCDC6 fusion - Archer	yes	unknown		unknown
+POLE		MSK	GENIE-MSK-P-0016910-T01-IM6	POLE-FBRSL1 fusion	yes	unknown		unknown
+CSF3R		MSK	GENIE-MSK-P-0017432-T01-IM6	CSF3R-intragenic	yes	unknown		out of frame
+NOTCH2		MSK	GENIE-MSK-P-0017284-T02-IM5	NOTCH2-NTNG1 fusion	yes	unknown		unknown
+ROS1		MSK	GENIE-MSK-P-0018222-T01-IM6	CD74-ROS1 fusion	yes	unknown		in frame
+NTRK1		MSK	GENIE-MSK-P-0018082-T01-IM6	NTRK1-TFG fusion	yes	unknown		in frame
+RET		MSK	GENIE-MSK-P-0017523-T02-IM6	RET-KIF5B fusion	yes	unknown		in frame
+TP53		MSK	GENIE-MSK-P-0018462-T01-IM6	TP53-intragenic	yes	unknown		unknown
+ROS1		MSK	GENIE-MSK-P-0018513-T01-IM6	CD74-ROS1 fusion	yes	unknown		unknown
+GNAS		MSK	GENIE-MSK-P-0018761-T01-IM6	GNAS-LINC01440 fusion	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0006950-T02-IM6	EML4-ALK fusion	yes	unknown		in frame
+PTPN11		MSK	GENIE-MSK-P-0019456-T01-IM6	PTPN11-intragenic	yes	unknown		out of frame
+NFE2L2		MSK	GENIE-MSK-P-0011537-T02-IM6	NFE2L2-intragenic	yes	unknown		unknown
+APC		MSK	GENIE-MSK-P-0008978-T02-IM6	APC-intragenic	yes	unknown		unknown
+NOTCH3		MSK	GENIE-MSK-P-0010507-T03-IM6	CNTNAP4-NOTCH3 fusion	yes	unknown		unknown
+STK11		MSK	GENIE-MSK-P-0010507-T03-IM6	STK11-intragenic	yes	unknown		unknown
+CDK4		MSK	GENIE-MSK-P-0019564-T01-IM6	CDK4-GNB3 fusion	yes	unknown		unknown
+MDM2		MSK	GENIE-MSK-P-0019564-T01-IM6	PTPRR-MDM2 fusion	yes	unknown		unknown
+MAP2K2		MSK	GENIE-MSK-P-0018979-T01-IM6	DNM2-MAP2K2 fusion	yes	unknown		out of frame
+NFKBIA		MSK	GENIE-MSK-P-0019600-T01-IM6	NFKBIA-intragenic	yes	unknown		unknown
+DNMT3B		MSK	GENIE-MSK-P-0019772-T01-IM6	DNMT3B-intragenic	yes	unknown		unknown
+NFE2L2		MSK	GENIE-MSK-P-0019966-T01-IM6	NFE2L2-intragenic	yes	unknown		unknown
+RET		MSK	GENIE-MSK-P-0019802-T01-IM6	TMEM65-RET fusion	yes	unknown		unknown
+BAP1		MSK	GENIE-MSK-P-0019936-T01-IM6	PHF7-BAP1 fusion	yes	unknown		unknown
+NBN		MSK	GENIE-MSK-P-0020158-T01-IM6	TG-NBN fusion	yes	unknown		out of frame
+CREBBP		MSK	GENIE-MSK-P-0019977-T01-IM6	CREBBP-intragenic	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0020408-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+APC		MSK	GENIE-MSK-P-0020290-T01-IM6	SRP19-APC fusion	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0020780-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+MET		MSK	GENIE-MSK-P-0019516-T01-IM6	MET-intragenic - Archer	yes	unknown		unknown
+ROS1		MSK	GENIE-MSK-P-0017752-T01-IM6	ROS1-SLC34A2 fusion - Archer	yes	unknown		unknown
+MET		MSK	GENIE-MSK-P-0019564-T01-IM6	MET-intragenic - Archer	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0018573-T01-IM6	ALK-EML4 fusion - Archer	yes	unknown		unknown
+TP53		MSK	GENIE-MSK-P-0016643-T01-IM6	TP53-intragenic	yes	unknown		unknown
+CDK12		MSK	GENIE-MSK-P-0017974-T01-IM6	CDK12-intragenic	yes	unknown		unknown
+ELF3		MSK	GENIE-MSK-P-0019370-T01-IM6	ELF3-intragenic	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0017592-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+ARID1A		MSK	GENIE-MSK-P-0019346-T01-IM6	ARID1A-intragenic	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0021257-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+CDKN2A	1029	VICC	GENIE-VICC-200629-unk-1	CDKN2A-intragenic	yes	unknown		unknown
+ATRX		MSK	GENIE-MSK-P-0010338-T01-IM5	C14orf176-ATRX fusion	yes	unknown		unknown
+ROS1		MSK	GENIE-MSK-P-0002912-T01-IM3	CD74-ROS1 fusion	yes	unknown		in frame
+ALK		MSK	GENIE-MSK-P-0021495-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+SMAD3		MSK	GENIE-MSK-P-0021630-T01-IM6	MTHFS-SMAD3 fusion	yes	unknown		unknown
+PARK2		MSK	GENIE-MSK-P-0021862-T01-IM6	PARK2-NPTX2 fusion	yes	unknown		unknown
+ROS1		MSK	GENIE-MSK-P-0022372-T01-IM6	ROS1-intragenic	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0022398-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+MET		MSK	GENIE-MSK-P-0014524-T03-IM6	MET-intragenic - Archer	yes	unknown		unknown
+ETV6		MSK	GENIE-MSK-P-0022579-T01-IM6	KIAA1467-ETV6 fusion	yes	unknown		in frame
+ALK		MSK	GENIE-MSK-P-0022529-T01-IM6	YPEL5-ALK fusion	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0022529-T01-IM6	ALK-KIF5B fusion - Archer	yes	unknown		unknown
+SMAD3		MSK	GENIE-MSK-P-0021630-T02-IM6	MTHFS-SMAD3 fusion	yes	unknown		unknown
+ASXL1		MSK	GENIE-MSK-P-0022684-T01-IM6	ASXL1-LINC01427 fusion	yes	unknown		unknown
+NOTCH4		MSK	GENIE-MSK-P-0022684-T01-IM6	LSG1-NOTCH4 fusion	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0022926-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+ROS1		MSK	GENIE-MSK-P-0023007-T01-IM6	ROS1-LRIG3 fusion	yes	unknown		in frame
+SHOC2		MSK	GENIE-MSK-P-0023014-T01-IM6	SHOC2-intragenic	yes	unknown		unknown
+TSC2		MSK	GENIE-MSK-P-0023014-T01-IM6	TSC2-SYNGR3 fusion	yes	unknown		unknown
+ZFHX3		MSK	GENIE-MSK-P-0008938-T04-IM6	ZFHX3-intragenic	yes	unknown		unknown
+PBRM1		MSK	GENIE-MSK-P-0008938-T04-IM6	PBRM1-intragenic	yes	unknown		out of frame
+RASA1		MSK	GENIE-MSK-P-0023310-T01-IM6	KIAA0825-RASA1 fusion	yes	unknown		unknown
+HGF		MSK	GENIE-MSK-P-0023366-T01-IM6	LAMB4-HGF fusion	yes	unknown		unknown
+NOTCH3		MSK	GENIE-MSK-P-0023471-T01-IM6	POU1F1-NOTCH3 fusion	yes	unknown		unknown
+BRIP1		MSK	GENIE-MSK-P-0023440-T01-IM6	ABCA5-BRIP1 fusion	yes	unknown		unknown
+FAT1		MSK	GENIE-MSK-P-0023532-T01-IM6	FAT1-FAM149A fusion	yes	unknown		unknown
+RET		MSK	GENIE-MSK-P-0016221-T02-IM6	RET-KIF5B fusion	yes	unknown		in frame
+RECQL4		MSK	GENIE-MSK-P-0023678-T01-IM6	LRRC24-RECQL4 fusion	yes	unknown		unknown
+RECQL4		MSK	GENIE-MSK-P-0006151-T02-IM6	RECQL4-ZMAT4 fusion	yes	unknown		unknown
+MAP2K4		MSK	GENIE-MSK-P-0024178-T01-IM6	PABPC1P2-MAP2K4 fusion	yes	unknown		unknown
+NSD1		MSK	GENIE-MSK-P-0024487-T01-IM6	NSD1-MIR4458 fusion	yes	unknown		unknown
+ERBB4		MSK	GENIE-MSK-P-0024844-T01-IM6	ERBB4-intragenic	yes	unknown		out of frame
+RET		MSK	GENIE-MSK-P-0024843-T01-IM6	RET-KIF5B fusion	yes	unknown		in frame
+INPPL1		MSK	GENIE-MSK-P-0024858-T01-IM6	INPPL1-NLRP6 fusion	yes	unknown		unknown
+ARID2		MSK	GENIE-MSK-P-0024858-T01-IM6	ARID2-TTTY3B fusion	yes	unknown		unknown
+ALK		MSK	GENIE-MSK-P-0024907-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+ROS1		MSK	GENIE-MSK-P-0025107-T01-IM6	CD74-ROS1 fusion	yes	unknown		in frame
+NTRK3		MSK	GENIE-MSK-P-0013859-T01-IM5	NTRK3-RBPMS fusion - Archer	yes	unknown		unknown
+ROS1		MSK	GENIE-MSK-P-0007870-T02-IM6	ROS1-ZNF157 fusion	yes	unknown		unknown
+RET		MSK	GENIE-MSK-P-0021879-T01-IM6	RET-KIF5B fusion	yes	unknown		in frame
+BRIP1		MSK	GENIE-MSK-P-0022174-T01-IM6	BRIP1-intragenic	yes	unknown		unknown
+EGFR		MSK	GENIE-MSK-P-0022427-T01-IM6	EGFR-intragenic	yes	unknown		unknown
+BRCA1		MSK	GENIE-MSK-P-0023102-T01-IM6	BRCA1-GAST fusion	yes	unknown		unknown
+CARM1		MSK	GENIE-MSK-P-0023324-T01-IM6	CARM1-DNM2 fusion	yes	unknown		out of frame
+ETV6		MSK	GENIE-MSK-P-0025601-T01-IM6	ETV6-PRH1-PRR4 fusion	yes	unknown		unknown
+ATRX		MSK	GENIE-MSK-P-0025691-T01-IM6	NSDHL-ATRX fusion	yes	unknown		unknown
+EP300		MSK	GENIE-MSK-P-0025642-T01-IM6	EP300-intragenic	yes	unknown		out of frame
+PIK3C2G		MSK	GENIE-MSK-P-0025741-T02-IM6	CAPZA3-PIK3C2G fusion	yes	unknown		unknown
+HOXB13		MSK	GENIE-MSK-P-0025741-T02-IM6	HOXB13-intragenic	yes	unknown		unknown
+ETV6		MSK	GENIE-MSK-P-0025601-T02-IM6	ETV6-PRH1-PRR4 fusion	yes	unknown		unknown
+NFKBIA		MSK	GENIE-MSK-P-0026033-T01-IM6	MBIP-NFKBIA fusion	yes	unknown		unknown
+APC		MSK	GENIE-MSK-P-0022184-T01-IM6	APC-intragenic	yes	unknown		unknown
+CHEK2	11200	VICC	GENIE-VICC-219157-unk-1	CHEK2-PITPNB fusion	yes	unknown		unknown
+STAT4	6775	VICC	GENIE-VICC-221384-unk-1	STAT4-WASF2 fusion	yes	unknown		unknown
+CDKN2A		MSK	GENIE-MSK-P-0009958-T01-IM5	CDKN2A-intragenic	yes	unknown		unknown
+KMT2D		MSK	GENIE-MSK-P-0021675-T01-IM6	KMT2D-KANSL2 fusion	yes	unknown		unknown
+CDKN2A		MSK	GENIE-MSK-P-0022458-T01-IM6	CDKN2B-AS1-CDKN2A fusion	yes	unknown		unknown
+CDKN2A		MSK	GENIE-MSK-P-0016575-T01-IM6	TUSC1-CDKN2A fusion	yes	unknown		unknown
+RFC4		MSK	GENIE-MSK-P-0014809-T01-IM6	RFC4-EIF4A2 fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0008764-T02-IM6	ALK-KIF5B fusion	yes	unknown		unknown
+TPPP		MSK	GENIE-MSK-P-0011157-T01-IM5	TERT-TPPP fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0013825-T01-IM5	RET-KIF5B fusion	yes	unknown		unknown
+ATP1B2		MSK	GENIE-MSK-P-0012773-T01-IM5	TP53-ATP1B2 fusion	yes	unknown		unknown
+RAP1GDS1		MSK	GENIE-MSK-P-0012919-T01-IM5	RAP1GDS1-KDR fusion	yes	unknown		unknown
+SERPINE2		MSK	GENIE-MSK-P-0010741-T01-IM5	CUL3-SERPINE2 fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0013886-T01-IM5	EML4-RET fusion	yes	unknown		unknown
+EIF3H		MSK	GENIE-MSK-P-0014120-T01-IM5	XRCC2-EIF3H fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0011018-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+GYG2P1		MSK	GENIE-MSK-P-0012864-T01-IM5	NCOA3-GYG2P1 fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0012778-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+NRG1		MSK	GENIE-MSK-P-0011180-T01-IM5	CD74-NRG1 fusion	yes	unknown		unknown
+CD74		MSK	GENIE-MSK-P-0011180-T01-IM5	CD74-NRG1 fusion	yes	unknown		unknown
+MBD3		MSK	GENIE-MSK-P-0012373-T01-IM5	TCF3-MBD3 fusion	yes	unknown		out of frame
+TACC3		MSK	GENIE-MSK-P-0012373-T01-IM5	FGFR3-TACC3 fusion	yes	unknown		in frame
+PIGV		MSK	GENIE-MSK-P-0013379-T01-IM5	PIGV-ARID1A fusion	yes	unknown		unknown
+C14orf176		MSK	GENIE-MSK-P-0010338-T01-IM5	C14orf176-ATRX fusion	yes	unknown		unknown
+SUCLG2		MSK	GENIE-MSK-P-0013867-T01-IM5	SUCLG2-RHOA fusion	yes	unknown		unknown
+CD74		MSK	GENIE-MSK-P-0012525-T01-IM5	CD74-ROS1 fusion	yes	unknown		in frame
+RASGEF1C		MSK	GENIE-MSK-P-0014222-T01-IM6	RASGEF1C-CRKL fusion	yes	unknown		unknown
+SDC4		MSK	GENIE-MSK-P-0012008-T01-IM5	ROS1-SDC4 fusion	yes	unknown		in frame
+CNTNAP4		MSK	GENIE-MSK-P-0010507-T01-IM5	CNTNAP4-NOTCH3 fusion	yes	unknown		unknown
+CDCA8		MSK	GENIE-MSK-P-0010247-T01-IM5	CDCA8-FANCA fusion	yes	unknown		in frame
+BCL11B		MSK	GENIE-MSK-P-0014496-T01-IM6	AKT1-BCL11B fusion	yes	unknown		unknown
+FBXO31		MSK	GENIE-MSK-P-0015075-T01-IM6	FANCA-FBXO31 fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0010041-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+MIDN		MSK	GENIE-MSK-P-0005191-T01-IM5	MIDN-STK11 fusion	yes	unknown		out of frame
+PSMD14		MSK	GENIE-MSK-P-0009702-T01-IM5	PSMD14-TP53 fusion	yes	unknown		unknown
+AGAP3		MSK	GENIE-MSK-P-0007861-T01-IM5	AGAP3-BRAF fusion	yes	unknown		in frame
+TRIB2		MSK	GENIE-MSK-P-0009301-T01-IM5	MSH6-TRIB2 fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0009301-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+MKRN1		MSK	GENIE-MSK-P-0004996-T02-IM5	MKRN1-SMO fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0009102-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+PTPRZ1		MSK	GENIE-MSK-P-0008915-T01-IM5	PTPRZ1-MET fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0005573-T01-IM5	RET-KIF5B fusion	yes	unknown		in frame
+ZMAT4		MSK	GENIE-MSK-P-0006151-T01-IM5	RECQL4-ZMAT4 fusion	yes	unknown		unknown
+LOC285954		MSK	GENIE-MSK-P-0008650-T02-IM5	LOC285954-INHBA fusion	yes	unknown		unknown
+SP2		MSK	GENIE-MSK-P-0005034-T01-IM5	SP2-NF1 fusion	yes	unknown		unknown
+MYH14		MSK	GENIE-MSK-P-0005034-T01-IM5	POLD1-MYH14 fusion	yes	unknown		unknown
+LOC442459		MSK	GENIE-MSK-P-0008427-T01-IM5	BTK-LOC442459 fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0008764-T01-IM5	ALK-KIF5B fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0009353-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+DAZAP2		MSK	GENIE-MSK-P-0006640-T01-IM5	ERBB3-DAZAP2 fusion	yes	unknown		unknown
+MCF2L2		MSK	GENIE-MSK-P-0006896-T01-IM5	TP63-MCF2L2 fusion	yes	unknown		in frame
+NUP107		MSK	GENIE-MSK-P-0009590-T01-IM5	NUP107-ARID2 fusion	yes	unknown		unknown
+KIAA1267		MSK	GENIE-MSK-P-0005903-T01-IM5	BRIP1-KIAA1267 fusion	yes	unknown		unknown
+BCAS1		MSK	GENIE-MSK-P-0008757-T01-IM5	BCAS1-NCOA3 fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0009514-T01-IM5	RET-KIF5B fusion	yes	unknown		in frame
+EML4		MSK	GENIE-MSK-P-0006950-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+SND1		MSK	GENIE-MSK-P-0004103-T01-IM5	BRAF-SND1 fusion	yes	unknown		in frame
+CD74		MSK	GENIE-MSK-P-0004336-T01-IM5	CD74-ROS1 fusion	yes	unknown		in frame
+CD74		MSK	GENIE-MSK-P-0002912-T01-IM3	CD74-ROS1 fusion	yes	unknown		in frame
+EML4		MSK	GENIE-MSK-P-0003446-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+OXSR1		MSK	GENIE-MSK-P-0005931-T01-IM5	OXSR1-MYD88 fusion	yes	unknown		in frame
+RALGAPB		MSK	GENIE-MSK-P-0013705-T01-IM5	RALGAPB-ASXL1 fusion	yes	unknown		unknown
+SOX2OT		MSK	GENIE-MSK-P-0005353-T01-IM5	SOX2OT-SOX2 fusion	yes	unknown		unknown
+FBN2		MSK	GENIE-MSK-P-0014366-T01-IM6	RAD50-FBN2 fusion	yes	unknown		unknown
+USP34		MSK	GENIE-MSK-P-0004827-T01-IM5	XPO1-USP34 fusion	yes	unknown		in frame
+TRIM69		MSK	GENIE-MSK-P-0011268-T01-IM5	TRIM69-B2M fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0020780-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+EML4		MSK	GENIE-MSK-P-0021495-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+MTHFS		MSK	GENIE-MSK-P-0021630-T01-IM6	MTHFS-SMAD3 fusion	yes	unknown		unknown
+KANSL2		MSK	GENIE-MSK-P-0021675-T01-IM6	KMT2D-KANSL2 fusion	yes	unknown		unknown
+NPTX2		MSK	GENIE-MSK-P-0021862-T01-IM6	PARK2-NPTX2 fusion	yes	unknown		unknown
+CD74		MSK	GENIE-MSK-P-0022372-T01-IM6	NBPF20-CD74 fusion	yes	unknown		unknown
+NBPF20		MSK	GENIE-MSK-P-0022372-T01-IM6	NBPF20-CD74 fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0022398-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+KIAA1467		MSK	GENIE-MSK-P-0022579-T01-IM6	KIAA1467-ETV6 fusion	yes	unknown		in frame
+YPEL5		MSK	GENIE-MSK-P-0022529-T01-IM6	YPEL5-ALK fusion	yes	unknown		unknown
+MTHFS		MSK	GENIE-MSK-P-0021630-T02-IM6	MTHFS-SMAD3 fusion	yes	unknown		unknown
+LINC01427		MSK	GENIE-MSK-P-0022684-T01-IM6	ASXL1-LINC01427 fusion	yes	unknown		unknown
+LSG1		MSK	GENIE-MSK-P-0022684-T01-IM6	LSG1-NOTCH4 fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0022926-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+LRIG3		MSK	GENIE-MSK-P-0023007-T01-IM6	ROS1-LRIG3 fusion	yes	unknown		in frame
+SYNGR3		MSK	GENIE-MSK-P-0023014-T01-IM6	TSC2-SYNGR3 fusion	yes	unknown		unknown
+KIAA0825		MSK	GENIE-MSK-P-0023310-T01-IM6	KIAA0825-RASA1 fusion	yes	unknown		unknown
+LAMB4		MSK	GENIE-MSK-P-0023366-T01-IM6	LAMB4-HGF fusion	yes	unknown		unknown
+POU1F1		MSK	GENIE-MSK-P-0023471-T01-IM6	POU1F1-NOTCH3 fusion	yes	unknown		unknown
+ABCA5		MSK	GENIE-MSK-P-0023440-T01-IM6	ABCA5-BRIP1 fusion	yes	unknown		unknown
+FAM149A		MSK	GENIE-MSK-P-0023532-T01-IM6	FAT1-FAM149A fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0016221-T02-IM6	RET-KIF5B fusion	yes	unknown		in frame
+LRRC24		MSK	GENIE-MSK-P-0023678-T01-IM6	LRRC24-RECQL4 fusion	yes	unknown		unknown
+ZMAT4		MSK	GENIE-MSK-P-0006151-T02-IM6	RECQL4-ZMAT4 fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0007424-T01-IM5	RET-KIF5B fusion	yes	unknown		in frame
+EML4		MSK	GENIE-MSK-P-0014385-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+EML4		MSK	GENIE-MSK-P-0002408-T02-IM5	EML4-ALK fusion	yes	unknown		in frame
+EML4		MSK	GENIE-MSK-P-0006313-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+CCDC6		MSK	GENIE-MSK-P-0008955-T03-IM5	CCDC6-RET fusion	yes	unknown		in frame
+EML4		MSK	GENIE-MSK-P-0021257-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+KIF5B		MSK	GENIE-MSK-P-0011035-T01-IM5	RET-KIF5B fusion	yes	unknown		in frame
+EML4		MSK	GENIE-MSK-P-0005321-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+PABPC1P2		MSK	GENIE-MSK-P-0024178-T01-IM6	PABPC1P2-MAP2K4 fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0024843-T01-IM6	RET-KIF5B fusion	yes	unknown		in frame
+NLRP6		MSK	GENIE-MSK-P-0024858-T01-IM6	INPPL1-NLRP6 fusion	yes	unknown		unknown
+TTTY3B		MSK	GENIE-MSK-P-0024858-T01-IM6	ARID2-TTTY3B fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0024907-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+CD74		MSK	GENIE-MSK-P-0025107-T01-IM6	CD74-ROS1 fusion	yes	unknown		in frame
+AGK		MSK	GENIE-MSK-P-0001832-T02-IM6	AGK-BRAF fusion	yes	unknown		in frame
+KIF5B		MSK	GENIE-MSK-P-0002694-T02-IM5	RET-KIF5B fusion	yes	unknown		in frame
+UNCX		MSK	GENIE-MSK-P-0006221-T02-IM5	MITF-UNCX fusion	yes	unknown		unknown
+ZNF157		MSK	GENIE-MSK-P-0007870-T02-IM6	ROS1-ZNF157 fusion	yes	unknown		unknown
+LOC100128811		MSK	GENIE-MSK-P-0009431-T01-IM5	LOC100128811-GATA3 fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0012648-T01-IM5	RET-KIF5B fusion	yes	unknown		in frame
+EML4		MSK	GENIE-MSK-P-0013202-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+C1QL1		MSK	GENIE-MSK-P-0014506-T01-IM6	RPTOR-C1QL1 fusion	yes	unknown		unknown
+CD74		MSK	GENIE-MSK-P-0014506-T01-IM6	CD74-ROS1 fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0014808-T01-IM6	RET-KIF5B fusion	yes	unknown		in frame
+ERCC6		MSK	GENIE-MSK-P-0014808-T01-IM6	ERCC6-RET fusion	yes	unknown		out of frame
+KIF5B		MSK	GENIE-MSK-P-0021879-T01-IM6	RET-KIF5B fusion	yes	unknown		in frame
+GAST		MSK	GENIE-MSK-P-0023102-T01-IM6	BRCA1-GAST fusion	yes	unknown		unknown
+DNM2		MSK	GENIE-MSK-P-0023324-T01-IM6	CARM1-DNM2 fusion	yes	unknown		out of frame
+PRH1-PRR4		MSK	GENIE-MSK-P-0025601-T01-IM6	ETV6-PRH1-PRR4 fusion	yes	unknown		unknown
+NSDHL		MSK	GENIE-MSK-P-0025691-T01-IM6	NSDHL-ATRX fusion	yes	unknown		unknown
+CAPZA3		MSK	GENIE-MSK-P-0025741-T02-IM6	CAPZA3-PIK3C2G fusion	yes	unknown		unknown
+PRH1-PRR4		MSK	GENIE-MSK-P-0025601-T02-IM6	ETV6-PRH1-PRR4 fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0006950-T02-IM6	EML4-ALK fusion	yes	unknown		in frame
+CNTNAP4		MSK	GENIE-MSK-P-0010507-T03-IM6	CNTNAP4-NOTCH3 fusion	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0015110-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+TACC3		MSK	GENIE-MSK-P-0015195-T01-IM6	FGFR3-TACC3 fusion	yes	unknown		in frame
+PKD1		MSK	GENIE-MSK-P-0015414-T01-IM6	TRAF7-PKD1 fusion	yes	unknown		unknown
+COL11A2		MSK	GENIE-MSK-P-0015600-T01-IM6	COL11A2-TAP1 fusion	yes	unknown		unknown
+C6orf118		MSK	GENIE-MSK-P-0016175-T01-IM6	C6orf118-DNMT3B fusion	yes	unknown		unknown
+EYS		MSK	GENIE-MSK-P-0016175-T01-IM6	ROS1-EYS fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0016221-T01-IM6	RET-KIF5B fusion	yes	unknown		in frame
+TUSC1		MSK	GENIE-MSK-P-0016575-T01-IM6	TUSC1-CDKN2A fusion	yes	unknown		unknown
+FBRSL1		MSK	GENIE-MSK-P-0016910-T01-IM6	POLE-FBRSL1 fusion	yes	unknown		unknown
+NTNG1		MSK	GENIE-MSK-P-0017284-T02-IM5	NOTCH2-NTNG1 fusion	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0017523-T02-IM6	RET-KIF5B fusion	yes	unknown		in frame
+EML4		MSK	GENIE-MSK-P-0017592-T01-IM5	EML4-ALK fusion	yes	unknown		in frame
+TFG		MSK	GENIE-MSK-P-0018082-T01-IM6	NTRK1-TFG fusion	yes	unknown		in frame
+CD74		MSK	GENIE-MSK-P-0018222-T01-IM6	CD74-ROS1 fusion	yes	unknown		in frame
+CD74		MSK	GENIE-MSK-P-0018513-T01-IM6	CD74-ROS1 fusion	yes	unknown		unknown
+LINC01440		MSK	GENIE-MSK-P-0018761-T01-IM6	GNAS-LINC01440 fusion	yes	unknown		unknown
+DNM2		MSK	GENIE-MSK-P-0018979-T01-IM6	DNM2-MAP2K2 fusion	yes	unknown		out of frame
+NRG1		MSK	GENIE-MSK-P-0019346-T01-IM6	CD74-NRG1 fusion	yes	unknown		unknown
+CD74		MSK	GENIE-MSK-P-0019346-T01-IM6	CD74-NRG1 fusion	yes	unknown		unknown
+GNB3		MSK	GENIE-MSK-P-0019564-T01-IM6	CDK4-GNB3 fusion	yes	unknown		unknown
+PTPRR		MSK	GENIE-MSK-P-0019564-T01-IM6	PTPRR-MDM2 fusion	yes	unknown		unknown
+TMEM65		MSK	GENIE-MSK-P-0019802-T01-IM6	TMEM65-RET fusion	yes	unknown		unknown
+PHF7		MSK	GENIE-MSK-P-0019936-T01-IM6	PHF7-BAP1 fusion	yes	unknown		unknown
+TG		MSK	GENIE-MSK-P-0020158-T01-IM6	TG-NBN fusion	yes	unknown		out of frame
+EML4		MSK	GENIE-MSK-P-0020408-T01-IM6	EML4-ALK fusion	yes	unknown		in frame
+MBIP		MSK	GENIE-MSK-P-0026033-T01-IM6	MBIP-NFKBIA fusion	yes	unknown		unknown
+SHC1		MSK	GENIE-MSK-P-0009748-T01-IM5	SHC1-ERBB2 fusion	yes	unknown		unknown
+SRP19		MSK	GENIE-MSK-P-0020290-T01-IM6	SRP19-APC fusion	yes	unknown		unknown
+MIR4458		MSK	GENIE-MSK-P-0024487-T01-IM6	NSD1-MIR4458 fusion	yes	unknown		unknown
+CDKN2B-AS1		MSK	GENIE-MSK-P-0022458-T01-IM6	CDKN2B-AS1-CDKN2A fusion	yes	unknown		unknown
+CD74		MSK	GENIE-MSK-P-0010507-T03-IM6	NRG1-CD74 fusion - Archer	yes	unknown		unknown
+NRG1		MSK	GENIE-MSK-P-0010507-T03-IM6	NRG1-CD74 fusion - Archer	yes	unknown		unknown
+RBPMS		MSK	GENIE-MSK-P-0013859-T01-IM5	NTRK3-RBPMS fusion - Archer	yes	unknown		unknown
+SLC3A2		MSK	GENIE-MSK-P-0014968-T03-IM6	NRG1-SLC3A2 fusion - Archer	yes	unknown		unknown
+NRG1		MSK	GENIE-MSK-P-0014968-T03-IM6	NRG1-SLC3A2 fusion - Archer	yes	unknown		unknown
+SLC3A2		MSK	GENIE-MSK-P-0014968-T05-IM6	NRG1-SLC3A2 fusion - Archer	yes	unknown		unknown
+NRG1		MSK	GENIE-MSK-P-0014968-T05-IM6	NRG1-SLC3A2 fusion - Archer	yes	unknown		unknown
+CCDC6		MSK	GENIE-MSK-P-0016038-T01-IM6	RET-CCDC6 fusion - Archer	yes	unknown		unknown
+repeat		MSK	GENIE-MSK-P-0016175-T01-IM6	repeat-intragenic - Archer	yes	unknown		unknown
+insufficient		MSK	GENIE-MSK-P-0016903-T01-IM6	insufficient-intragenic - Archer	yes	unknown		unknown
+SLC34A2		MSK	GENIE-MSK-P-0017752-T01-IM6	ROS1-SLC34A2 fusion - Archer	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0018573-T01-IM6	ALK-EML4 fusion - Archer	yes	unknown		unknown
+KIF5B		MSK	GENIE-MSK-P-0022529-T01-IM6	ALK-KIF5B fusion - Archer	yes	unknown		unknown
+SDC4		MSK	GENIE-MSK-P-0022765-T01-IM6	NRG1-SDC4 fusion - Archer	yes	unknown		unknown
+NRG1		MSK	GENIE-MSK-P-0022765-T01-IM6	NRG1-SDC4 fusion - Archer	yes	unknown		unknown
+SLC3A2		MSK	GENIE-MSK-P-0025836-T01-IM6	NRG1-SLC3A2 fusion - Archer	yes	unknown		unknown
+NRG1		MSK	GENIE-MSK-P-0025836-T01-IM6	NRG1-SLC3A2 fusion - Archer	yes	unknown		unknown
+GRB7	2886	VICC	GENIE-VICC-199259-unk-1	ERBB2-GRB7 rearrangement	yes	unknown		unknown
+LOC100131347	100131347	VICC	GENIE-VICC-226565-unk-1	BRCA1-LOC100131347 truncation	yes	unknown		unknown
+PITPNB	23760	VICC	GENIE-VICC-219157-unk-1	CHEK2-PITPNB fusion	yes	unknown		unknown
+TACC3	10460	VICC	GENIE-VICC-113334-unk-1	FGFR3-TACC3 fusion	yes	unknown		unknown
+TACC3	10460	VICC	GENIE-VICC-599899-unk-2	FGFR3-TACC3 fusion	yes	unknown		unknown
+WASF2	10163	VICC	GENIE-VICC-221384-unk-1	STAT4-WASF2 fusion	yes	unknown		unknown
+ZNF233	353355	VICC	GENIE-VICC-211570-unk-1	MAGI2-ZNF233 truncation	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0015434-T01-IM6	ALK-EML4 fusion	yes	unknown		in frame
+ALK		MSK	GENIE-MSK-P-0015434-T01-IM6	ALK-EML4 fusion	yes	unknown		in frame
+LANCL2		MSK	GENIE-MSK-P-0025018-T01-IM6	EGFR-LANCL2 fusion	yes	unknown		out of frame
+EGFR		MSK	GENIE-MSK-P-0025018-T01-IM6	EGFR-LANCL2 fusion	yes	unknown		out of frame
+ALK		DFCI	GENIE-DFCI-003908-234520	ALK-EML4	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-003908-234520	ALK-INTERGENIC	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-003908-234520	EML4-ALK	yes	unknown	unknown	
+NF1		DFCI	GENIE-DFCI-003551-6941	NF1-INTRAGENIC	yes	unknown	unknown	
+ARID2		DFCI	GENIE-DFCI-001893-6973	ARID2-INTERGENIC	yes	unknown	unknown	
+XPO1		DFCI	GENIE-DFCI-001893-6973	XPO1-INTERGENIC	yes	unknown	unknown	
+XPO1		DFCI	GENIE-DFCI-001893-6973	XPO1-INTRAGENIC	yes	unknown	unknown	
+NF1		DFCI	GENIE-DFCI-009914-7662	NF1-INTRAGENIC	yes	unknown	unknown	
+STAT3		DFCI	GENIE-DFCI-009923-7425	STAT3-INTERGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-010065-8219	EGFR-INTRAGENIC	yes	unknown	unknown	
+TP53		DFCI	GENIE-DFCI-010065-8219	TP53-INTRAGENIC	yes	unknown	unknown	
+CBLB		DFCI	GENIE-DFCI-003050-8254	CBLB-INTRAGENIC	yes	unknown	unknown	
+KMT2A		DFCI	GENIE-DFCI-010089-8091	KMT2A-INTRAGENIC	yes	unknown	unknown	
+PTPRD		DFCI	GENIE-DFCI-010501-10826	PTPRD-INTRAGENIC	yes	unknown	unknown	
+RB1		DFCI	GENIE-DFCI-010501-10826	RB1-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-011572-10680	EGFR-INTRAGENIC	yes	unknown	unknown	
+MYBL1		DFCI	GENIE-DFCI-000675-10166	MYBL1-INTERGENIC	yes	unknown	unknown	
+KMT2D		DFCI	GENIE-DFCI-004141-10921	KMT2D-INTRAGENIC	yes	unknown	unknown	
+MYC		DFCI	GENIE-DFCI-004141-10921	MYC-INTERGENIC	yes	unknown	unknown	
+NTRK2		DFCI	GENIE-DFCI-004141-10921	NTRK2-INTRAGENIC	yes	unknown	unknown	
+KEAP1		DFCI	GENIE-DFCI-000957-10669	KEAP1-INTRAGENIC	yes	unknown	unknown	
+JAK2		DFCI	GENIE-DFCI-011032-11302	JAK2-INTRAGENIC	yes	unknown	unknown	
+CDKN2A		DFCI	GENIE-DFCI-011075-11364	CDKN2A-CDKN2B	yes	unknown	unknown	
+CDKN2B		DFCI	GENIE-DFCI-011075-11364	CDKN2B-CDKN2A	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-011711-11434	ALK-CLTC	yes	unknown	unknown	
+CLTC		DFCI	GENIE-DFCI-011711-11434	CLTC-ALK	yes	unknown	unknown	
+EP300		DFCI	GENIE-DFCI-001908-11435	EP300-SEZ6L	yes	unknown	unknown	
+SEZ6L		DFCI	GENIE-DFCI-001908-11435	SEZ6L-EP300	yes	unknown	unknown	
+EP300		DFCI	GENIE-DFCI-011119-11403	EP300-INTERGENIC	yes	unknown	unknown	
+KDM6B		DFCI	GENIE-DFCI-011119-11403	KDM6B-INTRAGENIC	yes	unknown	unknown	
+TP53		DFCI	GENIE-DFCI-001247-10575	TP53-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-001349-10591	EGFR-INTRAGENIC	yes	unknown	unknown	
+AXL		DFCI	GENIE-DFCI-011511-11072	AXL-INTRAGENIC	yes	unknown	unknown	
+BRAF		DFCI	GENIE-DFCI-011107-11109	BRAF-VPS50	yes	unknown	unknown	
+VPS50		DFCI	GENIE-DFCI-011107-11109	VPS50-BRAF	yes	unknown	unknown	
+IDH1		DFCI	GENIE-DFCI-011042-11761	IDH1-INTRAGENIC	yes	unknown	unknown	
+BCL2L1		DFCI	GENIE-DFCI-000583-11175	BCL2L1-LYPD6B	yes	unknown	unknown	
+LYPD6B		DFCI	GENIE-DFCI-000583-11175	LYPD6B-BCL2L1	yes	unknown	unknown	
+BRCA1		DFCI	GENIE-DFCI-002560-11595	BRCA1-FRY	yes	unknown	unknown	
+FRY		DFCI	GENIE-DFCI-002560-11595	FRY-BRCA1	yes	unknown	unknown	
+FGFR2		DFCI	GENIE-DFCI-011149-11810	FGFR2-NPM1	yes	unknown	unknown	
+NPM1		DFCI	GENIE-DFCI-011149-11810	NPM1-FGFR2	yes	unknown	unknown	
+GLI3		DFCI	GENIE-DFCI-004567-11681	GLI3-INTRAGENIC	yes	unknown	unknown	
+BRCA1		DFCI	GENIE-DFCI-010744-11725	BRCA1-NPAS1	yes	unknown	unknown	
+NPAS1		DFCI	GENIE-DFCI-010744-11725	NPAS1-BRCA1	yes	unknown	unknown	
+IKZF3		DFCI	GENIE-DFCI-022473-23963	IKZF3-NF1	yes	unknown	unknown	
+NF1		DFCI	GENIE-DFCI-022473-23963	NF1-IKZF3	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-023756-23969	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-023756-23969	EML4-ALK	yes	unknown	unknown	
+DDX59		DFCI	GENIE-DFCI-012884-23870	DDX59-H3F3A	yes	unknown	unknown	
+H3F3A		DFCI	GENIE-DFCI-012884-23870	H3F3A-DDX59	yes	unknown	unknown	
+ARID2		DFCI	GENIE-DFCI-026750-36062	ARID2-INTRAGENIC	yes	unknown	unknown	
+KMT2D		DFCI	GENIE-DFCI-025340-48812	KMT2D-INTRAGENIC	yes	unknown	unknown	
+PTEN		DFCI	GENIE-DFCI-025340-48812	PTEN-INTRAGENIC	yes	unknown	unknown	
+RUNX1		DFCI	GENIE-DFCI-036434-61523	RUNX1-INTRAGENIC	yes	unknown	unknown	
+ARID1A		DFCI	GENIE-DFCI-037804-60988	ARID1A-INTRAGENIC	yes	unknown	unknown	
+TRAF7		DFCI	GENIE-DFCI-036650-73211	TRAF7-INTRAGENIC	yes	unknown	unknown	
+KMT2D		DFCI	GENIE-DFCI-036537-74566	KMT2D-TPH2	yes	unknown	unknown	
+TPH2		DFCI	GENIE-DFCI-036537-74566	TPH2-KMT2D	yes	unknown	unknown	
+SDHAF2		DFCI	GENIE-DFCI-036612-74585	SDHAF2-INTRAGENIC	yes	unknown	unknown	
+GNAS		DFCI	GENIE-DFCI-029716-74708	GNAS-INTRAGENIC	yes	unknown	unknown	
+XRCC1		DFCI	GENIE-DFCI-026839-74775	XRCC1-INTERGENIC	yes	unknown	unknown	
+CXCR4		DFCI	GENIE-DFCI-036632-88303	CXCR4-INTRAGENIC	yes	unknown	unknown	
+MUS81		DFCI	GENIE-DFCI-036632-88303	MUS81-INTERGENIC	yes	unknown	unknown	
+ERBB2		DFCI	GENIE-DFCI-034904-74821	ERBB2-INTRAGENIC	yes	unknown	unknown	
+FAT1		DFCI	GENIE-DFCI-036659-88358	FAT1-INTRAGENIC	yes	unknown	unknown	
+RARA		DFCI	GENIE-DFCI-036852-88767	RARA-TRIM65	yes	unknown	unknown	
+TRIM65		DFCI	GENIE-DFCI-036852-88767	TRIM65-RARA	yes	unknown	unknown	
+OCIAD1		DFCI	GENIE-DFCI-038028-74835	OCIAD1-SMARCB1	yes	unknown	unknown	
+SMARCB1		DFCI	GENIE-DFCI-038028-74835	SMARCB1-OCIAD1	yes	unknown	unknown	
+AP3M2		DFCI	GENIE-DFCI-037186-88739	AP3M2-POLB	yes	unknown	unknown	
+POLB		DFCI	GENIE-DFCI-037186-88739	POLB-AP3M2	yes	unknown	unknown	
+SMARCB1		DFCI	GENIE-DFCI-037184-88734	SMARCB1-INTRAGENIC	yes	unknown	unknown	
+RAD51		DFCI	GENIE-DFCI-034156-88577	RAD51-INTERGENIC	yes	unknown	unknown	
+RHBDF2		DFCI	GENIE-DFCI-034156-88577	RHBDF2-INTERGENIC	yes	unknown	unknown	
+ERBB2		DFCI	GENIE-DFCI-036548-88514	ERBB2-INTRAGENIC	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-037262-130463	ROS1-INTRAGENIC	yes	unknown	unknown	
+TP53		DFCI	GENIE-DFCI-037262-130463	TP53-INTRAGENIC	yes	unknown	unknown	
+STK11		DFCI	GENIE-DFCI-024693-130340	STK11-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-037682-130665	EGFR-INTRAGENIC	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-036465-130622	ALK-EML4	yes	unknown	unknown	
+BRCC3		DFCI	GENIE-DFCI-036465-130622	BRCC3-PLXNA3	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-036465-130622	EML4-ALK	yes	unknown	unknown	
+PLXNA3		DFCI	GENIE-DFCI-036465-130622	PLXNA3-BRCC3	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-036465-350902	ALK-INTERGENIC	yes	unknown	unknown	
+BRCC3		DFCI	GENIE-DFCI-036465-350902	BRCC3-PLXNA3	yes	unknown	unknown	
+PLXNA3		DFCI	GENIE-DFCI-036465-350902	PLXNA3-BRCC3	yes	unknown	unknown	
+MTMR12		DFCI	GENIE-DFCI-036630-158148	MTMR12-RICTOR	yes	unknown	unknown	
+RICTOR		DFCI	GENIE-DFCI-036630-158148	RICTOR-MTMR12	yes	unknown	unknown	
+ZNF276		DFCI	GENIE-DFCI-036630-158148	ZNF276-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-032806-158188	EGFR-INTRAGENIC	yes	unknown	unknown	
+MLH3		DFCI	GENIE-DFCI-032806-158188	MLH3-INTRAGENIC	yes	unknown	unknown	
+KMT2A		DFCI	GENIE-DFCI-036452-158996	KMT2A-ZBTB16	yes	unknown	unknown	
+ZBTB16		DFCI	GENIE-DFCI-036452-158996	ZBTB16-KMT2A	yes	unknown	unknown	
+COL7A1		DFCI	GENIE-DFCI-024377-159027	COL7A1-KCNH7	yes	unknown	unknown	
+KCNH7		DFCI	GENIE-DFCI-024377-159027	KCNH7-COL7A1	yes	unknown	unknown	
+MED12		DFCI	GENIE-DFCI-024377-159027	MED12-INTRAGENIC	yes	unknown	unknown	
+CD74		DFCI	GENIE-DFCI-053263-173727	CD74-ROS1	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-053263-173727	ROS1-CD74	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-053263-173727	ROS1-INTERGENIC	yes	unknown	unknown	
+RET		DFCI	GENIE-DFCI-037708-158965	RET-INTERGENIC	yes	unknown	unknown	
+TMPRSS2		DFCI	GENIE-DFCI-042509-188462	TMPRSS2-INTRAGENIC	yes	unknown	unknown	
+RBM10		DFCI	GENIE-DFCI-053482-188552	RBM10-INTRAGENIC	yes	unknown	unknown	
+RICTOR		DFCI	GENIE-DFCI-046105-188567	RICTOR-INTRAGENIC	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-053214-173764	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-053214-173764	EML4-ALK	yes	unknown	unknown	
+NKX2-1		DFCI	GENIE-DFCI-050802-218657	NKX2-1-INTRAGENIC	yes	unknown	unknown	
+XRCC1		DFCI	GENIE-DFCI-050802-218657	XRCC1-INTRAGENIC	yes	unknown	unknown	
+YAP1		DFCI	GENIE-DFCI-051008-218635	YAP1-INTRAGENIC	yes	unknown	unknown	
+CD74		DFCI	GENIE-DFCI-052146-218535	CD74-ROS1	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-052146-218535	ROS1-CD74	yes	unknown	unknown	
+SMAD4		DFCI	GENIE-DFCI-039428-203686	SMAD4-INTRAGENIC	yes	unknown	unknown	
+DIS3		DFCI	GENIE-DFCI-050785-218968	DIS3-INTERGENIC	yes	unknown	unknown	
+RBM10		DFCI	GENIE-DFCI-051178-218960	RBM10-INTRAGENIC	yes	unknown	unknown	
+EBF2		DFCI	GENIE-DFCI-049429-218917	EBF2-NRG1	yes	unknown	unknown	
+NRG1		DFCI	GENIE-DFCI-049429-218917	NRG1-EBF2	yes	unknown	unknown	
+CBL		DFCI	GENIE-DFCI-051153-249903	CBL-INTRAGENIC	yes	unknown	unknown	
+CD74		DFCI	GENIE-DFCI-051204-250099	CD74-NRG1	yes	unknown	unknown	
+NRG1		DFCI	GENIE-DFCI-051204-250099	NRG1-CD74	yes	unknown	unknown	
+FGFR2		DFCI	GENIE-DFCI-051231-234472	FGFR2-INTRAGENIC	yes	unknown	unknown	
+RINT1		DFCI	GENIE-DFCI-051231-234472	RINT1-INTRAGENIC	yes	unknown	unknown	
+SMARCA4		DFCI	GENIE-DFCI-047949-250289	SMARCA4-INTRAGENIC	yes	unknown	unknown	
+GNAS		DFCI	GENIE-DFCI-051954-250294	GNAS-INTRAGENIC	yes	unknown	unknown	
+SDHC		DFCI	GENIE-DFCI-089888-266215	SDHC-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-089256-266253	EGFR-INTRAGENIC	yes	unknown	unknown	
+CYLD		DFCI	GENIE-DFCI-092626-265782	CYLD-INTERGENIC	yes	unknown	unknown	
+BARD1		DFCI	GENIE-DFCI-089200-265422	BARD1-INTRAGENIC	yes	unknown	unknown	
+FUS		DFCI	GENIE-DFCI-089200-265422	FUS-INTRAGENIC	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-089200-265422	MET-INTRAGENIC	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-090170-266320	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-090170-266320	EML4-ALK	yes	unknown	unknown	
+RECQL4		DFCI	GENIE-DFCI-090179-266243	RECQL4-INTRAGENIC	yes	unknown	unknown	
+SMARCA4		DFCI	GENIE-DFCI-090179-266243	SMARCA4-INTRAGENIC	yes	unknown	unknown	
+ARID1A		DFCI	GENIE-DFCI-090159-266363	ARID1A-INTRAGENIC	yes	unknown	unknown	
+BFSP2		DFCI	GENIE-DFCI-090159-266363	BFSP2-TOPBP1	yes	unknown	unknown	
+TOPBP1		DFCI	GENIE-DFCI-090159-266363	TOPBP1-BFSP2	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-089430-266345	EGFR-INTRAGENIC	yes	unknown	unknown	
+RET		DFCI	GENIE-DFCI-087503-282063	RET-INTERGENIC	yes	unknown	unknown	
+CCDC6		DFCI	GENIE-DFCI-090492-298923	CCDC6-RET	yes	unknown	unknown	
+RET		DFCI	GENIE-DFCI-090492-298923	RET-CCDC6	yes	unknown	unknown	
+RET		DFCI	GENIE-DFCI-090492-298923	RET-INTERGENIC	yes	unknown	unknown	
+ASXL1		DFCI	GENIE-DFCI-080759-315342	ASXL1-BPIFA2	yes	unknown	unknown	
+BPIFA2		DFCI	GENIE-DFCI-080759-315342	BPIFA2-ASXL1	yes	unknown	unknown	
+EWSR1		DFCI	GENIE-DFCI-077267-299210	EWSR1-INTRAGENIC	yes	unknown	unknown	
+CCDC17		DFCI	GENIE-DFCI-090831-299026	CCDC17-SDHA	yes	unknown	unknown	
+SDHA		DFCI	GENIE-DFCI-090831-299026	SDHA-CCDC17	yes	unknown	unknown	
+NRG1		DFCI	GENIE-DFCI-090529-299021	NRG1-UBXN8	yes	unknown	unknown	
+UBXN8		DFCI	GENIE-DFCI-090529-299021	UBXN8-NRG1	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-090238-298953	EGFR-INTRAGENIC	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-087881-298996	MET-INTRAGENIC	yes	unknown	unknown	
+CD74		DFCI	GENIE-DFCI-078051-298963	CD74-ROS1	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-078051-298963	ROS1-CD74	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-090235-332380	EGFR-INTRAGENIC	yes	unknown	unknown	
+RICTOR		DFCI	GENIE-DFCI-076542-349852	RICTOR-SKP2	yes	unknown	unknown	
+SKP2		DFCI	GENIE-DFCI-076542-349852	SKP2-RICTOR	yes	unknown	unknown	
+UIMC1		DFCI	GENIE-DFCI-076542-349852	UIMC1-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-091153-332899	EGFR-INTRAGENIC	yes	unknown	unknown	
+HNF1A		DFCI	GENIE-DFCI-090518-332961	HNF1A-INTRAGENIC	yes	unknown	unknown	
+ASXL1		DFCI	GENIE-DFCI-089765-332935	ASXL1-INTRAGENIC	yes	unknown	unknown	
+RUNX1		DFCI	GENIE-DFCI-089765-332935	RUNX1-INTRAGENIC	yes	unknown	unknown	
+TSC2		DFCI	GENIE-DFCI-089765-332935	TSC2-INTRAGENIC	yes	unknown	unknown	
+STK11		DFCI	GENIE-DFCI-091465-332994	STK11-INTRAGENIC	yes	unknown	unknown	
+SH2B3		DFCI	GENIE-DFCI-089970-350195	SH2B3-INTRAGENIC	yes	unknown	unknown	
+CCDC127		DFCI	GENIE-DFCI-078645-332867	CCDC127-INTERGENIC	yes	unknown	unknown	
+FAAP24		DFCI	GENIE-DFCI-078645-332867	FAAP24-INTERGENIC	yes	unknown	unknown	
+FGFR1		DFCI	GENIE-DFCI-091529-332886	FGFR1-INTERGENIC	yes	unknown	unknown	
+BRCA1		DFCI	GENIE-DFCI-091886-350669	BRCA1-CERS5	yes	unknown	unknown	
+CERS5		DFCI	GENIE-DFCI-091886-350669	CERS5-BRCA1	yes	unknown	unknown	
+MAP2K1		DFCI	GENIE-DFCI-091176-349705	MAP2K1-INTRAGENIC	yes	unknown	unknown	
+RPA1		DFCI	GENIE-DFCI-091839-350603	RPA1-INTRAGENIC	yes	unknown	unknown	
+RBM10		DFCI	GENIE-DFCI-079893-350629	RBM10-INTRAGENIC	yes	unknown	unknown	
+TP53		DFCI	GENIE-DFCI-084770-350654	TP53-INTRAGENIC	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-091864-350575	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-091864-350575	EML4-ALK	yes	unknown	unknown	
+KMT2A		DFCI	GENIE-DFCI-088558-350475	KMT2A-INTERGENIC	yes	unknown	unknown	
+TP53		DFCI	GENIE-DFCI-089713-350905	TP53-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-077966-350878	EGFR-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-088313-350890	EGFR-INTRAGENIC	yes	unknown	unknown	
+RB1		DFCI	GENIE-DFCI-088313-350890	RB1-INTERGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-107582-436252	EGFR-INTRAGENIC	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-112311-436322	MET-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-108426-437039	EGFR-INTRAGENIC	yes	unknown	unknown	
+CARM1		DFCI	GENIE-DFCI-108464-436839	CARM1-SMARCA4	yes	unknown	unknown	
+SMARCA4		DFCI	GENIE-DFCI-108464-436839	SMARCA4-CARM1	yes	unknown	unknown	
+STK11		DFCI	GENIE-DFCI-108464-436839	STK11-INTRAGENIC	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-097821-436860	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-097821-436860	EML4-ALK	yes	unknown	unknown	
+GNAS		DFCI	GENIE-DFCI-110862-437180	GNAS-INTRAGENIC	yes	unknown	unknown	
+MTOR		DFCI	GENIE-DFCI-110862-437180	MTOR-RLF	yes	unknown	unknown	
+RLF		DFCI	GENIE-DFCI-110862-437180	RLF-MTOR	yes	unknown	unknown	
+ERBB2		DFCI	GENIE-DFCI-109793-437257	ERBB2-INTERGENIC	yes	unknown	unknown	
+BABAM1		DFCI	GENIE-DFCI-098574-437246	BABAM1-INTERGENIC	yes	unknown	unknown	
+CDKN1C		DFCI	GENIE-DFCI-107057-526403	CDKN1C-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-107057-526403	EGFR-INTRAGENIC	yes	unknown	unknown	
+RAD52		DFCI	GENIE-DFCI-106618-662736	RAD52-INTERGENIC	yes	unknown	unknown	
+KEAP1		DFCI	GENIE-DFCI-099707-616843	KEAP1-INTRAGENIC	yes	unknown	unknown	
+STK11		DFCI	GENIE-DFCI-097548-571477	STK11-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-096109-571631	EGFR-INTRAGENIC	yes	unknown	unknown	
+AGMO		DFCI	GENIE-DFCI-098010-571632	AGMO-ETV6	yes	unknown	unknown	
+ETV6		DFCI	GENIE-DFCI-098010-571632	ETV6-AGMO	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-095700-571645	EGFR-INTRAGENIC	yes	unknown	unknown	
+NBN		DFCI	GENIE-DFCI-102617-571869	NBN-NECAB1	yes	unknown	unknown	
+NECAB1		DFCI	GENIE-DFCI-102617-571869	NECAB1-NBN	yes	unknown	unknown	
+KMT2D		DFCI	GENIE-DFCI-097823-664104	KMT2D-INTRAGENIC	yes	unknown	unknown	
+RHBDF2		DFCI	GENIE-DFCI-097823-664104	RHBDF2-INTERGENIC	yes	unknown	unknown	
+SMARCA4		DFCI	GENIE-DFCI-097823-664104	SMARCA4-INTRAGENIC	yes	unknown	unknown	
+PPFIA1		DFCI	GENIE-DFCI-095812-664028	PPFIA1-SLC34A2	yes	unknown	unknown	
+SLC34A2		DFCI	GENIE-DFCI-095812-664028	SLC34A2-INTERGENIC	yes	unknown	unknown	
+SLC34A2		DFCI	GENIE-DFCI-095812-664028	SLC34A2-PPFIA1	yes	unknown	unknown	
+KMT2D		DFCI	GENIE-DFCI-095916-571927	KMT2D-INTERGENIC	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-095916-571927	MET-INTRAGENIC	yes	unknown	unknown	
+KIF1B		DFCI	GENIE-DFCI-110232-571824	KIF1B-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-110180-571944	EGFR-INTRAGENIC	yes	unknown	unknown	
+KIF5B		DFCI	GENIE-DFCI-097981-571947	KIF5B-RET	yes	unknown	unknown	
+PRKDC		DFCI	GENIE-DFCI-097981-571947	PRKDC-INTRAGENIC	yes	unknown	unknown	
+RET		DFCI	GENIE-DFCI-097981-571947	RET-KIF5B	yes	unknown	unknown	
+USP28		DFCI	GENIE-DFCI-097981-571947	USP28-INTRAGENIC	yes	unknown	unknown	
+KEAP1		DFCI	GENIE-DFCI-102366-571948	KEAP1-INTRAGENIC	yes	unknown	unknown	
+NRG1		DFCI	GENIE-DFCI-110683-571931	NRG1-SLC3A2	yes	unknown	unknown	
+SLC3A2		DFCI	GENIE-DFCI-110683-571931	SLC3A2-NRG1	yes	unknown	unknown	
+ARPP21		DFCI	GENIE-DFCI-111494-617830	ARPP21-MLH1	yes	unknown	unknown	
+LRRFIP2		DFCI	GENIE-DFCI-111494-617830	LRRFIP2-MLH1	yes	unknown	unknown	
+MLH1		DFCI	GENIE-DFCI-111494-617830	MLH1-ARPP21	yes	unknown	unknown	
+MLH1		DFCI	GENIE-DFCI-111494-617830	MLH1-LRRFIP2	yes	unknown	unknown	
+FGFR3		DFCI	GENIE-DFCI-111506-664115	FGFR3-TACC3	yes	unknown	unknown	
+GATA6		DFCI	GENIE-DFCI-111506-664115	GATA6-INTRAGENIC	yes	unknown	unknown	
+SETBP1		DFCI	GENIE-DFCI-111506-664115	SETBP1-INTERGENIC	yes	unknown	unknown	
+TACC3		DFCI	GENIE-DFCI-111506-664115	TACC3-FGFR3	yes	unknown	unknown	
+SMARCA4		DFCI	GENIE-DFCI-096914-617757	SMARCA4-INTRAGENIC	yes	unknown	unknown	
+EZR		DFCI	GENIE-DFCI-125743-1288013	EZR-ROS1	yes	unknown	unknown	
+RNPC3		DFCI	GENIE-DFCI-125743-1288013	RNPC3-ROS1	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-125743-1288013	ROS1-EZR	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-125743-1288013	ROS1-RNPC3	yes	unknown	unknown	
+PDGFRA		DFCI	GENIE-DFCI-145016-1291056	PDGFRA-SCFD2	yes	unknown	unknown	
+SCFD2		DFCI	GENIE-DFCI-145016-1291056	SCFD2-PDGFRA	yes	unknown	unknown	
+CD74		DFCI	GENIE-DFCI-001808-10083	CD74-ROS1	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-001808-10083	MET-WAC	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-001808-10083	ROS1-CD74	yes	unknown	unknown	
+WAC		DFCI	GENIE-DFCI-001808-10083	WAC-MET	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-007616-10540	ALK-EML4	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-007616-10540	ALK-SLC8A1	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-007616-10540	EML4-ALK	yes	unknown	unknown	
+SLC8A1		DFCI	GENIE-DFCI-007616-10540	SLC8A1-ALK	yes	unknown	unknown	
+CBL		DFCI	GENIE-DFCI-003188-6213	CBL-INTRAGENIC	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-003133-439	MET-INTRAGENIC	yes	unknown	unknown	
+KIF5B		DFCI	GENIE-DFCI-007370-5222	KIF5B-RET	yes	unknown	unknown	
+RET		DFCI	GENIE-DFCI-007370-5222	RET-KIF5B	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-007313-5204	MET-INTRAGENIC	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-007313-8639	MET-INTRAGENIC	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-007313-8648	MET-INTRAGENIC	yes	unknown	unknown	
+TP53		DFCI	GENIE-DFCI-008292-5034	TP53-INTRAGENIC	yes	unknown	unknown	
+ESR1		DFCI	GENIE-DFCI-008320-5010	ESR1-FKBP5	yes	unknown	unknown	
+FKBP5		DFCI	GENIE-DFCI-008320-5010	FKBP5-ESR1	yes	unknown	unknown	
+SMC3		DFCI	GENIE-DFCI-008267-5802	SMC3-INTRAGENIC	yes	unknown	unknown	
+NTRK1		DFCI	GENIE-DFCI-005417-5762	NTRK1-SQSTM1	yes	unknown	unknown	
+SQSTM1		DFCI	GENIE-DFCI-005417-5762	SQSTM1-NTRK1	yes	unknown	unknown	
+CCND3		DFCI	GENIE-DFCI-006938-5788	CCND3-INTERGENIC	yes	unknown	unknown	
+BRAF		DFCI	GENIE-DFCI-001751-130657	BRAF-ESYT2	yes	unknown	unknown	
+ESYT2		DFCI	GENIE-DFCI-001751-130657	ESYT2-BRAF	yes	unknown	unknown	
+BRAF		DFCI	GENIE-DFCI-001751-481754	BRAF-ESYT2	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-001751-481754	EGFR-INTRAGENIC	yes	unknown	unknown	
+ESYT2		DFCI	GENIE-DFCI-001751-481754	ESYT2-BRAF	yes	unknown	unknown	
+CDKN2A		DFCI	GENIE-DFCI-007797-5438	CDKN2A-INTRAGENIC	yes	unknown	unknown	
+STK11		DFCI	GENIE-DFCI-003736-5440	STK11-INTRAGENIC	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-007789-5519	MET-INTERGENIC	yes	unknown	unknown	
+SLC2A5		DFCI	GENIE-DFCI-007703-5449	SLC2A5-SMC1A	yes	unknown	unknown	
+SMC1A		DFCI	GENIE-DFCI-007703-5449	SMC1A-SLC2A5	yes	unknown	unknown	
+PIK3R1		DFCI	GENIE-DFCI-008075-6361	PIK3R1-INTRAGENIC	yes	unknown	unknown	
+ABCA3		DFCI	GENIE-DFCI-008034-6174	ABCA3-TSC2	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-008034-6174	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-008034-6174	EML4-ALK	yes	unknown	unknown	
+TSC2		DFCI	GENIE-DFCI-008034-6174	TSC2-ABCA3	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-008083-6276	ALK-AUTS2	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-008083-6276	ALK-HIP1	yes	unknown	unknown	
+AUTS2		DFCI	GENIE-DFCI-008083-6276	AUTS2-ALK	yes	unknown	unknown	
+HIP1		DFCI	GENIE-DFCI-008083-6276	HIP1-ALK	yes	unknown	unknown	
+TET2		DFCI	GENIE-DFCI-008083-6276	TET2-INTRAGENIC	yes	unknown	unknown	
+TP53		DFCI	GENIE-DFCI-008085-8477	TP53-INTRAGENIC	yes	unknown	unknown	
+ABL1		DFCI	GENIE-DFCI-008085-11361	ABL1-TMEM196	yes	unknown	unknown	
+TMEM196		DFCI	GENIE-DFCI-008085-11361	TMEM196-ABL1	yes	unknown	unknown	
+TP53		DFCI	GENIE-DFCI-008085-11361	TP53-INTRAGENIC	yes	unknown	unknown	
+HERC4		DFCI	GENIE-DFCI-002209-437266	HERC4-PTEN	yes	unknown	unknown	
+PTEN		DFCI	GENIE-DFCI-002209-437266	PTEN-HERC4	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-009048-5925	MET-INTRAGENIC	yes	unknown	unknown	
+SDHA		DFCI	GENIE-DFCI-007588-6045	SDHA-INTRAGENIC	yes	unknown	unknown	
+CCND1		DFCI	GENIE-DFCI-007672-6675	CCND1-IGH	yes	unknown	unknown	
+ERBB2		DFCI	GENIE-DFCI-000372-6573	ERBB2-INTERGENIC	yes	unknown	unknown	
+FOLH1B		DFCI	GENIE-DFCI-009059-6606	FOLH1B-KMT2A	yes	unknown	unknown	
+KMT2A		DFCI	GENIE-DFCI-009059-6606	KMT2A-FOLH1B	yes	unknown	unknown	
+CCDC6		DFCI	GENIE-DFCI-001583-6568	CCDC6-RET	yes	unknown	unknown	
+RET		DFCI	GENIE-DFCI-001583-6568	RET-CCDC6	yes	unknown	unknown	
+CCDC6		DFCI	GENIE-DFCI-001583-9841	CCDC6-RET	yes	unknown	unknown	
+RET		DFCI	GENIE-DFCI-001583-9841	RET-CCDC6	yes	unknown	unknown	
+GNA11		DFCI	GENIE-DFCI-002806-6497	GNA11-INTRAGENIC	yes	unknown	unknown	
+KDM5C		DFCI	GENIE-DFCI-008692-11735	KDM5C-INTRAGENIC	yes	unknown	unknown	
+CD74		DFCI	GENIE-DFCI-000611-7225	CD74-ROS1	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-000611-7225	ROS1-CD74	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-008726-6967	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-008726-6967	EML4-ALK	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-008627-6976	EGFR-INTRAGENIC	yes	unknown	unknown	
+TSC2		DFCI	GENIE-DFCI-008627-6976	TSC2-INTRAGENIC	yes	unknown	unknown	
+NF1		DFCI	GENIE-DFCI-008705-7830	NF1-INTRAGENIC	yes	unknown	unknown	
+PBRM1		DFCI	GENIE-DFCI-007294-7829	PBRM1-INTRAGENIC	yes	unknown	unknown	
+IKZF3		DFCI	GENIE-DFCI-001095-7703	IKZF3-NEUROD2	yes	unknown	unknown	
+NEUROD2		DFCI	GENIE-DFCI-001095-7703	NEUROD2-IKZF3	yes	unknown	unknown	
+RBL2		DFCI	GENIE-DFCI-001095-7703	RBL2-INTRAGENIC	yes	unknown	unknown	
+ACP2		DFCI	GENIE-DFCI-001825-7743	ACP2-DDB2	yes	unknown	unknown	
+DDB2		DFCI	GENIE-DFCI-001825-7743	DDB2-ACP2	yes	unknown	unknown	
+MET		DFCI	GENIE-DFCI-002671-7466	MET-INTRAGENIC	yes	unknown	unknown	
+CDKN2B		DFCI	GENIE-DFCI-008911-8035	CDKN2B-ZDHHC21	yes	unknown	unknown	
+ZDHHC21		DFCI	GENIE-DFCI-008911-8035	ZDHHC21-CDKN2B	yes	unknown	unknown	
+CDKN2B		DFCI	GENIE-DFCI-008911-11526	CDKN2B-ZDHHC21	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-008911-11526	EGFR-INTRAGENIC	yes	unknown	unknown	
+ZDHHC21		DFCI	GENIE-DFCI-008911-11526	ZDHHC21-CDKN2B	yes	unknown	unknown	
+KEAP1		DFCI	GENIE-DFCI-009975-8053	KEAP1-INTRAGENIC	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-008968-8195	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-008968-8195	EML4-ALK	yes	unknown	unknown	
+CDKN2A		DFCI	GENIE-DFCI-009458-8199	CDKN2A-INTRAGENIC	yes	unknown	unknown	
+MSH2		DFCI	GENIE-DFCI-000735-7895	MSH2-RP11	yes	unknown	unknown	
+RP11		DFCI	GENIE-DFCI-000735-7895	RP11-MSH2	yes	unknown	unknown	
+MSH6		DFCI	GENIE-DFCI-000735-437254	MSH6-INTERGENIC	yes	unknown	unknown	
+CDKN2A		DFCI	GENIE-DFCI-002860-7930	CDKN2A-INTRAGENIC	yes	unknown	unknown	
+TP53		DFCI	GENIE-DFCI-008574-7904	TP53-INTRAGENIC	yes	unknown	unknown	
+AKT1		DFCI	GENIE-DFCI-008557-8702	AKT1-INTRAGENIC	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-009620-8718	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-009620-8718	EML4-ALK	yes	unknown	unknown	
+CTNNBL1		DFCI	GENIE-DFCI-008417-8638	CTNNBL1-NOTCH2	yes	unknown	unknown	
+NOTCH2		DFCI	GENIE-DFCI-008417-8638	NOTCH2-CTNNBL1	yes	unknown	unknown	
+MYC		DFCI	GENIE-DFCI-010071-8568	MYC-INTERGENIC	yes	unknown	unknown	
+CDKN2A		DFCI	GENIE-DFCI-009649-8323	CDKN2A-INTRAGENIC	yes	unknown	unknown	
+KDM6B		DFCI	GENIE-DFCI-009649-8323	KDM6B-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-002140-8484	EGFR-INTRAGENIC	yes	unknown	unknown	
+ASXL1		DFCI	GENIE-DFCI-009632-8474	ASXL1-INTRAGENIC	yes	unknown	unknown	
+APC		DFCI	GENIE-DFCI-001305-8426	APC-INTRAGENIC	yes	unknown	unknown	
+SF3B1		DFCI	GENIE-DFCI-010565-9148	SF3B1-INTRAGENIC	yes	unknown	unknown	
+ABCB11		DFCI	GENIE-DFCI-001883-250238	ABCB11-BRINP3	yes	unknown	unknown	
+BRINP3		DFCI	GENIE-DFCI-001883-250238	BRINP3-ABCB11	yes	unknown	unknown	
+CTD		DFCI	GENIE-DFCI-003755-9052	CTD-ROS1	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-003755-9052	ROS1-CTD	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-007846-9019	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-007846-9019	EML4-ALK	yes	unknown	unknown	
+EP300		DFCI	GENIE-DFCI-007632-8925	EP300-INTRAGENIC	yes	unknown	unknown	
+CYLD		DFCI	GENIE-DFCI-009890-7654	CYLD-INTRAGENIC	yes	unknown	unknown	
+MSH6		DFCI	GENIE-DFCI-009890-7654	MSH6-INTRAGENIC	yes	unknown	unknown	
+PRKDC		DFCI	GENIE-DFCI-004361-7435	PRKDC-SPIDR	yes	unknown	unknown	
+SPIDR		DFCI	GENIE-DFCI-004361-7435	SPIDR-PRKDC	yes	unknown	unknown	
+RB1		DFCI	GENIE-DFCI-010600-8498	RB1-INTERGENIC	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-010965-9441	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-010965-9441	EML4-ALK	yes	unknown	unknown	
+BCOR		DFCI	GENIE-DFCI-010184-9538	BCOR-INTRAGENIC	yes	unknown	unknown	
+CDKN2A		DFCI	GENIE-DFCI-010184-9538	CDKN2A-INTRAGENIC	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-010920-9534	ROS1-SDC4	yes	unknown	unknown	
+SDC4		DFCI	GENIE-DFCI-010920-9534	SDC4-ROS1	yes	unknown	unknown	
+RDX		DFCI	GENIE-DFCI-010656-9868	RDX-ROS1	yes	unknown	unknown	
+ROS1		DFCI	GENIE-DFCI-010656-9868	ROS1-RDX	yes	unknown	unknown	
+CREB5		DFCI	GENIE-DFCI-009838-8525	CREB5-INTERGENIC	yes	unknown	unknown	
+ETV1		DFCI	GENIE-DFCI-009838-8525	ETV1-INTERGENIC	yes	unknown	unknown	
+MDM2		DFCI	GENIE-DFCI-010864-8849	MDM2-INTERGENIC	yes	unknown	unknown	
+FLT4		DFCI	GENIE-DFCI-001485-8870	FLT4-INTRAGENIC	yes	unknown	unknown	
+PIK3R1		DFCI	GENIE-DFCI-000371-9475	PIK3R1-INTERGENIC	yes	unknown	unknown	
+MAP3K1		DFCI	GENIE-DFCI-010265-9952	MAP3K1-INTERGENIC	yes	unknown	unknown	
+KDM6B		DFCI	GENIE-DFCI-004109-9799	KDM6B-INTRAGENIC	yes	unknown	unknown	
+EPHA3		DFCI	GENIE-DFCI-001319-9642	EPHA3-INTRAGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-010444-9656	EGFR-INTRAGENIC	yes	unknown	unknown	
+KDM6B		DFCI	GENIE-DFCI-000410-10003	KDM6B-INTRAGENIC	yes	unknown	unknown	
+GLI3		DFCI	GENIE-DFCI-010390-10539	GLI3-INTERGENIC	yes	unknown	unknown	
+EGFR		DFCI	GENIE-DFCI-010365-9955	EGFR-INTRAGENIC	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-010314-9801	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-010314-9801	EML4-ALK	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-011371-10451	ALK-STRN	yes	unknown	unknown	
+STRN		DFCI	GENIE-DFCI-011371-10451	STRN-ALK	yes	unknown	unknown	
+CSF1R		DFCI	GENIE-DFCI-011394-10087	CSF1R-INTRAGENIC	yes	unknown	unknown	
+WRN		DFCI	GENIE-DFCI-010460-10096	WRN-INTRAGENIC	yes	unknown	unknown	
+NAB2		DFCI	GENIE-DFCI-010355-218622	NAB2-INTRAGENIC	yes	unknown	unknown	
+BRIP1		DFCI	GENIE-DFCI-011415-10402	BRIP1-INTRAGENIC	yes	unknown	unknown	
+RET		DFCI	GENIE-DFCI-011355-10295	RET-INTERGENIC	yes	unknown	unknown	
+RET		DFCI	GENIE-DFCI-011355-298969	RET-INTERGENIC	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-003392-10946	ALK-EML4	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-003392-10946	EML4-ALK	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-004022-8691	ALK-EML4	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-004022-8691	ALK-LPIN1	yes	unknown	unknown	
+DIS3L2		DFCI	GENIE-DFCI-004022-8691	DIS3L2-SF3B1	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-004022-8691	EML4-ALK	yes	unknown	unknown	
+LPIN1		DFCI	GENIE-DFCI-004022-8691	LPIN1-ALK	yes	unknown	unknown	
+SF3B1		DFCI	GENIE-DFCI-004022-8691	SF3B1-DIS3L2	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-004022-88532	ALK-EML4	yes	unknown	unknown	
+DIS3L2		DFCI	GENIE-DFCI-004022-88532	DIS3L2-SF3B1	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-004022-88532	EML4-ALK	yes	unknown	unknown	
+SF3B1		DFCI	GENIE-DFCI-004022-88532	SF3B1-DIS3L2	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-004022-203666	ALK-EML4	yes	unknown	unknown	
+ALK		DFCI	GENIE-DFCI-004022-203666	ALK-LPIN1	yes	unknown	unknown	
+DIS3L2		DFCI	GENIE-DFCI-004022-203666	DIS3L2-SF3B1	yes	unknown	unknown	
+EML4		DFCI	GENIE-DFCI-004022-203666	EML4-ALK	yes	unknown	unknown	
+LPIN1		DFCI	GENIE-DFCI-004022-203666	LPIN1-ALK	yes	unknown	unknown	
+SF3B1		DFCI	GENIE-DFCI-004022-203666	SF3B1-DIS3L2	yes	unknown	unknown	
+ROS1	6098	VICC	GENIE-VICC-328557-unk-3	ROS1-SDC4 fusion	yes	unknown		unknown
+SDC4	6385	VICC	GENIE-VICC-328557-unk-3	ROS1-SDC4 fusion	yes	unknown		unknown
+KMT2D		MSK	GENIE-MSK-P-0015759-T01-IM6	KMT2D-intragenic	yes	unknown		unknown
+IGH		DFCI	GENIE-DFCI-007672-6675	IGH-CCND1	yes	unknown	unknown	
+CD74		MSK	GENIE-MSK-P-0011025-T01-IM5	ROS1-CD74 fusion	yes	unknown		in frame
+ROS1		MSK	GENIE-MSK-P-0011025-T01-IM5	ROS1-CD74 fusion	yes	unknown		in frame
+EML4		MSK	GENIE-MSK-P-0005786-T01-IM5	ALK-EML4 fusion	yes	unknown		in frame
+ALK		MSK	GENIE-MSK-P-0005786-T01-IM5	ALK-EML4 fusion	yes	unknown		in frame
+ERRFI1		MSK	GENIE-MSK-P-0006713-T01-IM5	ERRFI1-intragenic	yes	unknown		unknown
+EML4		MSK	GENIE-MSK-P-0022184-T01-IM6	ALK-EML4 fusion	yes	unknown		in frame
+ALK		MSK	GENIE-MSK-P-0022184-T01-IM6	ALK-EML4 fusion	yes	unknown		in frame
+KMT2A		MSK	GENIE-MSK-P-0022198-T01-IM6	KMT2A-intragenic	yes	unknown		unknown

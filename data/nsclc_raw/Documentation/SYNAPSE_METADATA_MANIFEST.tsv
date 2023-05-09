@@ -1,0 +1,4 @@
+path	parent	name	id	synapseStore	contentType	used	executed	activityName	activityDescription
+/home/kchen/Documents/genie_crc/data/nsclc_raw/Documentation/BPC_NSCLC_v2.0-public_variable_synopsis.xlsx	syn29288688	BPC_NSCLC_v2.0-public_variable_synopsis.xlsx	syn30557312	True	application/vnd.openxmlformats-officedocument.spreadsheetml.sheet				
+/home/kchen/Documents/genie_crc/data/nsclc_raw/Documentation/GENIE BPC cBioPortal Variable Crosswalk_NSCLC_PUBLIC.pdf	syn29288688	GENIE BPC cBioPortal Variable Crosswalk_NSCLC_PUBLIC.pdf	syn29288708	True	application/pdf				
+/home/kchen/Documents/genie_crc/data/nsclc_raw/Documentation/GENIE BPC NSCLC v2.0-public Analytic Data Guide v4.pdf	syn29288688	GENIE BPC NSCLC v2.0-public Analytic Data Guide.pdf	syn30557304	True	application/pdf				

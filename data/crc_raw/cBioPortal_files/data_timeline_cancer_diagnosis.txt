@@ -1,0 +1,1832 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	CA_HIST_ADENO_SQUAMOUS	AGE_DX	CA_D_TYPE	CA_HISTOLOGY	CA_N_REGIMENS	CANCER_NO	CA_TX_PRE_PATH_STAGE	INDEX_CANCER	STAGE_DX
+GENIE-DFCI-000048	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-DFCI-000147	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage II
+GENIE-DFCI-000233	-2264		Diagnosis		40	Uterus Cancer	Squamous cell carcinoma in situ, NOS	0	1		No	Stage 0
+GENIE-DFCI-000233	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	2	Yes	Yes	Stage III
+GENIE-DFCI-000247	0		Diagnosis	Adenocarcinoma	63	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	1		Yes	Stage IV
+GENIE-DFCI-000247	54		Diagnosis		64	Thymus Cancer		0	2	No	No	
+GENIE-DFCI-000306	0		Diagnosis	Adenocarcinoma	55	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-000311	0		Diagnosis	Adenocarcinoma	82	Colon and Rectum	Adenocarcinoma, NOS	0	1		Yes	Stage II
+GENIE-DFCI-000311	1694		Diagnosis		86	Breast	Invasive carcinoma of no special type	1	2	No	No	Stage I
+GENIE-DFCI-000738	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Mucinous adenocarcinoma	3	0		Yes	Stage III
+GENIE-DFCI-000924	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-000946	0		Diagnosis	Adenocarcinoma	82	Colon and Rectum	Adenocarcinoma, NOS	6	1		Yes	Stage III
+GENIE-DFCI-000946	706		Diagnosis		84	Brain Cancer	Glioblastoma, NOS	0	2		No	
+GENIE-DFCI-000971	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma in adenomatous polyp	8	0		Yes	Stage IV
+GENIE-DFCI-000998	-3524		Diagnosis		65	Prostate Cancer	Adenocarcinoma, NOS	0	1		No	Stage II
+GENIE-DFCI-000998	0		Diagnosis		75	Colon and Rectum		0	2	No	Yes	Stage II
+GENIE-DFCI-001038	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-DFCI-001081	-6009		Diagnosis		34	Brain Cancer	Astrocytoma, anaplastic	1	1		No	Stage IV
+GENIE-DFCI-001081	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Mucinous adenocarcinoma	1	2		Yes	Stage II
+GENIE-DFCI-001131	0		Diagnosis	Adenocarcinoma	80	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage III
+GENIE-DFCI-001199	0		Diagnosis	Adenocarcinoma	81	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-001229	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-DFCI-001267	0		Diagnosis	Adenocarcinoma	83	Colon and Rectum	Adenocarcinoma, NOS	1	1		Yes	Stage II
+GENIE-DFCI-001267	1301		Diagnosis		87	Pancreatic Cancer		1	2	Yes	No	
+GENIE-DFCI-001271	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-001292	0		Diagnosis	Adenocarcinoma	73	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-DFCI-001303	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Mucinous adenocarcinoma	0	0		Yes	Stage II
+GENIE-DFCI-001463	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	5	0	No	Yes	Stage I
+GENIE-DFCI-001506	-9080		Diagnosis		49	Head and Neck Cancer	Sq. cell carcinoma, lg. cell, non-ker.	1	1		No	Stage IV
+GENIE-DFCI-001506	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma, NOS	7	2		Yes	Stage IV
+GENIE-DFCI-001506	0		Diagnosis		74	Esophagus Cancer		2	3	Not Applicable	No	Stage I
+GENIE-DFCI-001534	0		Diagnosis	Adenocarcinoma	41	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	2	0		Yes	Stage III
+GENIE-DFCI-001557	-3094		Diagnosis		55	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	1		No	Stage III
+GENIE-DFCI-001557	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	2		Yes	Stage I
+GENIE-DFCI-001755	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-001776	-4384		Diagnosis		38	Breast	Invasive carcinoma of no special type	1	1		No	Stage I
+GENIE-DFCI-001776	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	0	2		Yes	Stage I
+GENIE-DFCI-001824	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage III
+GENIE-DFCI-001858	-12468		Diagnosis		2	Wilms Tumor	Nephroblastoma, NOS	1	1		No	Stage IV
+GENIE-DFCI-001858	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma in adenomatous polyp	3	2		Yes	Stage IV
+GENIE-DFCI-001858	0		Diagnosis		36	Colon and Rectum		3	3	No	No	
+GENIE-DFCI-001898	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-002377	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	1	1	No	Yes	Stage II
+GENIE-DFCI-002377	478		Diagnosis		59	Thyroid Cancer	Papillary carcinoma, follicular variant	0	2		No	Stage III
+GENIE-DFCI-002377	2466		Diagnosis		65	Prostate Cancer	Adenocarcinoma, NOS	1	3		No	Stage II
+GENIE-DFCI-002412	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-002499	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-002507	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma in adenomatous polyp	8	0		Yes	Stage IV
+GENIE-DFCI-002513	0		Diagnosis	Adenocarcinoma	73	Colon and Rectum	Adenocarcinoma, NOS	7	1		Yes	Stage IV
+GENIE-DFCI-002513	403		Diagnosis		74	Renal Kidney Cancer		0	2	No	No	
+GENIE-DFCI-002518	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-DFCI-002539	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-DFCI-002561	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-DFCI-002643	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-002719	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-002735	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-002786	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-DFCI-002867	0		Diagnosis	Adenocarcinoma	78	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage I
+GENIE-DFCI-003002	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-DFCI-003065	0		Diagnosis		32	Colon and Rectum		7	0	No	Yes	Stage I
+GENIE-DFCI-003232	-4064		Diagnosis		44	Breast		0	1	Not Applicable	No	Stage 0
+GENIE-DFCI-003232	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	2	2		Yes	Stage III
+GENIE-DFCI-003350	0		Diagnosis	Adenocarcinoma	25	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-003423	0		Diagnosis		44	Colon and Rectum		7	0		Yes	Stage IV
+GENIE-DFCI-003453	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	4	0	No	Yes	Stage I
+GENIE-DFCI-003469	-889		Diagnosis		28	NET or  Carcinoid	Carcinoid tumor, malignant	0	1		No	Stage I
+GENIE-DFCI-003469	0		Diagnosis		31	Colon and Rectum		2	2	No	Yes	Stage III
+GENIE-DFCI-003600	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	1		Yes	Stage II
+GENIE-DFCI-003600	925		Diagnosis		48	Thyroid Cancer		0	2	No	No	
+GENIE-DFCI-003620	-1456		Diagnosis		70	Bladder Cancer	Papillary trans. cell carcinoma	0	1		No	Stage I
+GENIE-DFCI-003620	-1344		Diagnosis		71	Prostate Cancer	Adenocarcinoma, NOS	1	2		No	Stage II
+GENIE-DFCI-003620	0		Diagnosis	Adenocarcinoma	74	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	3		Yes	Stage IV
+GENIE-DFCI-003654	0		Diagnosis		60	Colon and Rectum		8	0		Yes	Stage IV
+GENIE-DFCI-003714	0		Diagnosis		62	Rectum and Rectosigmoid Cancer		2	0		Yes	Stage IV
+GENIE-DFCI-003770	0		Diagnosis	Adenocarcinoma	32	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-DFCI-003778	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma in villous adenoma	6	0		Yes	Stage I
+GENIE-DFCI-003806	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	2	1		Yes	Stage II
+GENIE-DFCI-003806	0		Diagnosis		49	Colon and Rectum		2	2	No	No	
+GENIE-DFCI-003825	-946		Diagnosis		62	Other	Multiple myeloma	4	1		No	
+GENIE-DFCI-003825	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage III
+GENIE-DFCI-003849	-1478		Diagnosis		74	Non Small Cell Lung Cancer	Squamous cell carcinoma, NOS	0	1		No	Stage II
+GENIE-DFCI-003849	0		Diagnosis	Adenocarcinoma	78	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage IV
+GENIE-DFCI-003932	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-004251	0		Diagnosis	Adenocarcinoma	73	Colon and Rectum	Adenocarcinoma, NOS	11	0		Yes	Stage I
+GENIE-DFCI-004341	0		Diagnosis	Adenocarcinoma	65	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage I
+GENIE-DFCI-004416	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	1	Yes	Yes	Stage II
+GENIE-DFCI-004416	894		Diagnosis		56	Prostate Cancer	Adenocarcinoma, NOS	0	2		No	Stage III
+GENIE-DFCI-004472	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-004815	0		Diagnosis	Adenocarcinoma	32	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-004863	0		Diagnosis	Adenocarcinoma	75	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-DFCI-005003	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-DFCI-005251	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma in villous adenoma	0	1		Yes	Stage II
+GENIE-DFCI-005251	181		Diagnosis		65	Bladder Cancer	Transitional cell carcinoma, NOS	0	2		No	Stage II
+GENIE-DFCI-005278	0		Diagnosis	Adenocarcinoma	38	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	2	1		Yes	Stage III
+GENIE-DFCI-005278	0		Diagnosis		38	Colon and Rectum		0	2	No	No	Stage I
+GENIE-DFCI-005455	0		Diagnosis		54	Colon and Rectum		1	1	No	Yes	Stage III
+GENIE-DFCI-005455	75		Diagnosis		54	Breast		0	2	No	No	
+GENIE-DFCI-005455	543		Diagnosis		55	Thyroid Cancer		0	3	No	No	
+GENIE-DFCI-005466	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-DFCI-005639	0		Diagnosis	Adenocarcinoma	77	Colon and Rectum	Adenocarcinoma, NOS	4	1		Yes	Stage III
+GENIE-DFCI-005639	628		Diagnosis		78	Prostate Cancer	Adenocarcinoma, NOS	0	2		No	Stage III
+GENIE-DFCI-005963	-813		Diagnosis		82	Other	Follicular lymphoma, grade 3	1	1		No	Stage III
+GENIE-DFCI-005963	0		Diagnosis	Adenocarcinoma	84	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage IV
+GENIE-DFCI-006031	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-006140	-5690		Diagnosis		34	Uterus Cancer		1	1	Unknown	No	Stage III
+GENIE-DFCI-006140	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	2	No	Yes	Stage II
+GENIE-DFCI-006224	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-DFCI-006237	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-006288	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-DFCI-006340	0		Diagnosis		60	Colon and Rectum		7	0	No	Yes	Stage II
+GENIE-DFCI-006447	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-006572	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-006715	-765		Diagnosis		48	Breast	Lobular carcinoma, NOS	2	1		No	Stage I
+GENIE-DFCI-006715	-765		Diagnosis		48	Breast		2	2	No	No	
+GENIE-DFCI-006715	-730		Diagnosis		48	Breast	Intraductal and lobular in situ carcinoma	2	3		No	Stage 0
+GENIE-DFCI-006715	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	1	4		Yes	Stage III
+GENIE-DFCI-006859	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-006901	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-007011	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-007063	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	2	0	No	Yes	Stage II
+GENIE-DFCI-007105	0		Diagnosis		46	Colon and Rectum		5	0	No	Yes	Stage III
+GENIE-DFCI-007122	0		Diagnosis	Adenocarcinoma	82	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-DFCI-007183	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-007266	0		Diagnosis		61	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-007308	0		Diagnosis		45	Colon and Rectum		0	0	No	Yes	Stage III
+GENIE-DFCI-007310	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-DFCI-007327	0		Diagnosis	Adenocarcinoma	38	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-DFCI-007342	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-007504	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-DFCI-007609	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Mucinous adenocarcinoma	4	0		Yes	Stage IV
+GENIE-DFCI-007626	0		Diagnosis		48	Colon and Rectum		4	0		Yes	Stage IV
+GENIE-DFCI-007675	0		Diagnosis	Adenocarcinoma	39	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-007695	0		Diagnosis	Adenocarcinoma	57	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage I
+GENIE-DFCI-007701	0		Diagnosis	Adenocarcinoma	29	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-007715	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma in adenomatous polyp	2	0		Yes	Stage III
+GENIE-DFCI-007719	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	2	0		Yes	Stage II
+GENIE-DFCI-007787	0		Diagnosis	Adenocarcinoma	34	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-007886	0		Diagnosis	Adenocarcinoma	66	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	0	1		Yes	Stage I
+GENIE-DFCI-007886	1526		Diagnosis		70	Breast		0	2		No	
+GENIE-DFCI-007910	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	12	0	No	Yes	Stage II
+GENIE-DFCI-007921	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-DFCI-008008	-1176		Diagnosis		76	Prostate Cancer		0	1	No	No	
+GENIE-DFCI-008008	0		Diagnosis	Adenocarcinoma	79	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage IV
+GENIE-DFCI-008063	0		Diagnosis	Adenocarcinoma	54	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	0	Yes	Yes	Stage II
+GENIE-DFCI-008081	0		Diagnosis		58	Rectum and Rectosigmoid Cancer		5	0	Yes	Yes	Stage II
+GENIE-DFCI-008097	0		Diagnosis		61	Colon and Rectum		0	0	No	Yes	Stage II
+GENIE-DFCI-008103	0		Diagnosis	Adenocarcinoma	69	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage III
+GENIE-DFCI-008105	-374		Diagnosis		56	Colon and Rectum		0	1	No	No	
+GENIE-DFCI-008105	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma in adenomatous polyp	6	2	No	Yes	Stage I
+GENIE-DFCI-008107	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-DFCI-008121	0		Diagnosis		49	Colon and Rectum		6	0	No	Yes	Stage III
+GENIE-DFCI-008220	0		Diagnosis	Adenocarcinoma	25	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-008250	0		Diagnosis		57	Rectum and Rectosigmoid Cancer		4	0		Yes	Stage IV
+GENIE-DFCI-008284	0		Diagnosis		54	Colon and Rectum		4	0		Yes	Stage IV
+GENIE-DFCI-008343	-11499		Diagnosis		14			1	1		No	
+GENIE-DFCI-008343	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Mucinous adenocarcinoma	0	2		Yes	Stage II
+GENIE-DFCI-008355	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-008391	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-008411	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	4	0		Yes	Stage I
+GENIE-DFCI-008413	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-008439	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	5	0	No	Yes	Stage III
+GENIE-DFCI-008450	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-008508	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma in adenomatous polyp	7	0		Yes	Stage III
+GENIE-DFCI-008516	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-008517	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-DFCI-008549	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-008572	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	3	0	No	Yes	Stage III
+GENIE-DFCI-008590	0		Diagnosis	Adenocarcinoma	68	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	0	1		Yes	Stage II
+GENIE-DFCI-008590	157		Diagnosis		69	Renal Kidney Cancer	Papillary adenocarcinoma, NOS	0	2		No	Stage I
+GENIE-DFCI-008590	1332		Diagnosis		72	Bladder Cancer		0	3	No	No	
+GENIE-DFCI-008622	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	1		Yes	Stage III
+GENIE-DFCI-008622	1480		Diagnosis		64	Breast		0	2	No	No	
+GENIE-DFCI-008624	0		Diagnosis	Other histologies/mixed tumor	37	Rectum and Rectosigmoid Cancer	Signet ring cell carcinoma	4	0		Yes	Stage IV
+GENIE-DFCI-008737	0		Diagnosis	Adenocarcinoma	40	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage II
+GENIE-DFCI-008759	0		Diagnosis	Adenocarcinoma	81	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage III
+GENIE-DFCI-008760	0		Diagnosis		33	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-DFCI-008778	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-008814	0		Diagnosis		57	Colon and Rectum		5	0	No	Yes	Stage III
+GENIE-DFCI-008834	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-DFCI-008840	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	0	0		Yes	Stage I
+GENIE-DFCI-008868	0		Diagnosis	Adenocarcinoma	83	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage IV
+GENIE-DFCI-008889	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-008893	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-DFCI-008940	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-DFCI-009003	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-DFCI-009052	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma in adenomatous polyp	4	0		Yes	Stage IV
+GENIE-DFCI-009055	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-009065	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-DFCI-009074	0		Diagnosis		66	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-DFCI-009076	0		Diagnosis	Adenocarcinoma	39	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-009181	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-009199	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-009214	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	6	0	No	Yes	Stage I
+GENIE-DFCI-009227	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma with mixed subtypes	6	0		Yes	Stage IV
+GENIE-DFCI-009235	0		Diagnosis	Adenocarcinoma	67	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-009245	0		Diagnosis	Adenocarcinoma	39	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-009329	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	2	1		Yes	Stage IV
+GENIE-DFCI-009329	956		Diagnosis		51	Breast	Invasive carcinoma of no special type	2	2		No	Stage I
+GENIE-DFCI-009370	0		Diagnosis		68	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-009380	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-DFCI-009381	0		Diagnosis		55	Rectum and Rectosigmoid Cancer		2	0	No	Yes	Stage III
+GENIE-DFCI-009399	0		Diagnosis	Adenocarcinoma	46	Rectum and Rectosigmoid Cancer	Adenocarcinoma in mult. adenomatous polyps	6	0		Yes	Stage III
+GENIE-DFCI-009404	0		Diagnosis	Adenocarcinoma	42	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-DFCI-009426	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-009451	0		Diagnosis		62	Colon and Rectum		0	0		Yes	Stage IV
+GENIE-DFCI-009482	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-DFCI-009485	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Mucinous adenocarcinoma	0	0		Yes	Stage II
+GENIE-DFCI-009492	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-DFCI-009548	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage III
+GENIE-DFCI-009555	0		Diagnosis		70	Colon and Rectum		0	0	No	Yes	Stage II
+GENIE-DFCI-009581	0		Diagnosis		62	Colon and Rectum		7	0		Yes	Stage IV
+GENIE-DFCI-009583	0		Diagnosis	Adenocarcinoma	54	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-DFCI-009585	0		Diagnosis	Adenocarcinoma	62	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-009586	0		Diagnosis		56	Colon and Rectum		2	0	No	Yes	Stage III
+GENIE-DFCI-009628	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	0		Yes	Stage II
+GENIE-DFCI-009631	-3096		Diagnosis		36	Cervical Cancer		0	1		No	
+GENIE-DFCI-009631	0		Diagnosis		45	Rectum and Rectosigmoid Cancer		6	2		Yes	Stage IV
+GENIE-DFCI-009711	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-DFCI-009716	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	2	1	No	Yes	Stage III
+GENIE-DFCI-009716	1647		Diagnosis		57	Uterus Cancer		0	2	No	No	
+GENIE-DFCI-009719	0		Diagnosis	Adenocarcinoma	33	Colon and Rectum	Adenocarcinoma in adenomatous polyp	2	0		Yes	Stage IV
+GENIE-DFCI-009720	-3991		Diagnosis		53	Ovarian Cancer		5	1		No	
+GENIE-DFCI-009720	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	0	2	No	Yes	Stage III
+GENIE-DFCI-009807	0		Diagnosis	Other histologies/mixed tumor	67	Colon and Rectum	Neoplasm, malignant	6	0		Yes	Stage IV
+GENIE-DFCI-009852	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Papillary adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-009854	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-DFCI-009899	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma, NOS	1	0	No	Yes	Stage III
+GENIE-DFCI-009918	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma with mixed subtypes	5	0		Yes	Stage IV
+GENIE-DFCI-009934	0		Diagnosis	Adenocarcinoma	75	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage II
+GENIE-DFCI-009942	0		Diagnosis		64	Colon and Rectum		5	0	No	Yes	Stage III
+GENIE-DFCI-009944	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	8	0	No	Yes	Stage III
+GENIE-DFCI-009954	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage II
+GENIE-DFCI-009983	0		Diagnosis		48	Rectum and Rectosigmoid Cancer		7	0		Yes	Stage IV
+GENIE-DFCI-010035	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-010044	0		Diagnosis		48	Colon and Rectum		10	0	Yes	Yes	Stage III
+GENIE-DFCI-010053	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Mucinous adenocarcinoma	3	0		Yes	Stage IV
+GENIE-DFCI-010112	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-010146	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-010151	-3734		Diagnosis		59	Melanoma		0	1	Unknown	No	Stage 0
+GENIE-DFCI-010151	-2110		Diagnosis		64	Prostate Cancer		0	2		No	
+GENIE-DFCI-010151	0		Diagnosis	Adenocarcinoma	70	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	3		Yes	Stage I
+GENIE-DFCI-010151	596		Diagnosis		71	Melanoma		0	4	No	No	Stage I
+GENIE-DFCI-010207	0		Diagnosis		38	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-DFCI-010214	0		Diagnosis		73	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-010222	0		Diagnosis	Adenocarcinoma	33	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-010242	0		Diagnosis		62	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-010248	0		Diagnosis	Adenocarcinoma	56	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-010267	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-010287	0		Diagnosis		58	Rectum and Rectosigmoid Cancer		0	1	No	Yes	Stage I
+GENIE-DFCI-010287	47		Diagnosis		58	Pancreatic Cancer	Carcinoid tumor, malignant	4	2		No	Stage IV
+GENIE-DFCI-010288	0		Diagnosis		86	Colon and Rectum		0	0		Yes	Stage IV
+GENIE-DFCI-010321	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-DFCI-010342	0		Diagnosis	Adenocarcinoma	55	Colon and Rectum	Adenocarcinoma, NOS	0	1		Yes	Stage I
+GENIE-DFCI-010342	386		Diagnosis		57	Other	Follicular lymphoma, grade 2	0	2		No	Stage II
+GENIE-DFCI-010350	0		Diagnosis	Carcinoma	29	Colon and Rectum	Large cell neuroendocrine carcinoma	5	0		Yes	Stage IV
+GENIE-DFCI-010372	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0	Yes	Yes	Stage III
+GENIE-DFCI-010396	0		Diagnosis		76	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-010416	0		Diagnosis		48	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-010421	0		Diagnosis		72	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	1		No	Stage III
+GENIE-DFCI-010421	0		Diagnosis	Adenocarcinoma	72	Colon and Rectum	Adenocarcinoma, NOS	3	2		Yes	Stage III
+GENIE-DFCI-010432	0		Diagnosis		49	Colon and Rectum		1	0		Yes	Stage IV
+GENIE-DFCI-010494	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-010541	0		Diagnosis		73	Rectum and Rectosigmoid Cancer		1	0	No	Yes	Stage I
+GENIE-DFCI-010547	0		Diagnosis		38	Colon and Rectum		7	0		Yes	Stage IV
+GENIE-DFCI-010552	0		Diagnosis	Adenocarcinoma	65	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-DFCI-010603	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-DFCI-010629	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-010632	0		Diagnosis	Adenocarcinoma	73	Colon and Rectum	Adenocarcinoma, NOS	1	1		Yes	Stage III
+GENIE-DFCI-010632	357		Diagnosis		74	Thyroid Cancer		0	2	No	No	Stage I
+GENIE-DFCI-010640	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-DFCI-010643	0		Diagnosis		43	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-010684	-15		Diagnosis		59	Renal Kidney Cancer		0	1	No	No	
+GENIE-DFCI-010684	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Mucinous adenocarcinoma	2	2	No	Yes	Stage II
+GENIE-DFCI-010689	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-010692	0		Diagnosis	Adenocarcinoma	74	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	0	0		Yes	Stage I
+GENIE-DFCI-010752	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-DFCI-010772	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-DFCI-010793	0		Diagnosis		44	Rectum and Rectosigmoid Cancer		7	0	Yes	Yes	Stage II
+GENIE-DFCI-010860	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-DFCI-010862	-1976		Diagnosis		58	Bladder Cancer		0	1		No	
+GENIE-DFCI-010862	0		Diagnosis	Adenocarcinoma	63	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	3	2		Yes	Stage IV
+GENIE-DFCI-010903	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-010937	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-DFCI-011006	0		Diagnosis		54	Colon and Rectum		7	0	No	Yes	Stage III
+GENIE-DFCI-011010	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage III
+GENIE-DFCI-011074	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-011096	0		Diagnosis	Adenocarcinoma	30	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-011182	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Mucinous adenocarcinoma	1	0		Yes	Stage III
+GENIE-DFCI-011218	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Adenocarcinoma with neuroendocrine differen.	1	0		Yes	Stage III
+GENIE-DFCI-011222	0		Diagnosis		69	Colon and Rectum		0	0	No	Yes	Stage III
+GENIE-DFCI-011252	0		Diagnosis		65	Colon and Rectum		5	0		Yes	Stage IV
+GENIE-DFCI-011260	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-011291	0		Diagnosis	Adenocarcinoma	72	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-011318	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-011320	0		Diagnosis	Adenocarcinoma	71	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0	Yes	Yes	Stage III
+GENIE-DFCI-011323	0		Diagnosis	Adenocarcinoma	80	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage III
+GENIE-DFCI-011358	0		Diagnosis		55	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-DFCI-011391	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-011396	0		Diagnosis	Adenocarcinoma	41	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-011405	-7186		Diagnosis		42	Melanoma		0	1		No	
+GENIE-DFCI-011405	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	2	2		Yes	Stage IV
+GENIE-DFCI-011427	0		Diagnosis		61	Rectum and Rectosigmoid Cancer		5	0	No	Yes	Stage II
+GENIE-DFCI-011485	0		Diagnosis	Adenocarcinoma	63	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-011512	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-DFCI-011535	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-DFCI-011539	-721		Diagnosis		64	Melanoma	Superficial spreading melanoma	0	1		No	Stage II
+GENIE-DFCI-011539	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	2		Yes	Stage II
+GENIE-DFCI-011551	0		Diagnosis	Adenocarcinoma	46	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-011599	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-DFCI-011660	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-011676	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	2	0	Yes	Yes	Stage II
+GENIE-DFCI-011695	0		Diagnosis	Adenocarcinoma	85	Colon and Rectum	Mucinous adenocarcinoma	0	0		Yes	Stage IV
+GENIE-DFCI-011726	0		Diagnosis		62	Rectum and Rectosigmoid Cancer		3	0	No	Yes	Stage II
+GENIE-DFCI-011888	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-013270	-9535		Diagnosis		40	Small Intestine Cancer	Adenocarcinoma, NOS	0	1	No	No	
+GENIE-DFCI-013270	-2793		Diagnosis		59	Colon and Rectum		1	2	No	No	Stage III
+GENIE-DFCI-013270	-2793		Diagnosis		59	Rectum and Rectosigmoid Cancer		0	3	No	No	Stage 0
+GENIE-DFCI-013270	-48		Diagnosis		66	Colon and Rectum		1	4	No	No	
+GENIE-DFCI-013270	0		Diagnosis		67	Colon and Rectum		1	5	No	Yes	Stage I
+GENIE-DFCI-013710	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	1		Yes	Stage III
+GENIE-DFCI-013710	1506		Diagnosis		54	Uterus Cancer	Papillary serous cystadenocarcinoma	2	2		No	Stage II
+GENIE-DFCI-015256	-12075		Diagnosis		34	Breast		0	1	No	No	
+GENIE-DFCI-015256	-1896		Diagnosis		62	Uterus Cancer	Endometrioid carcinoma	0	2		No	Stage I
+GENIE-DFCI-015256	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	2	3		Yes	Stage III
+GENIE-DFCI-016815	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	10	0		Yes	Stage III
+GENIE-DFCI-017652	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-DFCI-022876	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	8	0	No	Yes	Stage I
+GENIE-DFCI-023427	0		Diagnosis		52	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-023633	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage II
+GENIE-DFCI-023634	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	0	0		Yes	Stage I
+GENIE-DFCI-023723	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-023755	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0	Yes	Yes	Stage II
+GENIE-DFCI-023911	0		Diagnosis	Adenocarcinoma	75	Colon and Rectum	Adenocarcinoma, NOS	0	1		Yes	Stage I
+GENIE-DFCI-023911	32		Diagnosis		75	Non Small Cell Lung Cancer	Neuroendocrine carcinoma	0	2		No	Stage IV
+GENIE-DFCI-024082	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-024158	0		Diagnosis		81	Colon and Rectum		1	0	Yes	Yes	Stage III
+GENIE-DFCI-024179	-5837		Diagnosis		53			1	1		No	
+GENIE-DFCI-024179	0		Diagnosis		69	Colon and Rectum		0	2	No	Yes	Stage II
+GENIE-DFCI-024220	-13963		Diagnosis		0	Vagina Cancer	Yolk sac tumor	0	1		No	
+GENIE-DFCI-024220	0		Diagnosis	Adenocarcinoma	39	Colon and Rectum	Adenocarcinoma, NOS	0	2	No	Yes	Stage II
+GENIE-DFCI-024297	-7976		Diagnosis		59	Melanoma	Superficial spreading melanoma	0	1		No	Stage I
+GENIE-DFCI-024297	-6072		Diagnosis		65	Breast	Invasive carcinoma of no special type	0	2		No	Stage I
+GENIE-DFCI-024297	0		Diagnosis	Adenocarcinoma	81	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	2	3		Yes	Stage III
+GENIE-DFCI-024438	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-024579	0		Diagnosis	Adenocarcinoma	78	Colon and Rectum	Adenocarcinoma, NOS	3	0	No	Yes	Stage III
+GENIE-DFCI-024718	-7938		Diagnosis		56	Breast	Invasive carcinoma of no special type	2	1	Unknown	No	
+GENIE-DFCI-024718	0		Diagnosis	Adenocarcinoma	78	Colon and Rectum	Adenocarcinoma, NOS	0	2	No	Yes	Stage III
+GENIE-DFCI-025142	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-025458	0		Diagnosis	Adenocarcinoma	42	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-025996	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	7	0	No	Yes	Stage II
+GENIE-DFCI-026019	-2164		Diagnosis		75	Colon and Rectum	Adenocarcinoma, NOS	0	1	No	No	Stage II
+GENIE-DFCI-026019	-2073		Diagnosis		75	Lung Cancer, NOS	Carcinoid tumor, malignant	0	2		No	Stage I
+GENIE-DFCI-026019	0		Diagnosis	Adenocarcinoma	81	Colon and Rectum	Adenocarcinoma, NOS	3	3		Yes	Stage II
+GENIE-DFCI-026065	-2670		Diagnosis		61			1	1		No	
+GENIE-DFCI-026065	-1788		Diagnosis		63	Prostate Cancer		0	2	No	No	
+GENIE-DFCI-026065	0		Diagnosis		68	Colon and Rectum		0	3	No	Yes	Stage I
+GENIE-DFCI-026582	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-026871	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage I
+GENIE-DFCI-027037	0		Diagnosis		50	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-DFCI-027064	0		Diagnosis		47	Rectum and Rectosigmoid Cancer		7	0		Yes	Stage IV
+GENIE-DFCI-028474	0		Diagnosis		57	Colon and Rectum		4	0		Yes	Stage IV
+GENIE-DFCI-030710	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	6	0	No	Yes	Stage II
+GENIE-DFCI-030777	0		Diagnosis	Adenocarcinoma	73	Colon and Rectum	Adenocarcinoma in adenomatous polyp	6	0		Yes	Stage III
+GENIE-DFCI-031398	0		Diagnosis	Adenocarcinoma	26	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-031982	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-DFCI-032144	-445		Diagnosis		74	Breast	Invasive carcinoma of no special type	0	1		No	Stage I
+GENIE-DFCI-032144	0		Diagnosis	Adenocarcinoma	75	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage III
+GENIE-DFCI-033013	-5459		Diagnosis		53	Prostate Cancer		0	1		No	
+GENIE-DFCI-033013	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	6	2		Yes	Stage IV
+GENIE-DFCI-033443	0		Diagnosis		49	Rectum and Rectosigmoid Cancer		4	0	Yes	Yes	Stage II
+GENIE-DFCI-033760	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	2	0	No	Yes	Stage I
+GENIE-DFCI-034029	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-DFCI-034097	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-034187	0		Diagnosis	Adenocarcinoma	76	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0	Yes	Yes	Stage III
+GENIE-DFCI-034441	0		Diagnosis		38	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-034485	0		Diagnosis		63	Colon and Rectum		6	0		Yes	Stage IV
+GENIE-DFCI-035106	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	2	0	No	Yes	Stage III
+GENIE-DFCI-035417	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	3	0	No	Yes	Stage III
+GENIE-DFCI-035616	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-035767	0		Diagnosis		81	Colon and Rectum		0	1	No	Yes	Stage I
+GENIE-DFCI-035767	28		Diagnosis		81	Pancreatic Cancer		0	2		No	Stage IV
+GENIE-DFCI-035828	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-036255	0		Diagnosis	Adenocarcinoma	65	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	6	0	Yes	Yes	Stage III
+GENIE-DFCI-036347	0		Diagnosis		50	Rectum and Rectosigmoid Cancer		5	0		Yes	Stage IV
+GENIE-DFCI-036421	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-DFCI-036422	0		Diagnosis		68	Colon and Rectum		0	0	No	Yes	Stage II
+GENIE-DFCI-036423	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	1		Yes	Stage III
+GENIE-DFCI-036423	736		Diagnosis		52	Breast	Invasive carcinoma of no special type	1	2		No	Stage I
+GENIE-DFCI-036471	0		Diagnosis		65	Colon and Rectum		0	0		Yes	Stage IV
+GENIE-DFCI-036495	0		Diagnosis		81	Rectum and Rectosigmoid Cancer		1	0	Not Applicable	Yes	Stage II
+GENIE-DFCI-036507	0		Diagnosis		49	Rectum and Rectosigmoid Cancer		6	0		Yes	Stage IV
+GENIE-DFCI-036521	0		Diagnosis	Adenocarcinoma	66	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-DFCI-036568	0		Diagnosis	Adenocarcinoma	81	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-036570	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-036606	0		Diagnosis		65	Colon and Rectum		1	0		Yes	Stage IV
+GENIE-DFCI-036621	0		Diagnosis		57	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-036623	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-036631	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Adenocarcinoma, NOS	2	0	Yes	Yes	Stage III
+GENIE-DFCI-036663	0		Diagnosis		48	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-DFCI-036688	0		Diagnosis	Adenocarcinoma	73	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-036770	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Mucinous adenocarcinoma	6	0	No	Yes	Stage III
+GENIE-DFCI-036772	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma, NOS	3	0	No	Yes	Stage III
+GENIE-DFCI-036807	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-DFCI-036851	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	1	0	No	Yes	Stage III
+GENIE-DFCI-036972	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-037008	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage I
+GENIE-DFCI-037031	0		Diagnosis		41	Rectum and Rectosigmoid Cancer		4	0		Yes	Stage IV
+GENIE-DFCI-037044	0		Diagnosis		54	Rectum and Rectosigmoid Cancer		4	1	Yes	Yes	Stage II
+GENIE-DFCI-037044	52		Diagnosis		54	Renal Kidney Cancer		0	2	No	No	Stage I
+GENIE-DFCI-037045	0		Diagnosis		49	Rectum and Rectosigmoid Cancer		2	0	Yes	Yes	Stage II
+GENIE-DFCI-037192	0		Diagnosis		35	Colon and Rectum		3	0	No	Yes	Stage III
+GENIE-DFCI-037203	0		Diagnosis		48	Rectum and Rectosigmoid Cancer		1	0		Yes	Stage IV
+GENIE-DFCI-037237	0		Diagnosis	Adenocarcinoma	36	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0	Yes	Yes	Stage III
+GENIE-DFCI-037266	0		Diagnosis		28	Colon and Rectum		0	0	No	Yes	Stage III
+GENIE-DFCI-037282	0		Diagnosis		51	Colon and Rectum		4	0	No	Yes	Stage III
+GENIE-DFCI-037377	0		Diagnosis	Adenocarcinoma	54	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-DFCI-037398	0		Diagnosis	Carcinoma	69	Colon and Rectum	Medullary carcinoma, NOS	1	1		Yes	Stage II
+GENIE-DFCI-037398	1184		Diagnosis		72	Melanoma		0	2	No	No	
+GENIE-DFCI-037416	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	3	0		Yes	Stage IV
+GENIE-DFCI-037427	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-037453	0		Diagnosis	Adenocarcinoma	82	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-037469	0		Diagnosis		61	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-037472	0		Diagnosis		80	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-037475	0		Diagnosis		56	Colon and Rectum		4	0	No	Yes	Stage III
+GENIE-DFCI-037610	0		Diagnosis		45	Rectum and Rectosigmoid Cancer		3	0	Yes	Yes	Stage II
+GENIE-DFCI-037641	0		Diagnosis	Adenocarcinoma	31	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0	Yes	Yes	Stage III
+GENIE-DFCI-037698	0		Diagnosis		65	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-037711	0		Diagnosis		25	Colon and Rectum		1	1	No	Yes	Stage III
+GENIE-DFCI-037711	252		Diagnosis		26	Thyroid Cancer	Papillary adenocarcinoma, NOS	0	2		No	Stage I
+GENIE-DFCI-037717	0		Diagnosis		60	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-037792	0		Diagnosis		67	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-037793	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-DFCI-037795	0		Diagnosis		51	Colon and Rectum		0	0	No	Yes	Stage I
+GENIE-DFCI-037834	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	0		Yes	Stage I
+GENIE-DFCI-037895	0		Diagnosis		69	Colon and Rectum		4	0		Yes	Stage IV
+GENIE-DFCI-037922	0		Diagnosis		54	Colon and Rectum		2	0	No	Yes	Stage III
+GENIE-DFCI-037941	0		Diagnosis	Adenocarcinoma	41	Colon and Rectum	Mucinous adenocarcinoma	1	0		Yes	Stage II
+GENIE-DFCI-037944	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-037963	0		Diagnosis		62	Colon and Rectum		5	0		Yes	Stage IV
+GENIE-DFCI-037965	0		Diagnosis		62	Rectum and Rectosigmoid Cancer		4	0		Yes	Stage IV
+GENIE-DFCI-037974	0		Diagnosis	Adenocarcinoma	62	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-037979	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-DFCI-037984	-84		Diagnosis		63	Head and Neck Cancer		2	1	Unknown	No	
+GENIE-DFCI-037984	0		Diagnosis	Squamous cell	64	Colon and Rectum	Sq. cell carcinoma, keratinizing, NOS	1	2		Yes	Stage I
+GENIE-DFCI-037984	732		Diagnosis		66	GIST	Gastrointestinal stromal sarcoma	0	3		No	Stage I
+GENIE-DFCI-038203	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0	No	Yes	Stage II
+GENIE-DFCI-038340	0		Diagnosis	Adenocarcinoma	55	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-DFCI-039020	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	0		Yes	Stage I
+GENIE-DFCI-039131	-11332		Diagnosis		26	Testis Cancer	Seminoma, NOS	1	1		No	
+GENIE-DFCI-039131	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	2		Yes	Stage II
+GENIE-DFCI-039131	386		Diagnosis		58	Melanoma	Melanoma in situ	0	3		No	Stage 0
+GENIE-DFCI-039131	686		Diagnosis		58	Thyroid Cancer	Papillary adenocarcinoma, NOS	0	4		No	Stage III
+GENIE-DFCI-039131	2362		Diagnosis		63	Prostate Cancer	Adenocarcinoma, NOS	0	5		No	Stage II
+GENIE-DFCI-040049	-1389		Diagnosis		52	NET or  Carcinoid	Neuroendocrine carcinoma	10	1		No	Stage IV
+GENIE-DFCI-040049	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage III
+GENIE-DFCI-040049	2430		Diagnosis		62	Bladder Cancer	Papillary trans. cell carcinoma, non-invasive	1	3		No	Stage 0
+GENIE-DFCI-040157	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	14	0	No	Yes	Stage III
+GENIE-DFCI-041166	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-DFCI-041850	-4172		Diagnosis		43	Melanoma	Spindle cell melanoma, NOS	0	1		No	Stage I
+GENIE-DFCI-041850	0		Diagnosis	Adenocarcinoma	54	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	2		Yes	Stage IV
+GENIE-DFCI-042280	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Mucinous adenocarcinoma	2	0	No	Yes	Stage II
+GENIE-DFCI-042434	-1623		Diagnosis		54	Head and Neck Cancer	Squamous cell carcinoma, NOS	0	1		No	Stage I
+GENIE-DFCI-042434	-1380		Diagnosis		55	Small Intestine Cancer	Neuroendocrine carcinoma	0	2		No	Stage IV
+GENIE-DFCI-042434	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	3	3		Yes	Stage IV
+GENIE-DFCI-046427	0		Diagnosis		51	Rectum and Rectosigmoid Cancer		6	1	No	Yes	Stage III
+GENIE-DFCI-046427	0		Diagnosis		51	Rectum and Rectosigmoid Cancer		6	2	No	Yes	Stage III
+GENIE-DFCI-046927	0		Diagnosis	Adenocarcinoma	41	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-DFCI-047535	0		Diagnosis		74	Colon and Rectum		3	0	No	Yes	Stage II
+GENIE-DFCI-048577	-595		Diagnosis		63	Renal Kidney Cancer	Clear cell adenocarcinoma, NOS	0	1		No	Stage II
+GENIE-DFCI-048577	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	2	2		Yes	Stage IV
+GENIE-DFCI-049415	0		Diagnosis	Adenocarcinoma	77	Colon and Rectum	Adenocarcinoma, NOS	2	1	No	Yes	Stage II
+GENIE-DFCI-049415	0		Diagnosis		77	Colon and Rectum		2	2	No	No	Stage I
+GENIE-DFCI-049415	0		Diagnosis		77	Colon and Rectum		2	3	No	No	Stage I
+GENIE-DFCI-049928	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-050749	0		Diagnosis	Carcinoma	47	Colon and Rectum	Carcinoma, NOS	3	0	No	Yes	Stage III
+GENIE-DFCI-050757	0		Diagnosis		39	Rectum and Rectosigmoid Cancer		4	0		Yes	Stage IV
+GENIE-DFCI-050759	0		Diagnosis	Adenocarcinoma	30	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage III
+GENIE-DFCI-050796	0		Diagnosis		49	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-050946	0		Diagnosis		58	Colon and Rectum		1	0		Yes	Stage IV
+GENIE-DFCI-050954	0		Diagnosis		70	Colon and Rectum		1	0	No	Yes	Stage I
+GENIE-DFCI-050968	0		Diagnosis		40	Colon and Rectum		6	0	No	Yes	Stage III
+GENIE-DFCI-050984	0		Diagnosis	Carcinoma	35	Rectum and Rectosigmoid Cancer	Neuroendocrine carcinoma	2	0		Yes	Stage IV
+GENIE-DFCI-050992	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-051003	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage III
+GENIE-DFCI-051118	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage I
+GENIE-DFCI-051143	0		Diagnosis		67	Colon and Rectum		2	0	No	Yes	Stage III
+GENIE-DFCI-051160	0		Diagnosis		38	Colon and Rectum		0	0	No	Yes	Stage III
+GENIE-DFCI-051174	0		Diagnosis		33	Colon and Rectum		5	0		Yes	Stage IV
+GENIE-DFCI-051181	0		Diagnosis	Adenocarcinoma	40	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage II
+GENIE-DFCI-051238	0		Diagnosis		39	Colon and Rectum		0	0		Yes	Stage IV
+GENIE-DFCI-051240	0		Diagnosis		76	Colon and Rectum		1	0		Yes	Stage IV
+GENIE-DFCI-051241	0		Diagnosis		63	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-051242	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-051726	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-051813	0		Diagnosis	Adenocarcinoma	74	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-051869	0		Diagnosis	Adenocarcinoma	46	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-DFCI-052096	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-DFCI-052277	-1861		Diagnosis		56	Bladder Cancer		0	1		No	
+GENIE-DFCI-052277	0		Diagnosis		61	Colon and Rectum		2	2	No	Yes	Stage II
+GENIE-DFCI-052303	0		Diagnosis	Adenocarcinoma	75	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-DFCI-052979	0		Diagnosis		65	Colon and Rectum		5	0	No	Yes	Stage III
+GENIE-DFCI-053012	-1806		Diagnosis		78	Other	Leiomyosarcoma, NOS	0	1		No	Stage II
+GENIE-DFCI-053012	0		Diagnosis	Adenocarcinoma	83	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	2		Yes	Stage II
+GENIE-DFCI-053031	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-053195	0		Diagnosis		60	Rectum and Rectosigmoid Cancer		1	0		Yes	Stage IV
+GENIE-DFCI-053212	0		Diagnosis		57	Rectum and Rectosigmoid Cancer		3	0		Yes	Stage IV
+GENIE-DFCI-053245	-380		Diagnosis		81	Prostate Cancer		1	1	No	No	
+GENIE-DFCI-053245	0		Diagnosis	Adenocarcinoma	82	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	0	2		Yes	Stage II
+GENIE-DFCI-053392	0		Diagnosis		38	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-053417	0		Diagnosis	Adenocarcinoma	52	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	5	0		Yes	Stage IV
+GENIE-DFCI-053438	0		Diagnosis		52	Rectum and Rectosigmoid Cancer		3	0		Yes	Stage IV
+GENIE-DFCI-053479	0		Diagnosis	Adenocarcinoma	65	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-076018	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-077027	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Mucinous adenocarcinoma	4	0		Yes	Stage IV
+GENIE-DFCI-077146	0		Diagnosis	Adenocarcinoma	72	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage IV
+GENIE-DFCI-077594	0		Diagnosis	Adenocarcinoma	55	Colon and Rectum	Adenocarcinoma in adenomatous polyp	4	0		Yes	Stage IV
+GENIE-DFCI-078388	0		Diagnosis	Adenocarcinoma	54	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0	No	Yes	Stage II
+GENIE-DFCI-079042	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-079121	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-DFCI-079930	0		Diagnosis	Adenocarcinoma	77	Colon and Rectum	Adenocarcinoma, NOS	3	0	No	Yes	Stage III
+GENIE-DFCI-080921	0		Diagnosis		78	Rectum and Rectosigmoid Cancer		1	0	Unknown	Yes	Stage III
+GENIE-DFCI-083504	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-083615	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	1		Yes	Stage III
+GENIE-DFCI-083615	1169		Diagnosis		67	Uterus Cancer	Endometrioid carcinoma	0	2		No	Stage I
+GENIE-DFCI-087074	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-087455	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Mucinous adenocarcinoma	8	0		Yes	Stage IV
+GENIE-DFCI-088072	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage I
+GENIE-DFCI-088518	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-089242	-2158		Diagnosis		51	Liver and Intrahepatic Bile Duct		0	1	No	No	
+GENIE-DFCI-089242	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage IV
+GENIE-DFCI-089499	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	1		Yes	Stage IV
+GENIE-DFCI-089499	0		Diagnosis		53	Rectum and Rectosigmoid Cancer		0	2		No	Stage IV
+GENIE-DFCI-089515	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-089542	0		Diagnosis		51	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-DFCI-089815	0		Diagnosis		29	Rectum and Rectosigmoid Cancer		5	0	Yes	Yes	Stage III
+GENIE-DFCI-089828	0		Diagnosis	Adenocarcinoma	39	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-089843	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-089847	0		Diagnosis		61	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-089893	0		Diagnosis	Adenocarcinoma	34	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-089899	0		Diagnosis		53	Rectum and Rectosigmoid Cancer		6	0	Yes	Yes	Stage III
+GENIE-DFCI-090102	-650		Diagnosis		64			0	1		No	
+GENIE-DFCI-090102	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	4	2	No	Yes	Stage II
+GENIE-DFCI-090176	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-DFCI-090196	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-090202	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0	Yes	Yes	Stage III
+GENIE-DFCI-090217	0		Diagnosis	Adenocarcinoma	67	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-090242	0		Diagnosis		70	Colon and Rectum		0	0	No	Yes	Stage III
+GENIE-DFCI-090364	0		Diagnosis		66	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-DFCI-090389	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage II
+GENIE-DFCI-090476	-1036		Diagnosis		80	Uterus Cancer		0	1	No	No	
+GENIE-DFCI-090476	0		Diagnosis	Adenocarcinoma	83	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage III
+GENIE-DFCI-090479	0		Diagnosis	Other histologies/mixed tumor	52	Colon and Rectum	Signet ring cell carcinoma	4	0		Yes	Stage IV
+GENIE-DFCI-090505	0		Diagnosis		66	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-090520	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	4	0	No	Yes	Stage III
+GENIE-DFCI-090572	0		Diagnosis		36	Rectum and Rectosigmoid Cancer		2	0	Yes	Yes	Stage III
+GENIE-DFCI-090824	0		Diagnosis		69	Rectum and Rectosigmoid Cancer		2	0		Yes	Stage IV
+GENIE-DFCI-090885	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	2	0		Yes	Stage III
+GENIE-DFCI-091011	0		Diagnosis		50	Rectum and Rectosigmoid Cancer		5	0		Yes	Stage IV
+GENIE-DFCI-091167	0		Diagnosis		44	Colon and Rectum		10	0	No	Yes	Stage III
+GENIE-DFCI-091174	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-DFCI-091182	0		Diagnosis		60	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-091377	0		Diagnosis	Adenocarcinoma	57	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-091403	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-DFCI-091464	0		Diagnosis		56	Rectum and Rectosigmoid Cancer		1	0	Yes	Yes	Stage III
+GENIE-DFCI-091485	0		Diagnosis		74	Colon and Rectum		3	0	No	Yes	Stage II
+GENIE-DFCI-091491	0		Diagnosis		32	Colon and Rectum		5	1		Yes	Stage IV
+GENIE-DFCI-091491	5		Diagnosis		32	Appendix Cancer	Carcinoid tumor, malignant	0	2		No	Stage I
+GENIE-DFCI-091504	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage II
+GENIE-DFCI-091506	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-091531	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-091546	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-DFCI-091553	0		Diagnosis	Adenocarcinoma	34	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-DFCI-091558	0		Diagnosis		69	Colon and Rectum		5	0		Yes	Stage IV
+GENIE-DFCI-091789	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	2	0	No	Yes	Stage I
+GENIE-DFCI-091840	0		Diagnosis		67	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-091841	-1700		Diagnosis		62	Breast		2	1	Unknown	No	Stage II
+GENIE-DFCI-091841	0		Diagnosis		66	Colon and Rectum		1	2	No	Yes	Stage I
+GENIE-DFCI-091841	267		Diagnosis		67	Colon and Rectum		1	3	No	No	Stage II
+GENIE-DFCI-091856	-555		Diagnosis		64	Colon and Rectum		1	1	No	No	
+GENIE-DFCI-091856	0		Diagnosis		65	Colon and Rectum		4	2	No	Yes	Stage III
+GENIE-DFCI-091867	0		Diagnosis		56	Colon and Rectum		4	0		Yes	Stage IV
+GENIE-DFCI-091877	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	0	0		Yes	Stage III
+GENIE-DFCI-091893	0		Diagnosis		75	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-DFCI-092056	0		Diagnosis	Adenocarcinoma	61	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-092138	0		Diagnosis	Carcinoma	50	Colon and Rectum	Carcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-092153	0		Diagnosis		52	Colon and Rectum		1	1	Yes	Yes	Stage III
+GENIE-DFCI-092153	279		Diagnosis		53	Breast		0	2	No	No	Stage 0
+GENIE-DFCI-092164	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	5	0	No	Yes	Stage III
+GENIE-DFCI-092179	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	1	0	No	Yes	Stage I
+GENIE-DFCI-092203	-2362		Diagnosis		70	Bladder Cancer		1	1	No	No	
+GENIE-DFCI-092203	0		Diagnosis		77	Colon and Rectum		2	2		Yes	Stage IV
+GENIE-DFCI-092207	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-DFCI-092208	0		Diagnosis		65	Colon and Rectum		4	0	No	Yes	Stage III
+GENIE-DFCI-092219	0		Diagnosis		24	Colon and Rectum		5	0		Yes	Stage IV
+GENIE-DFCI-092222	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-DFCI-092588	-43		Diagnosis		52			3	1		No	
+GENIE-DFCI-092588	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Mucinous adenocarcinoma	0	2		Yes	Stage IV
+GENIE-DFCI-094137	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Mucinous adenocarcinoma	7	1		Yes	Stage III
+GENIE-DFCI-094137	0		Diagnosis		54	Uterus Cancer	Endometrioid carcinoma	0	2	No	No	
+GENIE-DFCI-094137	0		Diagnosis		54	Ovarian Cancer	Endometrioid carcinoma	0	3	No	No	
+GENIE-DFCI-094544	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-094681	-5333		Diagnosis		69	Prostate Cancer	Adenocarcinoma, NOS	0	1		No	Stage II
+GENIE-DFCI-094681	-121		Diagnosis		83	Other	Splenic marginal zone B-cell lymphoma	0	2		No	Stage IV
+GENIE-DFCI-094681	0		Diagnosis	Adenocarcinoma	83	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	3		Yes	Stage III
+GENIE-DFCI-095094	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-095111	-6887		Diagnosis		49	Breast		0	1	No	No	
+GENIE-DFCI-095111	0		Diagnosis		68	Colon and Rectum		0	2		Yes	Stage IV
+GENIE-DFCI-095427	0		Diagnosis		58	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-095561	-8932		Diagnosis		56	Prostate Cancer	Adenocarcinoma, NOS	0	1		No	Stage II
+GENIE-DFCI-095561	-1531		Diagnosis		76			0	2		No	
+GENIE-DFCI-095561	0		Diagnosis	Adenocarcinoma	80	Colon and Rectum	Adenocarcinoma, NOS	0	3		Yes	Stage III
+GENIE-DFCI-095705	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-096087	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Mucin-producing adenocarcinoma	3	0		Yes	Stage III
+GENIE-DFCI-096571	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-096756	0		Diagnosis	Adenocarcinoma	40	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage I
+GENIE-DFCI-096888	0		Diagnosis		76	Rectum and Rectosigmoid Cancer		1	0	No	Yes	Stage III
+GENIE-DFCI-098267	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-DFCI-098468	0		Diagnosis	Adenocarcinoma	56	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	8	0		Yes	Stage III
+GENIE-DFCI-101032	-9910		Diagnosis		47	Non Small Cell Lung Cancer		0	1	No	No	
+GENIE-DFCI-101032	-7758		Diagnosis		53	Breast		3	2	No	No	
+GENIE-DFCI-101032	-1408		Diagnosis		70	Non Small Cell Lung Cancer	Adenocarcinoma with mixed subtypes	0	3		No	Stage I
+GENIE-DFCI-101032	-1408		Diagnosis		70	Non Small Cell Lung Cancer		0	4	No	No	
+GENIE-DFCI-101032	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma, NOS	1	5		Yes	Stage III
+GENIE-DFCI-101842	0		Diagnosis	Adenocarcinoma	62	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	10	0		Yes	Stage III
+GENIE-DFCI-102428	0		Diagnosis	Adenocarcinoma	73	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-103658	-7339		Diagnosis		62	Prostate Cancer	Adenocarcinoma, NOS	0	1		No	Stage IV
+GENIE-DFCI-103658	0		Diagnosis	Adenocarcinoma	82	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage III
+GENIE-DFCI-104082	0		Diagnosis	Adenocarcinoma	82	Colon and Rectum	Adenocarcinoma, NOS	6	1		Yes	Stage IV
+GENIE-DFCI-104082	132		Diagnosis		82	Renal Kidney Cancer		0	2		No	
+GENIE-DFCI-104646	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-DFCI-106236	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	6	0	No	Yes	Stage I
+GENIE-DFCI-107055	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-107105	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-107119	0		Diagnosis	Adenocarcinoma	69	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-DFCI-107514	0		Diagnosis		70	Colon and Rectum		1	0		Yes	Stage IV
+GENIE-DFCI-107579	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-DFCI-107816	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Mucinous adenocarcinoma	7	0	No	Yes	Stage I
+GENIE-DFCI-107965	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-107986	0		Diagnosis		64	Rectum and Rectosigmoid Cancer		1	0	Not Applicable	Yes	Stage III
+GENIE-DFCI-108011	-812		Diagnosis		77	Colon and Rectum		2	1		No	Stage IV
+GENIE-DFCI-108011	0		Diagnosis		80	Colon and Rectum		0	2		Yes	Stage IV
+GENIE-DFCI-108396	0		Diagnosis		52	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-DFCI-108436	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage III
+GENIE-DFCI-108442	0		Diagnosis		50	Rectum and Rectosigmoid Cancer		4	0	Yes	Yes	Stage III
+GENIE-DFCI-108465	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	2	0	No	Yes	Stage II
+GENIE-DFCI-108472	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-DFCI-108473	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-DFCI-108474	0		Diagnosis		51	Colon and Rectum		4	1		Yes	Stage IV
+GENIE-DFCI-108474	0		Diagnosis		51	Colon and Rectum		4	2	Unknown	No	
+GENIE-DFCI-108848	-7697		Diagnosis		55	Breast		1	1	No	No	
+GENIE-DFCI-108848	0		Diagnosis		76	Colon and Rectum		1	2	No	Yes	Stage III
+GENIE-DFCI-108850	0		Diagnosis		46	Colon and Rectum		4	0	No	Yes	Stage III
+GENIE-DFCI-108861	-4707		Diagnosis		45	Testis Cancer		0	1		No	
+GENIE-DFCI-108861	0		Diagnosis		58	Colon and Rectum		2	2		Yes	Stage IV
+GENIE-DFCI-108861	0		Diagnosis		58	Colon and Rectum		2	3	No	No	
+GENIE-DFCI-108861	418		Diagnosis		59	Thyroid Cancer		0	4	No	No	Stage III
+GENIE-DFCI-108874	0		Diagnosis		77	Colon and Rectum		1	0	No	Yes	Stage I-III NOS
+GENIE-DFCI-108914	0		Diagnosis		45	Colon and Rectum		4	0		Yes	Stage IV
+GENIE-DFCI-109281	0		Diagnosis		58	Rectum and Rectosigmoid Cancer		0	0	No	Yes	Stage III
+GENIE-DFCI-109546	0		Diagnosis	Adenocarcinoma	42	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage III
+GENIE-DFCI-109705	-1		Diagnosis		48	Colon and Rectum		0	1	No	No	Stage II
+GENIE-DFCI-109705	0		Diagnosis		48	Colon and Rectum		0	2	No	Yes	Stage II
+GENIE-DFCI-109728	0		Diagnosis		65	Colon and Rectum		0	0		Yes	Stage IV
+GENIE-DFCI-109744	0		Diagnosis	Adenocarcinoma	62	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-109767	0		Diagnosis	Adenocarcinoma	80	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-DFCI-109787	0		Diagnosis		79	Rectum and Rectosigmoid Cancer		4	0		Yes	Stage IV
+GENIE-DFCI-109791	0		Diagnosis		35	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-DFCI-109802	0		Diagnosis		28	Rectum and Rectosigmoid Cancer		2	0	Yes	Yes	Stage III
+GENIE-DFCI-110143	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-110144	0		Diagnosis		49	Rectum and Rectosigmoid Cancer		0	0	No	Yes	Stage I
+GENIE-DFCI-110151	0		Diagnosis	Adenocarcinoma	52	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0	No	Yes	Stage III
+GENIE-DFCI-110177	0		Diagnosis		62	Rectum and Rectosigmoid Cancer		5	0		Yes	Stage IV
+GENIE-DFCI-110197	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Mucin-producing adenocarcinoma	4	0		Yes	Stage IV
+GENIE-DFCI-110221	0		Diagnosis		64	Colon and Rectum		4	0		Yes	Stage IV
+GENIE-DFCI-110236	0		Diagnosis		63	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-DFCI-110473	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-110622	0		Diagnosis		50	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-DFCI-110633	0		Diagnosis	Adenocarcinoma	29	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-DFCI-110658	0		Diagnosis		50	Rectum and Rectosigmoid Cancer		0	0	No	Yes	Stage I
+GENIE-DFCI-111044	-11030		Diagnosis		14	Ewing Sarcoma	Ewing sarcoma	2	1	No	No	
+GENIE-DFCI-111044	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma with mixed subtypes	1	2		Yes	Stage III
+GENIE-DFCI-111051	0		Diagnosis		56	Colon and Rectum		5	0	No	Yes	Stage II
+GENIE-DFCI-111085	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-DFCI-111103	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-DFCI-111406	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-DFCI-111443	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-DFCI-111479	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-DFCI-111483	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	1	0	No	Yes	Stage III
+GENIE-DFCI-111505	0		Diagnosis		49	Colon and Rectum		0	0	No	Yes	Stage III
+GENIE-DFCI-111551	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Mucinous adenocarcinoma	2	0		Yes	Stage III
+GENIE-DFCI-111555	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-DFCI-112049	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma in adenomatous polyp	6	0		Yes	Stage III
+GENIE-DFCI-112333	0		Diagnosis	Adenocarcinoma	42	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	0	0		Yes	Stage I
+GENIE-DFCI-117906	0		Diagnosis		65	Colon and Rectum		4	0	No	Yes	Stage III
+GENIE-DFCI-124353	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-DFCI-138640	0		Diagnosis		31	Colon and Rectum		1	0		Yes	Stage IV
+GENIE-MSK-P-0000739	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma, NOS	16	0		Yes	Stage IV
+GENIE-MSK-P-0001500	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0001640	0		Diagnosis	Adenocarcinoma	55	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	4	0		Yes	Stage III
+GENIE-MSK-P-0001961	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	14	0		Yes	Stage IV
+GENIE-MSK-P-0002463	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0002702	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0002724	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0002730	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0002752	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	7	1		Yes	Stage IV
+GENIE-MSK-P-0002752	689		Diagnosis		55	Bladder Cancer	Papillary trans. cell carcinoma, non-invasive	4	2		No	Stage 0
+GENIE-MSK-P-0002770	0		Diagnosis	Adenocarcinoma	31	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-MSK-P-0002852	0		Diagnosis	Adenocarcinoma	65	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0	Yes	Yes	Stage III
+GENIE-MSK-P-0002994	0		Diagnosis	Adenocarcinoma	29	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0	No	Yes	Stage III
+GENIE-MSK-P-0003110	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0003124	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0003184	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0003284	0		Diagnosis	Adenocarcinoma	26	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	5	0		Yes	Stage III
+GENIE-MSK-P-0003285	0		Diagnosis	Adenocarcinoma	33	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	0		Yes	Stage III
+GENIE-MSK-P-0003301	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0003308	0		Diagnosis	Adenocarcinoma	46	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0003483	0		Diagnosis	Other histologies/mixed tumor	53	Rectum and Rectosigmoid Cancer	Signet ring cell carcinoma	3	0		Yes	Stage II
+GENIE-MSK-P-0003575	0		Diagnosis	Adenocarcinoma	38	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-MSK-P-0003582	0		Diagnosis	Adenocarcinoma	34	Colon and Rectum	Adenocarcinoma in adenomatous polyp	8	0		Yes	Stage III
+GENIE-MSK-P-0003717	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0003796	0		Diagnosis	Adenocarcinoma	38	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0004081	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-MSK-P-0004083	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0004140	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0004172	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0004350	0		Diagnosis	Adenocarcinoma	34	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0004362	0		Diagnosis	Adenocarcinoma	33	Colon and Rectum	Adenocarcinoma in adenomatous polyp	6	0		Yes	Stage III
+GENIE-MSK-P-0004363	0		Diagnosis	Other histologies/mixed tumor	34	Colon and Rectum	Signet ring cell carcinoma	7	0		Yes	Stage IV
+GENIE-MSK-P-0004369	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-MSK-P-0004401	0		Diagnosis	Other histologies/mixed tumor	48	Rectum and Rectosigmoid Cancer	Composite carcinoid	5	0		Yes	Stage IV
+GENIE-MSK-P-0004402	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0004403	0		Diagnosis	Adenocarcinoma	68	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-MSK-P-0004441	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0004454	-5599		Diagnosis		61	Breast	Carcinoma, NOS	0	1		No	
+GENIE-MSK-P-0004454	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage IV
+GENIE-MSK-P-0004494	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage III
+GENIE-MSK-P-0004502	0		Diagnosis	Adenocarcinoma	72	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage IV
+GENIE-MSK-P-0004511	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0004602	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	1	0	No	Yes	Stage II
+GENIE-MSK-P-0004666	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma in adenomatous polyp	22	0		Yes	Stage IV
+GENIE-MSK-P-0004690	0		Diagnosis	Adenocarcinoma	68	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0004754	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Mucinous adenocarcinoma	2	1	Yes	Yes	Stage II
+GENIE-MSK-P-0004754	0		Diagnosis		64	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	2		No	Stage II
+GENIE-MSK-P-0004754	674		Diagnosis		66	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	3		No	Stage I
+GENIE-MSK-P-0004754	1832		Diagnosis		69	Adrenocortical Carcinoma	Adrenal cortical carcinoma	1	4	No	No	
+GENIE-MSK-P-0004803	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0004845	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0004886	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Mucinous adenocarcinoma	6	0	No	Yes	Stage II
+GENIE-MSK-P-0004904	0		Diagnosis	Adenocarcinoma	65	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0004928	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0004960	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0004967	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma in adenomatous polyp	6	0		Yes	Stage IV
+GENIE-MSK-P-0004968	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	1		Yes	Stage II
+GENIE-MSK-P-0004968	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	2		Yes	Stage I
+GENIE-MSK-P-0004977	-27		Diagnosis		72	Melanoma	Melanoma in situ	10	1	Not Applicable	No	Stage 0
+GENIE-MSK-P-0004977	0		Diagnosis	Adenocarcinoma	72	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage IV
+GENIE-MSK-P-0005011	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage IV
+GENIE-MSK-P-0005016	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	1	0		Yes	Stage I
+GENIE-MSK-P-0005029	0		Diagnosis	Adenocarcinoma	32	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0005102	0		Diagnosis	Adenocarcinoma	35	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0005103	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0005132	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Mucinous adenocarcinoma	14	0		Yes	Stage IV
+GENIE-MSK-P-0005151	0		Diagnosis	Adenocarcinoma	33	Colon and Rectum	Mucinous adenocarcinoma	6	0	Yes	Yes	Stage III
+GENIE-MSK-P-0005163	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0005172	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	4	0		Yes	Stage III
+GENIE-MSK-P-0005197	-5255		Diagnosis		46	Colon and Rectum	Mucin-producing adenocarcinoma	1	1	No	No	
+GENIE-MSK-P-0005197	-2465		Diagnosis		54	Prostate Cancer	Adenocarcinoma, NOS	0	2		No	
+GENIE-MSK-P-0005197	0		Diagnosis	Other histologies/mixed tumor	61	Colon and Rectum	Signet ring cell carcinoma	1	3		Yes	Stage III
+GENIE-MSK-P-0005230	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	0	0		Yes	Stage II
+GENIE-MSK-P-0005307	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma, NOS	5	1		Yes	Stage IV
+GENIE-MSK-P-0005307	1009		Diagnosis		55	Colon and Rectum		1	2	No	No	
+GENIE-MSK-P-0005311	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	3	0	No	Yes	Stage III
+GENIE-MSK-P-0005326	0		Diagnosis	Adenocarcinoma	32	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0005327	0		Diagnosis	Adenocarcinoma	29	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0005381	0		Diagnosis	Adenocarcinoma	36	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0005384	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-MSK-P-0005430	-581		Diagnosis		65	Prostate Cancer	Adenocarcinoma, NOS	0	1	Unknown	No	
+GENIE-MSK-P-0005430	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	9	2		Yes	Stage III
+GENIE-MSK-P-0005443	-8280		Diagnosis		29	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	1	No	No	
+GENIE-MSK-P-0005443	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage II
+GENIE-MSK-P-0005446	-2041		Diagnosis		50	Renal Kidney Cancer	Clear cell adenocarcinoma, NOS	0	1	No	No	
+GENIE-MSK-P-0005446	-330		Diagnosis		55	Breast	Invasive carcinoma of no special type	2	2		No	Stage III
+GENIE-MSK-P-0005446	-304		Diagnosis		55	Breast	Intraductal and lobular in situ carcinoma	2	3		No	Stage 0
+GENIE-MSK-P-0005446	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	3	4		Yes	Stage IV
+GENIE-MSK-P-0005455	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-MSK-P-0005487	-805		Diagnosis		52	Other	ML, large B-cell, diffuse	7	1		No	Stage IV
+GENIE-MSK-P-0005487	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	6	2		Yes	Stage III
+GENIE-MSK-P-0005502	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	14	0		Yes	Stage IV
+GENIE-MSK-P-0005522	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	7	0	No	Yes	Stage II
+GENIE-MSK-P-0005548	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-MSK-P-0005589	0		Diagnosis	Adenocarcinoma	41	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	11	0		Yes	Stage IV
+GENIE-MSK-P-0005623	0		Diagnosis	Adenocarcinoma	31	Colon and Rectum	Adenocarcinoma, NOS	12	0		Yes	Stage IV
+GENIE-MSK-P-0005634	0		Diagnosis	Adenocarcinoma	31	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	14	0		Yes	Stage IV
+GENIE-MSK-P-0005715	0		Diagnosis	Adenocarcinoma	38	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-MSK-P-0005730	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0005742	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0005762	0		Diagnosis	Carcinoma	38	Colon and Rectum	Carcinoma, NOS	16	0		Yes	Stage IV
+GENIE-MSK-P-0005823	0		Diagnosis	Other histologies/mixed tumor	65	Colon and Rectum	Signet ring cell carcinoma	3	0		Yes	Stage IV
+GENIE-MSK-P-0005824	0		Diagnosis	Adenocarcinoma	24	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-MSK-P-0005833	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0005888	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0005910	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage IV
+GENIE-MSK-P-0005938	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	11	0		Yes	Stage IV
+GENIE-MSK-P-0005941	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0005949	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0005961	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma in adenomatous polyp	2	0		Yes	Stage III
+GENIE-MSK-P-0005987	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-MSK-P-0005996	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0005998	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	13	0		Yes	Stage IV
+GENIE-MSK-P-0006023	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma, NOS	0	1		Yes	Stage II
+GENIE-MSK-P-0006023	665		Diagnosis		78	Bladder Cancer		1	2	No	No	
+GENIE-MSK-P-0006118	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma in adenomatous polyp	4	0	No	Yes	Stage I
+GENIE-MSK-P-0006135	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	1	0	No	Yes	Stage III
+GENIE-MSK-P-0006138	0		Diagnosis	Adenocarcinoma	42	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0006170	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0006183	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage II
+GENIE-MSK-P-0006184	-280		Diagnosis		56	Head and Neck Cancer	Sq. cell carcinoma, keratinizing, NOS	0	1		No	Stage IV
+GENIE-MSK-P-0006184	0		Diagnosis		57	Rectum and Rectosigmoid Cancer		1	2	Not Applicable	Yes	Stage II
+GENIE-MSK-P-0006213	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	11	0		Yes	Stage IV
+GENIE-MSK-P-0006225	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	1		Yes	Stage III
+GENIE-MSK-P-0006225	1376		Diagnosis		64			1	2		No	
+GENIE-MSK-P-0006271	0		Diagnosis	Adenocarcinoma	46	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	5	0		Yes	Stage IV
+GENIE-MSK-P-0006306	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	1	1	No	Yes	Stage III
+GENIE-MSK-P-0006306	1450		Diagnosis		55	Colon and Rectum	Adenocarcinoma, NOS	0	2		No	Stage IV
+GENIE-MSK-P-0006316	-1112		Diagnosis		57	Breast	Invasive carcinoma of no special type	1	1	No	No	
+GENIE-MSK-P-0006316	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	2	2		Yes	Stage IV
+GENIE-MSK-P-0006329	0		Diagnosis	Adenocarcinoma	56	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	8	0		Yes	Stage IV
+GENIE-MSK-P-0006365	0		Diagnosis	Adenocarcinoma	30	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-MSK-P-0006390	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0006394	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage II
+GENIE-MSK-P-0006405	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0006444	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	0	1	No	Yes	Stage II
+GENIE-MSK-P-0006444	7		Diagnosis		46	Ovarian Cancer	Serous cystadenocarcinoma, NOS	3	2		No	Stage IV
+GENIE-MSK-P-0006460	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	3	0		Yes	Stage III
+GENIE-MSK-P-0006468	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-MSK-P-0006469	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	4	0		Yes	Stage III
+GENIE-MSK-P-0006587	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	10	0		Yes	Stage IV
+GENIE-MSK-P-0006589	0		Diagnosis	Adenocarcinoma	22	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0006608	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma in adenomatous polyp	24	1		Yes	Stage IV
+GENIE-MSK-P-0006608	17		Diagnosis		47	Breast		0	2	Unknown	No	
+GENIE-MSK-P-0006612	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Mucinous adenocarcinoma	1	0		Yes	Stage III
+GENIE-MSK-P-0006680	-2597		Diagnosis		73	Breast	Infiltr. duct mixed with other types of carcinoma, in situ	0	1	Unknown	No	Stage 0
+GENIE-MSK-P-0006680	-2565		Diagnosis		73	Breast	Lobular carcinoma, NOS	2	2	No	No	Stage I
+GENIE-MSK-P-0006680	0		Diagnosis		80	Colon and Rectum		0	3	No	Yes	Stage II
+GENIE-MSK-P-0006701	0		Diagnosis	Adenocarcinoma	55	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0006721	0		Diagnosis	Adenocarcinoma	46	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	10	0	Yes	Yes	Stage III
+GENIE-MSK-P-0006735	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage II
+GENIE-MSK-P-0006753	-13322		Diagnosis		28	Other	Kaposi sarcoma	0	1		No	
+GENIE-MSK-P-0006753	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage IV
+GENIE-MSK-P-0006753	1845		Diagnosis		69	Prostate Cancer		0	3		No	
+GENIE-MSK-P-0006758	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	10	0		Yes	Stage IV
+GENIE-MSK-P-0006770	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0006816	0		Diagnosis	Adenocarcinoma	55	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0006825	-536		Diagnosis		77			0	1		No	
+GENIE-MSK-P-0006825	0		Diagnosis	Adenocarcinoma	78	Colon and Rectum	Adenocarcinoma, NOS	3	2		Yes	Stage III
+GENIE-MSK-P-0006860	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0006863	-1053		Diagnosis		44	Melanoma		0	1	Unknown	No	Stage 0
+GENIE-MSK-P-0006863	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	0	2		Yes	Stage I
+GENIE-MSK-P-0006867	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	2	0		Yes	Stage II
+GENIE-MSK-P-0006887	-12594		Diagnosis		34	Breast	Carcinoma, NOS	0	1		No	
+GENIE-MSK-P-0006887	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	3	2		Yes	Stage IV
+GENIE-MSK-P-0006968	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-MSK-P-0007055	-2556		Diagnosis		61	Melanoma		0	1	Unknown	No	Stage 0
+GENIE-MSK-P-0007055	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage II
+GENIE-MSK-P-0007069	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0007080	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	4	1		Yes	Stage III
+GENIE-MSK-P-0007080	3259		Diagnosis		63	Non Small Cell Lung Cancer	Adenocarcinoma, NOS	0	2		No	Stage I
+GENIE-MSK-P-0007090	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage II
+GENIE-MSK-P-0007112	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0007135	0		Diagnosis	Adenocarcinoma	37	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	31	0		Yes	Stage IV
+GENIE-MSK-P-0007136	0		Diagnosis	Adenocarcinoma	41	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0007162	0		Diagnosis	Adenocarcinoma	69	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0007168	0		Diagnosis	Adenocarcinoma	67	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0007169	0		Diagnosis	Adenocarcinoma	75	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-MSK-P-0007175	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0007296	0		Diagnosis	Adenocarcinoma	35	Colon and Rectum	Mucinous adenocarcinoma	1	0		Yes	Stage III
+GENIE-MSK-P-0007391	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage III
+GENIE-MSK-P-0007405	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma in adenomatous polyp	13	0		Yes	Stage IV
+GENIE-MSK-P-0007410	0		Diagnosis	Adenocarcinoma	33	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0007414	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage III
+GENIE-MSK-P-0007495	0		Diagnosis	Adenocarcinoma	78	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0	Yes	Yes	Stage I
+GENIE-MSK-P-0007511	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0007541	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	1	1		Yes	Stage IV
+GENIE-MSK-P-0007541	88		Diagnosis		69	Bladder Cancer		0	2	No	No	Stage I
+GENIE-MSK-P-0007550	0		Diagnosis	Adenocarcinoma	46	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0007586	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-MSK-P-0007592	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage II
+GENIE-MSK-P-0007600	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-MSK-P-0007645	0		Diagnosis	Adenocarcinoma	84	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0007688	0		Diagnosis	Adenocarcinoma	81	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	0	0		Yes	Stage II
+GENIE-MSK-P-0007746	-5188		Diagnosis		50	Uterus Cancer	Endometrioid carcinoma	1	1	No	No	
+GENIE-MSK-P-0007746	-5188		Diagnosis		50	Ovarian Cancer	Papillary serous cystadenocarcinoma	1	2	No	No	
+GENIE-MSK-P-0007746	0		Diagnosis	Adenocarcinoma	65	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	3		Yes	Stage I
+GENIE-MSK-P-0007774	-607		Diagnosis		71	Renal Kidney Cancer	Clear cell adenocarcinoma, NOS	0	1		No	Stage I
+GENIE-MSK-P-0007774	0		Diagnosis	Adenocarcinoma	73	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage III
+GENIE-MSK-P-0007831	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	0	0	No	Yes	Stage II
+GENIE-MSK-P-0007836	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0007843	0		Diagnosis	Adenocarcinoma	31	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	1	0		Yes	Stage III
+GENIE-MSK-P-0007863	0		Diagnosis	Adenocarcinoma	34	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-MSK-P-0007882	0		Diagnosis	Adenocarcinoma	79	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0007997	0		Diagnosis	Carcinoma	56	Colon and Rectum	Medullary carcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0007998	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-MSK-P-0008019	0		Diagnosis	Adenocarcinoma	32	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0008031	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0008059	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Mucinous adenocarcinoma	5	0		Yes	Stage IV
+GENIE-MSK-P-0008083	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	19	1		Yes	Stage IV
+GENIE-MSK-P-0008083	499		Diagnosis		65	Prostate Cancer	Adenocarcinoma, NOS	3	2		No	Stage III
+GENIE-MSK-P-0008128	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage IV
+GENIE-MSK-P-0008133	0		Diagnosis	Adenocarcinoma	55	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0008226	0		Diagnosis	Adenocarcinoma	27	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0008288	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0008377	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0008467	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0008504	-8970		Diagnosis		60	Melanoma	Malignant melanoma, NOS	0	1	No	No	
+GENIE-MSK-P-0008504	-3809		Diagnosis		74	Breast	Invasive carcinoma of no special type	2	2		No	
+GENIE-MSK-P-0008504	-3066		Diagnosis		76	Melanoma	Superficial spreading melanoma	0	3		No	Stage I
+GENIE-MSK-P-0008504	-527		Diagnosis		83	Other	Myelodysplastic syndrome, NOS	0	4		No	
+GENIE-MSK-P-0008504	0		Diagnosis	Adenocarcinoma	85	Colon and Rectum	Adenocarcinoma, NOS	1	5		Yes	Stage III
+GENIE-MSK-P-0008521	0		Diagnosis	Adenocarcinoma	63	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	3	0		Yes	Stage III
+GENIE-MSK-P-0008541	0		Diagnosis	Adenocarcinoma	39	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0008551	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0008565	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0008582	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0008583	-947		Diagnosis		41	Breast	Infiltr. duct mixed with other types of carcinoma, in situ	1	1		No	Stage 0
+GENIE-MSK-P-0008583	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	4	2		Yes	Stage IV
+GENIE-MSK-P-0008588	0		Diagnosis	Adenocarcinoma	68	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	1		Yes	Stage IV
+GENIE-MSK-P-0008588	28		Diagnosis		68	Anal Cancer	Squamous cell carcinoma, NOS	1	2		No	Stage III
+GENIE-MSK-P-0008594	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0008651	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage III
+GENIE-MSK-P-0008683	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Mucinous adenocarcinoma	3	0		Yes	Stage II
+GENIE-MSK-P-0008690	-58		Diagnosis		67	Prostate Cancer	Adenocarcinoma, NOS	0	1		No	
+GENIE-MSK-P-0008690	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	6	2		Yes	Stage III
+GENIE-MSK-P-0008735	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Mucinous adenocarcinoma	5	0		Yes	Stage IV
+GENIE-MSK-P-0008746	0		Diagnosis	Carcinoma	67	Colon and Rectum	Medullary carcinoma, NOS	2	0		Yes	Stage II
+GENIE-MSK-P-0008753	-3430		Diagnosis		59	Prostate Cancer	Adenocarcinoma, NOS	0	1	No	No	
+GENIE-MSK-P-0008753	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage III
+GENIE-MSK-P-0008819	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	4	0		Yes	Stage IV
+GENIE-MSK-P-0008841	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-MSK-P-0008913	0		Diagnosis	Adenocarcinoma	66	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage II
+GENIE-MSK-P-0008941	0		Diagnosis	Adenocarcinoma	69	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	2	0	No	Yes	Stage I
+GENIE-MSK-P-0009009	0		Diagnosis	Adenocarcinoma	75	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	1	0		Yes	Stage IV
+GENIE-MSK-P-0009053	0		Diagnosis	Adenocarcinoma	69	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0009114	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0009121	0		Diagnosis	Other histologies/mixed tumor	46	Rectum and Rectosigmoid Cancer	Signet ring cell carcinoma	3	0	Yes	Yes	Stage III
+GENIE-MSK-P-0009142	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage IV
+GENIE-MSK-P-0009145	0		Diagnosis	Adenocarcinoma	55	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	8	0		Yes	Stage II
+GENIE-MSK-P-0009149	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0009157	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Mucinous adenocarcinoma	1	1		Yes	Stage III
+GENIE-MSK-P-0009157	70		Diagnosis		51	Non Small Cell Lung Cancer	Adenocarcinoma with mixed subtypes	0	2		No	Stage I
+GENIE-MSK-P-0009157	158		Diagnosis		52	Non Small Cell Lung Cancer	Adenocarcinoma with mixed subtypes	0	3		No	Stage I
+GENIE-MSK-P-0009192	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0009200	-7125		Diagnosis		45	Head and Neck Cancer		0	1	Unknown	No	
+GENIE-MSK-P-0009200	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage IV
+GENIE-MSK-P-0009200	20		Diagnosis		64	Breast	Invasive carcinoma of no special type	0	3		No	Stage I
+GENIE-MSK-P-0009252	0		Diagnosis	Other histologies/mixed tumor	26	Colon and Rectum	Signet ring cell carcinoma	4	0		Yes	Stage III
+GENIE-MSK-P-0009294	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma with mixed subtypes	8	0		Yes	Stage IV
+GENIE-MSK-P-0009305	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0009363	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-MSK-P-0009403	-5935		Diagnosis		64	Other	Fibrosarcoma, NOS	0	1	No	No	
+GENIE-MSK-P-0009403	-3135		Diagnosis		72	Non Small Cell Lung Cancer	Adenocarcinoma with mixed subtypes	1	2	No	No	Stage I
+GENIE-MSK-P-0009403	-3135		Diagnosis		72	Non Small Cell Lung Cancer	Lepidic adenocarcinoma	1	3	No	No	Stage I
+GENIE-MSK-P-0009403	-3135		Diagnosis		72	Non Small Cell Lung Cancer		1	4	No	No	Stage I
+GENIE-MSK-P-0009403	-2227		Diagnosis		75	Breast	Lobular carcinoma, NOS	1	5	No	No	
+GENIE-MSK-P-0009403	0		Diagnosis	Adenocarcinoma	81	Colon and Rectum	Adenocarcinoma, NOS	0	6		Yes	Stage I
+GENIE-MSK-P-0009403	8		Diagnosis		81	Non Small Cell Lung Cancer	Mucinous adenocarcinoma	1	7		No	Stage II
+GENIE-MSK-P-0009403	492		Diagnosis		82			0	8		No	
+GENIE-MSK-P-0009403	651		Diagnosis		82	Non Small Cell Lung Cancer	Adenocarcinoma with mixed subtypes	1	9		No	Stage IV
+GENIE-MSK-P-0009445	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0009617	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0009645	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Adenocarcinoma, NOS	5	1		Yes	Stage III
+GENIE-MSK-P-0009645	1216		Diagnosis		74	Bladder Cancer	Papillary trans. cell carcinoma, non-invasive	0	2		No	Stage 0
+GENIE-MSK-P-0009690	0		Diagnosis	Adenocarcinoma	33	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0009757	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0009798	0		Diagnosis	Adenocarcinoma	39	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	0		Yes	Stage II
+GENIE-MSK-P-0009826	0		Diagnosis	Adenocarcinoma	57	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0009842	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0009851	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-MSK-P-0009902	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0009903	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	3	1		Yes	Stage IV
+GENIE-MSK-P-0009903	0		Diagnosis		68	Colon and Rectum	Carcinoma, NOS	3	2		No	Stage IV
+GENIE-MSK-P-0009903	1540		Diagnosis		73	Prostate Cancer	Adenocarcinoma, NOS	1	3		No	
+GENIE-MSK-P-0009903	5022		Diagnosis		82	Bladder Cancer	Papillary trans. cell carcinoma, non-invasive	0	4		No	
+GENIE-MSK-P-0009949	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage III
+GENIE-MSK-P-0009964	0		Diagnosis	Adenocarcinoma	81	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	1		Yes	Stage I
+GENIE-MSK-P-0009964	263		Diagnosis		81	Colon and Rectum		0	2	Not Applicable	No	Stage 0
+GENIE-MSK-P-0009964	337		Diagnosis		82			0	3		No	
+GENIE-MSK-P-0009971	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0009972	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0010022	-8992		Diagnosis		33	Thyroid Cancer		0	1	No	No	
+GENIE-MSK-P-0010022	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage III
+GENIE-MSK-P-0010049	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage II
+GENIE-MSK-P-0010074	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0010098	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0010112	0		Diagnosis	Adenocarcinoma	34	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	1	0		Yes	Stage II
+GENIE-MSK-P-0010125	0		Diagnosis	Other histologies/mixed tumor	68	Rectum and Rectosigmoid Cancer	Adenosquamous carcinoma	1	0		Yes	Stage III
+GENIE-MSK-P-0010139	0		Diagnosis	Adenocarcinoma	37	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0010159	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-MSK-P-0010160	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	0	1		Yes	Stage II
+GENIE-MSK-P-0010160	140		Diagnosis		66	Renal Kidney Cancer		0	2	No	No	
+GENIE-MSK-P-0010167	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0010180	-3955		Diagnosis		46	Prostate Cancer	Adenocarcinoma, NOS	7	1	No	No	
+GENIE-MSK-P-0010180	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma in adenomatous polyp	5	2		Yes	Stage IV
+GENIE-MSK-P-0010207	0		Diagnosis	Adenocarcinoma	41	Colon and Rectum	Adenocarcinoma, NOS	10	0		Yes	Stage III
+GENIE-MSK-P-0010219	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0010238	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	14	0		Yes	Stage IV
+GENIE-MSK-P-0010275	0		Diagnosis		29	Colon and Rectum	Adenocarcinoma, NOS	2	1	No	No	
+GENIE-MSK-P-0010275	0		Diagnosis	Adenocarcinoma	29	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	2		Yes	Stage III
+GENIE-MSK-P-0010360	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0010365	0		Diagnosis	Adenocarcinoma	32	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0010367	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	1		Yes	Stage IV
+GENIE-MSK-P-0010367	0		Diagnosis		44	Rectum and Rectosigmoid Cancer		5	2	Yes	No	
+GENIE-MSK-P-0010393	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	11	1		Yes	Stage IV
+GENIE-MSK-P-0010393	4163		Diagnosis		56	Bladder Cancer	Transitional cell carcinoma, NOS	0	2		No	Stage IV
+GENIE-MSK-P-0010428	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0010432	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0010497	0		Diagnosis	Adenocarcinoma	29	Colon and Rectum	Adenocarcinoma, NOS	6	0	No	Yes	Stage III
+GENIE-MSK-P-0010499	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0010509	-1517		Diagnosis		54	Other	Essential thrombocythemia	0	1		No	
+GENIE-MSK-P-0010509	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	2	2		Yes	Stage IV
+GENIE-MSK-P-0010555	-16		Diagnosis		64	Ill Defined/Cancer of Unknown Primary	Squamous cell carcinoma, NOS	0	1		No	
+GENIE-MSK-P-0010555	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	2		Yes	
+GENIE-MSK-P-0010581	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	1	No	Yes	Stage I-III NOS
+GENIE-MSK-P-0010581	8218		Diagnosis		71	Colon and Rectum	Adenocarcinoma, NOS	5	2		No	Stage III
+GENIE-MSK-P-0010581	9639		Diagnosis		75	Thymus Cancer		0	3	No	No	
+GENIE-MSK-P-0010587	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma in adenomatous polyp	4	0		Yes	Stage III
+GENIE-MSK-P-0010673	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0010680	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	5	0		Yes	Stage IV
+GENIE-MSK-P-0010742	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0010781	0		Diagnosis	Adenocarcinoma	35	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0010783	-12147		Diagnosis		41	Uterus Cancer	Neoplasm, malignant	0	1	Unknown	No	
+GENIE-MSK-P-0010783	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage II
+GENIE-MSK-P-0010783	1069		Diagnosis		77	Bladder Cancer	Transitional cell carcinoma in situ	0	3		No	Stage 0
+GENIE-MSK-P-0010783	1069		Diagnosis		77	Bladder Cancer	Transitional cell carcinoma, NOS	1	4		No	Stage I
+GENIE-MSK-P-0010798	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	0	1	No	Yes	Stage III
+GENIE-MSK-P-0010798	27		Diagnosis		70	Renal Kidney Cancer		0	2		No	
+GENIE-MSK-P-0010798	1142		Diagnosis		73			0	3		No	
+GENIE-MSK-P-0010861	0		Diagnosis	Adenocarcinoma	38	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0010898	0		Diagnosis	Adenocarcinoma	80	Colon and Rectum	Adenocarcinoma, NOS	0	1		Yes	Stage IV
+GENIE-MSK-P-0010898	0		Diagnosis		80	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	0	2	No	No	
+GENIE-MSK-P-0010929	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	0		Yes	Stage I
+GENIE-MSK-P-0010932	0		Diagnosis	Adenocarcinoma	56	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0010960	-6258		Diagnosis		51	Breast	Invasive carcinoma of no special type	4	1	No	No	
+GENIE-MSK-P-0010960	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma in adenomatous polyp	2	2		Yes	Stage IV
+GENIE-MSK-P-0010965	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	1		Yes	Stage III
+GENIE-MSK-P-0010965	96		Diagnosis		64	Lung Cancer, NOS	Combined small cell carcinoma	4	2		No	Stage II
+GENIE-MSK-P-0010985	0		Diagnosis	Adenocarcinoma	81	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0011014	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0011068	-2847		Diagnosis		48	Prostate Cancer	Adenocarcinoma, NOS	0	1	Unknown	No	
+GENIE-MSK-P-0011068	-2116		Diagnosis		50	Melanoma	Malignant melanoma, NOS	0	2	Unknown	No	
+GENIE-MSK-P-0011068	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Mucinous adenocarcinoma	3	3		Yes	Stage II
+GENIE-MSK-P-0011074	0		Diagnosis	Adenocarcinoma	80	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0011108	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-MSK-P-0011124	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	5	1		Yes	Stage IV
+GENIE-MSK-P-0011124	0		Diagnosis		54	Breast	Invasive carcinoma of no special type	1	2		No	Stage III
+GENIE-MSK-P-0011131	0		Diagnosis	Adenocarcinoma	42	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0011195	0		Diagnosis	Adenocarcinoma	33	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0011226	0		Diagnosis	Other histologies/mixed tumor	48	Colon and Rectum	Adenosquamous carcinoma	2	0		Yes	Stage III
+GENIE-MSK-P-0011282	-3626		Diagnosis		62	Prostate Cancer	Adenocarcinoma, NOS	0	1	No	No	
+GENIE-MSK-P-0011282	0		Diagnosis	Adenocarcinoma	72	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	2		Yes	Stage IV
+GENIE-MSK-P-0011282	310		Diagnosis		73	Head and Neck Cancer	Sq. cell carcinoma, keratinizing, NOS	1	3		No	Stage II
+GENIE-MSK-P-0011287	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0011288	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-MSK-P-0011347	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	2	0		Yes	Stage III
+GENIE-MSK-P-0011357	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage II
+GENIE-MSK-P-0011374	0		Diagnosis	Adenocarcinoma	31	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-MSK-P-0011446	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	1	0		Yes	Stage III
+GENIE-MSK-P-0011455	0		Diagnosis	Adenocarcinoma	55	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0011510	0		Diagnosis	Adenocarcinoma	57	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	2	0	Not Applicable	Yes	Stage II
+GENIE-MSK-P-0011512	0		Diagnosis	Adenocarcinoma	69	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0011563	0		Diagnosis	Adenocarcinoma	39	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0012035	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Mucinous adenocarcinoma	4	0		Yes	Stage IV
+GENIE-MSK-P-0012100	-639		Diagnosis		73	Prostate Cancer	Adenocarcinoma, NOS	0	1		No	Stage III
+GENIE-MSK-P-0012100	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	0	2		Yes	Stage I
+GENIE-MSK-P-0012110	0		Diagnosis	Other histologies/mixed tumor	35	Rectum and Rectosigmoid Cancer	Signet ring cell carcinoma	3	0		Yes	Stage IV
+GENIE-MSK-P-0012135	0		Diagnosis	Adenocarcinoma	33	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-MSK-P-0012147	0		Diagnosis	Adenocarcinoma	55	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0012249	-372		Diagnosis		60	Colon and Rectum	Adenocarcinoma, NOS	0	1	No	No	
+GENIE-MSK-P-0012249	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Mucinous adenocarcinoma	3	2		Yes	Stage III
+GENIE-MSK-P-0012266	0		Diagnosis	Adenocarcinoma	72	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	1		Yes	Stage II
+GENIE-MSK-P-0012266	7		Diagnosis		72	Thyroid Cancer		0	2		No	
+GENIE-MSK-P-0012268	-399		Diagnosis		48	Other	Dermatofibrosarcoma, NOS	1	1	Yes	No	
+GENIE-MSK-P-0012268	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage IV
+GENIE-MSK-P-0012340	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage II
+GENIE-MSK-P-0012389	0		Diagnosis	Adenocarcinoma	40	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	4	0		Yes	Stage III
+GENIE-MSK-P-0012399	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0012415	0		Diagnosis	Adenocarcinoma	55	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0012418	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0012419	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0012651	-5404		Diagnosis		52	Ovarian Cancer		1	1	No	No	
+GENIE-MSK-P-0012651	-5404		Diagnosis		52	Uterus Cancer		1	2	No	No	
+GENIE-MSK-P-0012651	0		Diagnosis	Adenocarcinoma	67	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	3		Yes	Stage IV
+GENIE-MSK-P-0012651	358		Diagnosis		68	Other		1	4		No	Stage IV
+GENIE-MSK-P-0012653	0		Diagnosis	Adenocarcinoma	61	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	2	0		Yes	Stage IV
+GENIE-MSK-P-0012683	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0012708	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	6	0		Yes	Stage IV
+GENIE-MSK-P-0012742	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Mucinous adenocarcinoma	3	0		Yes	Stage II
+GENIE-MSK-P-0012847	0		Diagnosis	Adenocarcinoma	62	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0012900	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage II
+GENIE-MSK-P-0013010	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0013055	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	6	0		Yes	Stage III
+GENIE-MSK-P-0013082	0		Diagnosis	Adenocarcinoma	41	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0013087	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Mucinous adenocarcinoma	10	0		Yes	Stage III
+GENIE-MSK-P-0013088	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0	Yes	Yes	Stage III
+GENIE-MSK-P-0013096	0		Diagnosis	Adenocarcinoma	33	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-MSK-P-0013103	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0013121	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage II
+GENIE-MSK-P-0013227	0		Diagnosis	Adenocarcinoma	28	Colon and Rectum	Mucinous adenocarcinoma	4	0		Yes	Stage IV
+GENIE-MSK-P-0013258	0		Diagnosis	Other histologies/mixed tumor	28	Colon and Rectum	Signet ring cell carcinoma	7	0		Yes	Stage IV
+GENIE-MSK-P-0013277	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0013290	0		Diagnosis	Other histologies/mixed tumor	64	Colon and Rectum	Signet ring cell carcinoma	4	0		Yes	Stage III
+GENIE-MSK-P-0013357	0		Diagnosis	Adenocarcinoma	73	Colon and Rectum	Mucinous adenocarcinoma	0	0		Yes	Stage II
+GENIE-MSK-P-0013461	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0013594	0		Diagnosis	Adenocarcinoma	52	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0013758	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0013784	-7216		Diagnosis		64	Breast	Invasive carcinoma of no special type	1	1	No	No	
+GENIE-MSK-P-0013784	0		Diagnosis	Adenocarcinoma	84	Colon and Rectum	Adenocarcinoma, NOS	2	2		Yes	Stage II
+GENIE-MSK-P-0013784	69		Diagnosis		84	Breast	Invasive carcinoma of no special type	1	3	No	No	
+GENIE-MSK-P-0013785	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Mucinous adenocarcinoma	4	0		Yes	Stage III
+GENIE-MSK-P-0013786	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	5	1		Yes	Stage IV
+GENIE-MSK-P-0013786	0		Diagnosis		60	Colon and Rectum	Adenocarcinoma, NOS	5	2		No	Stage IV
+GENIE-MSK-P-0013787	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Mucinous adenocarcinoma	0	0		Yes	Stage II
+GENIE-MSK-P-0013799	0		Diagnosis	Adenocarcinoma	62	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	6	0		Yes	Stage III
+GENIE-MSK-P-0013820	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0013822	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	1		Yes	Stage III
+GENIE-MSK-P-0013822	10		Diagnosis		74	Pancreatic Cancer	Adenosquamous carcinoma	0	2		No	Stage II
+GENIE-MSK-P-0013856	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	7	0		Yes	Stage IV
+GENIE-MSK-P-0013876	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	1	0		Yes	Stage II
+GENIE-MSK-P-0013897	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Mucinous adenocarcinoma	5	1		Yes	Stage IV
+GENIE-MSK-P-0013897	1182		Diagnosis		66	Colon and Rectum		2	2		No	Stage IV
+GENIE-MSK-P-0013897	2543		Diagnosis		70	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	0	3		No	Stage II
+GENIE-MSK-P-0013897	3117		Diagnosis		72	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	1	4		No	Stage III
+GENIE-MSK-P-0013941	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma in adenomatous polyp	6	0		Yes	Stage IV
+GENIE-MSK-P-0013955	0		Diagnosis	Adenocarcinoma	52	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0013981	0		Diagnosis	Carcinoma	80	Colon and Rectum	Carcinoma, NOS	0	0		Yes	Stage III
+GENIE-MSK-P-0013982	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	5	0		Yes	Stage IV
+GENIE-MSK-P-0014010	0		Diagnosis	Adenocarcinoma	32	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-MSK-P-0014020	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0014021	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	1	0		Yes	Stage II
+GENIE-MSK-P-0014026	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0014066	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	2	1		Yes	Stage III
+GENIE-MSK-P-0014066	28		Diagnosis		49	GIST		0	2	No	No	
+GENIE-MSK-P-0014116	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0014168	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0014190	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage II
+GENIE-MSK-P-0014195	0		Diagnosis	Adenocarcinoma	35	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0014252	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage III
+GENIE-MSK-P-0014296	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0014404	0		Diagnosis	Other histologies/mixed tumor	62	Colon and Rectum	Signet ring cell carcinoma	1	0		Yes	Stage III
+GENIE-MSK-P-0014456	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0014499	0		Diagnosis	Other histologies/mixed tumor	57	Rectum and Rectosigmoid Cancer	Signet ring cell carcinoma	4	0		Yes	Stage III
+GENIE-MSK-P-0014553	0		Diagnosis	Adenocarcinoma	66	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0014555	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0014616	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	0	0		Yes	Stage II
+GENIE-MSK-P-0014787	-4054		Diagnosis		50	Breast	Neoplasm, malignant	5	1	No	No	
+GENIE-MSK-P-0014787	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	0	2		Yes	Stage I
+GENIE-MSK-P-0014858	0		Diagnosis	Adenocarcinoma	54	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	4	0		Yes	Stage III
+GENIE-MSK-P-0014863	-2961		Diagnosis		61	Other	Endometrioid carcinoma	0	1		No	
+GENIE-MSK-P-0014863	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	3	2		Yes	Stage IV
+GENIE-MSK-P-0014874	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0014899	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0	Yes	Yes	Stage II
+GENIE-MSK-P-0014945	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0014971	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	3	0	Yes	Yes	Stage II
+GENIE-MSK-P-0014994	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0015016	0		Diagnosis	Adenocarcinoma	75	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0015055	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0015121	0		Diagnosis	Adenocarcinoma	32	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0015149	0		Diagnosis	Adenocarcinoma	41	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0015190	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0015208	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0015210	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0015244	0		Diagnosis	Adenocarcinoma	39	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0015276	-3361		Diagnosis		52	Prostate Cancer	Adenocarcinoma, NOS	1	1	No	No	Stage II
+GENIE-MSK-P-0015276	0		Diagnosis	Adenocarcinoma	61	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	2	Not Applicable	Yes	Stage II
+GENIE-MSK-P-0015295	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0015366	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0015411	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage II
+GENIE-MSK-P-0015416	0		Diagnosis	Adenocarcinoma	32	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0015443	0		Diagnosis	Adenocarcinoma	40	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	1	0		Yes	Stage IV
+GENIE-MSK-P-0015474	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0015477	-2461		Diagnosis		51	Colon and Rectum	Adenocarcinoma in situ in tubulovillous adenoma	0	1		No	Stage 0
+GENIE-MSK-P-0015477	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Mucinous adenocarcinoma	5	2		Yes	Stage IV
+GENIE-MSK-P-0015566	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0015567	0		Diagnosis	Adenocarcinoma	74	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	1	No	Yes	Stage II
+GENIE-MSK-P-0015567	2105		Diagnosis		79	Pancreatic Cancer	Invasive carcinoma of no special type	1	2		No	Stage II
+GENIE-MSK-P-0015647	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	1	0	No	Yes	Stage III
+GENIE-MSK-P-0015711	0		Diagnosis	Other histologies/mixed tumor	74	Rectum and Rectosigmoid Cancer	Composite carcinoid	4	0		Yes	Stage IV
+GENIE-MSK-P-0015730	0		Diagnosis	Adenocarcinoma	55	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0015735	0		Diagnosis	Adenocarcinoma	35	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0015775	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	2	0		Yes	Stage IV
+GENIE-MSK-P-0015782	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0015851	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma in adenomatous polyp	2	0		Yes	Stage III
+GENIE-MSK-P-0015884	0		Diagnosis	Adenocarcinoma	57	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0015893	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-MSK-P-0016030	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0016051	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0016067	0		Diagnosis	Adenocarcinoma	67	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	1	Yes	Yes	Stage III
+GENIE-MSK-P-0016067	1455		Diagnosis		71	Prostate Cancer	Adenocarcinoma, NOS	0	2		No	Stage II
+GENIE-MSK-P-0016111	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0016169	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-MSK-P-0016181	-1570		Diagnosis		71	Non Small Cell Lung Cancer	Adenocarcinoma, NOS	2	1		No	Stage IV
+GENIE-MSK-P-0016181	0		Diagnosis	Adenocarcinoma	75	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage II
+GENIE-MSK-P-0016183	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-MSK-P-0016189	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0016206	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-MSK-P-0016227	0		Diagnosis	Adenocarcinoma	55	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0016235	-211		Diagnosis		72	Prostate Cancer	Adenocarcinoma, NOS	0	1		No	
+GENIE-MSK-P-0016235	0		Diagnosis	Adenocarcinoma	73	Colon and Rectum	Adenocarcinoma, NOS	3	2		Yes	Stage IV
+GENIE-MSK-P-0016266	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0016278	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0016293	0		Diagnosis	Adenocarcinoma	70	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0016441	0		Diagnosis	Adenocarcinoma	56	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	1	0		Yes	Stage III
+GENIE-MSK-P-0016443	0		Diagnosis	Adenocarcinoma	37	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-MSK-P-0016485	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0016508	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	1		Yes	Stage III
+GENIE-MSK-P-0016508	40		Diagnosis		53	Breast	Invasive carcinoma of no special type	1	2		No	Stage I
+GENIE-MSK-P-0016522	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	1	0	No	Yes	Stage II
+GENIE-MSK-P-0016550	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma, NOS	4	0	No	Yes	Stage III
+GENIE-MSK-P-0016552	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Mucinous adenocarcinoma	3	1		Yes	Stage III
+GENIE-MSK-P-0016552	253		Diagnosis		47	Thyroid Cancer	Papillary adenocarcinoma, NOS	0	2		No	Stage I
+GENIE-MSK-P-0016560	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma in adenomatous polyp	4	0		Yes	Stage IV
+GENIE-MSK-P-0016603	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0016606	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage IV
+GENIE-MSK-P-0016696	0		Diagnosis	Adenocarcinoma	79	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0016767	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	4	0	No	Yes	Stage III
+GENIE-MSK-P-0016847	0		Diagnosis	Adenocarcinoma	41	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0016937	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	6	0	No	Yes	Stage III
+GENIE-MSK-P-0016963	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0016967	0		Diagnosis	Adenocarcinoma	42	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	12	0		Yes	Stage IV
+GENIE-MSK-P-0017008	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0017016	-1024		Diagnosis		45	Colon and Rectum	Signet ring cell carcinoma	0	1	No	No	Stage 0
+GENIE-MSK-P-0017016	0		Diagnosis		48	Rectum and Rectosigmoid Cancer		0	2	No	Yes	Stage I
+GENIE-MSK-P-0017249	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0017263	-3381		Diagnosis		61	Prostate Cancer	Adenocarcinoma, NOS	0	1		No	
+GENIE-MSK-P-0017263	0		Diagnosis	Adenocarcinoma	70	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	2		Yes	Stage I
+GENIE-MSK-P-0017263	507		Diagnosis		72	Bladder Cancer	Transitional cell carcinoma, NOS	2	3		No	Stage IV
+GENIE-MSK-P-0017360	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0017419	0		Diagnosis	Adenocarcinoma	41	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	1		Yes	Stage III
+GENIE-MSK-P-0017419	29		Diagnosis		41	Renal Kidney Cancer	Clear cell adenocarcinoma, NOS	0	2		No	Stage I
+GENIE-MSK-P-0017538	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Mucinous adenocarcinoma	0	0	No	Yes	Stage II
+GENIE-MSK-P-0017540	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Mucinous adenocarcinoma	2	0		Yes	Stage II
+GENIE-MSK-P-0017565	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	10	0		Yes	Stage IV
+GENIE-MSK-P-0017583	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	0	0	No	Yes	Stage II
+GENIE-MSK-P-0017589	0		Diagnosis	Adenocarcinoma	61	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	7	0		Yes	Stage IV
+GENIE-MSK-P-0017621	0		Diagnosis	Adenocarcinoma	61	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0017766	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	10	0		Yes	Stage II
+GENIE-MSK-P-0017800	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Mucinous adenocarcinoma	8	0	No	Yes	Stage III
+GENIE-MSK-P-0017807	-3034		Diagnosis		71	Prostate Cancer	Adenocarcinoma, NOS	0	1	No	No	Stage I
+GENIE-MSK-P-0017807	0		Diagnosis	Adenocarcinoma	79	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	4	2		Yes	Stage III
+GENIE-MSK-P-0017828	0		Diagnosis	Adenocarcinoma	63	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	8	0	Not Applicable	Yes	Stage II
+GENIE-MSK-P-0017831	0		Diagnosis	Adenocarcinoma	75	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0017919	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma in adenomatous polyp	7	0		Yes	Stage IV
+GENIE-MSK-P-0017925	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	4	0	No	Yes	Stage III
+GENIE-MSK-P-0017994	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-MSK-P-0018015	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0018050	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0018070	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0018084	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage III
+GENIE-MSK-P-0018109	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0018153	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage II
+GENIE-MSK-P-0018176	0		Diagnosis	Adenocarcinoma	80	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0018208	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0018214	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	2	0	No	Yes	Stage III
+GENIE-MSK-P-0018241	-2009		Diagnosis		38	Other	Squamous cell carcinoma, NOS	0	1	No	No	
+GENIE-MSK-P-0018241	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	2		Yes	Stage III
+GENIE-MSK-P-0018249	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Mucinous adenocarcinoma	5	0		Yes	Stage IV
+GENIE-MSK-P-0018294	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0018329	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0018352	0		Diagnosis	Adenocarcinoma	33	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-MSK-P-0018368	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	11	0		Yes	Stage IV
+GENIE-MSK-P-0018374	-6840		Diagnosis		52	Rectum and Rectosigmoid Cancer		0	1		No	
+GENIE-MSK-P-0018374	-3676		Diagnosis		61	Colon and Rectum	Adenocarcinoma, NOS	1	2	No	No	Stage III
+GENIE-MSK-P-0018374	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Adenocarcinoma, NOS	1	3		Yes	Stage III
+GENIE-MSK-P-0018402	0		Diagnosis	Adenocarcinoma	67	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0018437	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0018448	-440		Diagnosis		70	Breast	Lobular carcinoma in situ	2	1		No	
+GENIE-MSK-P-0018448	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Adenocarcinoma, NOS	4	2		Yes	Stage IV
+GENIE-MSK-P-0018485	-1205		Diagnosis		53	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	1	No	No	
+GENIE-MSK-P-0018485	0		Diagnosis		56	Colon and Rectum		5	2		Yes	Stage IV
+GENIE-MSK-P-0018514	-2015		Diagnosis		50	Vulva Cancer		7	1		No	
+GENIE-MSK-P-0018514	0		Diagnosis	Adenocarcinoma	55	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage IV
+GENIE-MSK-P-0018585	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Mucinous adenocarcinoma	5	1	No	Yes	Stage III
+GENIE-MSK-P-0018585	606		Diagnosis		69	GIST		0	2		No	
+GENIE-MSK-P-0018588	-718		Diagnosis		63	Prostate Cancer	Adenocarcinoma, NOS	6	1		No	Stage III
+GENIE-MSK-P-0018588	0		Diagnosis	Adenocarcinoma	65	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	2		Yes	Stage I
+GENIE-MSK-P-0018593	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0018696	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Mucinous adenocarcinoma	2	0		Yes	Stage II
+GENIE-MSK-P-0018701	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-MSK-P-0018721	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0018760	0		Diagnosis	Adenocarcinoma	27	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0018777	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	1	0	No	Yes	Stage III
+GENIE-MSK-P-0018831	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0018841	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Mucinous adenocarcinoma	1	0		Yes	Stage IV
+GENIE-MSK-P-0018846	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0018855	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0018862	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0018933	0		Diagnosis	Adenocarcinoma	77	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0018946	0		Diagnosis	Adenocarcinoma	72	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	1	Yes	Yes	Stage III
+GENIE-MSK-P-0018946	17		Diagnosis		72	Non Small Cell Lung Cancer	Adenocarcinoma, NOS	0	2		No	
+GENIE-MSK-P-0018949	-3157		Diagnosis		64	Prostate Cancer	Adenocarcinoma, NOS	1	1		No	Stage II
+GENIE-MSK-P-0018949	0		Diagnosis	Adenocarcinoma	72	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	3	2		Yes	Stage III
+GENIE-MSK-P-0018982	0		Diagnosis	Other histologies/mixed tumor	60	Colon and Rectum	Signet ring cell carcinoma	2	0		Yes	Stage III
+GENIE-MSK-P-0019010	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0019021	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-MSK-P-0019044	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Mucinous adenocarcinoma	2	0		Yes	Stage IV
+GENIE-MSK-P-0019062	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0019065	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0019076	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	1		Yes	Stage II
+GENIE-MSK-P-0019076	317		Diagnosis		72	Bladder Cancer	Papillary trans. cell carcinoma, non-invasive	1	2		No	Stage 0
+GENIE-MSK-P-0019096	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Mucinous adenocarcinoma	2	0		Yes	Stage II
+GENIE-MSK-P-0019126	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	7	0		Yes	Stage IV
+GENIE-MSK-P-0019129	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0019146	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-MSK-P-0019183	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage III
+GENIE-MSK-P-0019248	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0019257	0		Diagnosis	Adenocarcinoma	35	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0019267	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	1		Yes	Stage II
+GENIE-MSK-P-0019267	11		Diagnosis		49	Adrenocortical Carcinoma	Adrenal cortical carcinoma	0	2		No	Stage IV
+GENIE-MSK-P-0019319	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0019369	0		Diagnosis	Adenocarcinoma	73	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0019464	-1296		Diagnosis		75	Other	Invasive carcinoma of no special type	3	1		No	Stage III
+GENIE-MSK-P-0019464	0		Diagnosis	Adenocarcinoma	78	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage I
+GENIE-MSK-P-0019475	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0019487	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0019514	0		Diagnosis	Adenocarcinoma	73	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0019529	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0019545	0		Diagnosis	Adenocarcinoma	84	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	0	0	No	Yes	Stage II
+GENIE-MSK-P-0019547	0		Diagnosis	Adenocarcinoma	37	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0019587	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	0		Yes	Stage II
+GENIE-MSK-P-0019594	0		Diagnosis	Adenocarcinoma	83	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-MSK-P-0019621	0		Diagnosis	Adenocarcinoma	40	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	2	0		Yes	Stage II
+GENIE-MSK-P-0019626	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0019637	0		Diagnosis	Adenocarcinoma	37	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	4	0		Yes	Stage IV
+GENIE-MSK-P-0019710	0		Diagnosis	Adenocarcinoma	55	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0	Yes	Yes	Stage III
+GENIE-MSK-P-0019711	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	7	1		Yes	Stage IV
+GENIE-MSK-P-0019711	522		Diagnosis		48	Uterus Cancer	Endometrioid carcinoma	0	2	No	No	
+GENIE-MSK-P-0019737	0		Diagnosis	Adenocarcinoma	66	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0019785	0		Diagnosis	Adenocarcinoma	42	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0019816	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage III
+GENIE-MSK-P-0019846	0		Diagnosis	Adenocarcinoma	79	Colon and Rectum	Mucinous adenocarcinoma	1	0		Yes	Stage III
+GENIE-MSK-P-0019900	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0019949	0		Diagnosis	Adenocarcinoma	27	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0019989	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0020081	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage IV
+GENIE-MSK-P-0020088	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	12	0		Yes	Stage IV
+GENIE-MSK-P-0020135	0		Diagnosis	Adenocarcinoma	35	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	3	0		Yes	Stage IV
+GENIE-MSK-P-0020232	0		Diagnosis	Adenocarcinoma	38	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0020245	0		Diagnosis	Adenocarcinoma	33	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0020251	0		Diagnosis	Adenocarcinoma	72	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0020252	-7270		Diagnosis		40	Colon and Rectum	Carcinoma, NOS	1	1	No	No	
+GENIE-MSK-P-0020252	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	2	2		Yes	Stage III
+GENIE-MSK-P-0020252	1606		Diagnosis		64	Bladder Cancer	Papillary trans. cell carcinoma, non-invasive	1	3		No	Stage 0
+GENIE-MSK-P-0020252	1943		Diagnosis		65	Bladder Cancer	Transitional cell carcinoma, NOS	1	4		No	Stage I
+GENIE-MSK-P-0020303	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	3	0	Yes	Yes	Stage II
+GENIE-MSK-P-0020331	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	0	0	No	Yes	Stage II
+GENIE-MSK-P-0020338	0		Diagnosis	Adenocarcinoma	41	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-MSK-P-0020399	0		Diagnosis		48	Colon and Rectum		7	0	No	Yes	Stage III
+GENIE-MSK-P-0020418	0		Diagnosis	Adenocarcinoma	31	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0020423	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage III
+GENIE-MSK-P-0020461	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0020472	0		Diagnosis	Adenocarcinoma	62	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	1	Unknown	Yes	Stage I-III NOS
+GENIE-MSK-P-0020472	1269		Diagnosis		65	Uterus Cancer	Carcinosarcoma, NOS	2	2		No	Stage I
+GENIE-MSK-P-0020480	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Mucinous adenocarcinoma	4	0		Yes	Stage II
+GENIE-MSK-P-0020487	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage III
+GENIE-MSK-P-0020500	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage II
+GENIE-MSK-P-0020573	0		Diagnosis	Other histologies/mixed tumor	40	Colon and Rectum	Signet ring cell carcinoma	3	0		Yes	Stage IV
+GENIE-MSK-P-0020577	-6386		Diagnosis		40	Breast		0	1	Unknown	No	Stage III
+GENIE-MSK-P-0020577	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	5	2		Yes	Stage IV
+GENIE-MSK-P-0020578	0		Diagnosis	Adenocarcinoma	42	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0020633	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	0	1		Yes	Stage II
+GENIE-MSK-P-0020633	178		Diagnosis		49	Uterus Cancer		0	2	No	No	
+GENIE-MSK-P-0020634	-5497		Diagnosis		47	Breast	Intraductal carcinoma, noninfiltrating, NOS	0	1	No	No	
+GENIE-MSK-P-0020634	-324		Diagnosis		61	Breast	Invasive carcinoma of no special type	1	2	Yes	No	Stage I
+GENIE-MSK-P-0020634	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Tubular adenocarcinoma	6	3		Yes	Stage IV
+GENIE-MSK-P-0020636	0		Diagnosis	Adenocarcinoma	40	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0020639	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Mucinous adenocarcinoma	3	0		Yes	Stage II
+GENIE-MSK-P-0020681	0		Diagnosis	Adenocarcinoma	39	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	5	0		Yes	Stage IV
+GENIE-MSK-P-0020689	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	0	No	Yes	Stage II
+GENIE-MSK-P-0020723	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	1	0		Yes	Stage II
+GENIE-MSK-P-0020733	0		Diagnosis	Adenocarcinoma	35	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0020739	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0020791	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	10	0		Yes	Stage III
+GENIE-MSK-P-0020834	0		Diagnosis	Adenocarcinoma	28	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-MSK-P-0020837	-5846		Diagnosis		62	Other	Hodgkin lymphoma, NOS	1	1		No	Stage IV
+GENIE-MSK-P-0020837	-5628		Diagnosis		62			3	2		No	
+GENIE-MSK-P-0020837	0		Diagnosis	Adenocarcinoma	78	Colon and Rectum	Adenocarcinoma, NOS	3	3		Yes	Stage IV
+GENIE-MSK-P-0020838	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0020845	-216		Diagnosis		61	Other	Marginal zone B-cell lymphoma, NOS	0	1		No	Stage II
+GENIE-MSK-P-0020845	-161		Diagnosis		61	Renal Kidney Cancer	Clear cell adenocarcinoma, NOS	0	2		No	Stage I
+GENIE-MSK-P-0020845	0		Diagnosis	Adenocarcinoma	61	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	3		Yes	Stage IV
+GENIE-MSK-P-0020878	0		Diagnosis	Adenocarcinoma	42	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0020946	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0020990	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	6	0		Yes	Stage IV
+GENIE-MSK-P-0021012	0		Diagnosis	Adenocarcinoma	73	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0021018	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	2	1		Yes	Stage III
+GENIE-MSK-P-0021018	1311		Diagnosis		69	Other	Refractory anemia with sideroblasts	0	2		No	
+GENIE-MSK-P-0021049	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Mucinous adenocarcinoma	0	0		Yes	Stage II
+GENIE-MSK-P-0021073	-213		Diagnosis		52	Breast	Intraductal carcinoma, noninfiltrating, NOS	0	1	No	No	
+GENIE-MSK-P-0021073	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	2	2		Yes	Stage IV
+GENIE-MSK-P-0021090	0		Diagnosis	Adenocarcinoma	41	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-MSK-P-0021119	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0021147	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0021153	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	1	0		Yes	Stage III
+GENIE-MSK-P-0021194	-2078		Diagnosis		33	Colon and Rectum	Neuroendocrine carcinoma	2	1		No	Stage IV
+GENIE-MSK-P-0021194	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage II
+GENIE-MSK-P-0021194	0		Diagnosis		38	Colon and Rectum		1	3	No	Yes	Stage II
+GENIE-MSK-P-0021194	0		Diagnosis		38	Colon and Rectum		1	4	No	Yes	Stage II
+GENIE-MSK-P-0021256	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Mucinous adenocarcinoma	1	0	No	Yes	Stage III
+GENIE-MSK-P-0021290	0		Diagnosis	Adenocarcinoma	74	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0021346	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-MSK-P-0021430	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0021518	-1932		Diagnosis		62	Breast	Cribriform carcinoma in situ	0	1	No	No	
+GENIE-MSK-P-0021518	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	5	2		Yes	Stage IV
+GENIE-MSK-P-0021536	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage III
+GENIE-MSK-P-0021537	0		Diagnosis	Adenocarcinoma	69	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage II
+GENIE-MSK-P-0021563	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage II
+GENIE-MSK-P-0021645	-733		Diagnosis		42	Breast	Lobular carcinoma in situ	0	1		No	Stage 0
+GENIE-MSK-P-0021645	0		Diagnosis		44	Colon and Rectum		5	2		Yes	Stage IV
+GENIE-MSK-P-0021744	-8702		Diagnosis		46	Breast	Neoplasm, malignant	0	1	Unknown	No	
+GENIE-MSK-P-0021744	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Mucinous adenocarcinoma	0	2		Yes	Stage II
+GENIE-MSK-P-0021772	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	4	1		Yes	Stage III
+GENIE-MSK-P-0021772	857		Diagnosis		51	Prostate Cancer	Adenocarcinoma, NOS	0	2	No	No	
+GENIE-MSK-P-0021828	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	1	1		Yes	Stage III
+GENIE-MSK-P-0021828	30		Diagnosis		64	Renal Kidney Cancer	Clear cell adenocarcinoma, NOS	0	2		No	Stage I
+GENIE-MSK-P-0021885	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0021926	-3998		Diagnosis		46	Breast	Invasive carcinoma of no special type	2	1	No	No	
+GENIE-MSK-P-0021926	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma, NOS	3	2		Yes	Stage III
+GENIE-MSK-P-0021985	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0022050	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	6	1		Yes	Stage IV
+GENIE-MSK-P-0022050	957		Diagnosis		53	Appendix Cancer		0	2	No	No	
+GENIE-MSK-P-0022090	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	4	0	No	Yes	Stage II
+GENIE-MSK-P-0022095	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0022109	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-MSK-P-0022111	0		Diagnosis	Adenocarcinoma	35	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0	Yes	Yes	Stage II
+GENIE-MSK-P-0022152	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0022171	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-MSK-P-0022190	-5464		Diagnosis		44	Other	Fibrous histiocytoma, malignant	0	1	Unknown	No	
+GENIE-MSK-P-0022190	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	0	2	No	Yes	Stage I
+GENIE-MSK-P-0022190	1446		Diagnosis		63	Breast	Invasive carcinoma of no special type	0	3	Unknown	No	
+GENIE-MSK-P-0022329	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0022356	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	0	0	No	Yes	Stage III
+GENIE-MSK-P-0022409	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0022490	0		Diagnosis	Adenocarcinoma	28	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-MSK-P-0022506	-1598		Diagnosis		59	Uterus Cancer	Endometrioid carcinoma	0	1		No	Stage I
+GENIE-MSK-P-0022506	0		Diagnosis		63	Colon and Rectum		1	2	No	Yes	Stage II
+GENIE-MSK-P-0022508	0		Diagnosis	Adenocarcinoma	45	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0	Yes	Yes	Stage II
+GENIE-MSK-P-0022555	0		Diagnosis	Adenocarcinoma	37	Colon and Rectum	Mucinous adenocarcinoma	5	0		Yes	Stage IV
+GENIE-MSK-P-0022586	-8418		Diagnosis		37	Breast	Carcinoma, NOS	1	1	No	No	
+GENIE-MSK-P-0022586	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	2		Yes	Stage II
+GENIE-MSK-P-0022699	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0022783	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage III
+GENIE-MSK-P-0022797	0		Diagnosis	Adenocarcinoma	31	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage II
+GENIE-MSK-P-0022822	-29		Diagnosis		67	Appendix Cancer		0	1	No	No	
+GENIE-MSK-P-0022822	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma, NOS	1	2		Yes	Stage III
+GENIE-MSK-P-0022879	-146		Diagnosis		52	Breast	Tubular adenocarcinoma	0	1	No	No	
+GENIE-MSK-P-0022879	-146		Diagnosis		52	Other		0	2		No	
+GENIE-MSK-P-0022879	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	0	3	No	Yes	Stage II
+GENIE-MSK-P-0022889	0		Diagnosis	Adenocarcinoma	34	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0022917	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0022921	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	3	1		Yes	Stage IV
+GENIE-MSK-P-0022921	330		Diagnosis		67	Bladder Cancer		0	2		No	
+GENIE-MSK-P-0022921	812		Diagnosis		69	Prostate Cancer		0	3		No	
+GENIE-MSK-P-0022928	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0	Not Applicable	Yes	Stage I-III NOS
+GENIE-MSK-P-0022945	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	4	0		Yes	Stage IV
+GENIE-MSK-P-0022977	-8728		Diagnosis		23	Uterus Cancer		0	1	No	No	
+GENIE-MSK-P-0022977	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Mucinous adenocarcinoma	4	2		Yes	Stage III
+GENIE-MSK-P-0022997	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	1	1		Yes	Stage I
+GENIE-MSK-P-0022997	2310		Diagnosis		67	Melanoma	Superficial spreading melanoma	0	2		No	Stage III
+GENIE-MSK-P-0022997	2327		Diagnosis		67	Melanoma	Melanoma in situ	0	3		No	Stage 0
+GENIE-MSK-P-0023022	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0023057	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0023063	0		Diagnosis	Adenocarcinoma	67	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	0		Yes	Stage I
+GENIE-MSK-P-0023109	0		Diagnosis	Adenocarcinoma	72	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0023128	0		Diagnosis	Adenocarcinoma	39	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	11	0		Yes	Stage IV
+GENIE-MSK-P-0023130	0		Diagnosis	Other histologies/mixed tumor	54	Rectum and Rectosigmoid Cancer	Signet ring cell carcinoma	2	0		Yes	Stage III
+GENIE-MSK-P-0023162	-1201		Diagnosis		57	Breast	Invasive carcinoma of no special type	2	1		No	Stage I
+GENIE-MSK-P-0023162	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage I
+GENIE-MSK-P-0023251	0		Diagnosis	Adenocarcinoma	66	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-MSK-P-0023298	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	0	0		Yes	Stage III
+GENIE-MSK-P-0023443	-4284		Diagnosis		62	Breast	Lobular carcinoma, NOS	3	1		No	
+GENIE-MSK-P-0023443	0		Diagnosis	Adenocarcinoma	73	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	2		Yes	Stage II
+GENIE-MSK-P-0023444	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0023513	0		Diagnosis	Adenocarcinoma	31	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0023516	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0	Yes	Yes	Stage I-III NOS
+GENIE-MSK-P-0023517	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0023551	0		Diagnosis	Adenocarcinoma	42	Colon and Rectum	Adenocarcinoma, NOS	0	0	No	Yes	Stage II
+GENIE-MSK-P-0023588	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0023616	0		Diagnosis	Adenocarcinoma	46	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	13	0		Yes	Stage IV
+GENIE-MSK-P-0023700	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0023731	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	5	1		Yes	Stage III
+GENIE-MSK-P-0023731	0		Diagnosis		54	NET or  Carcinoid		0	2		No	
+GENIE-MSK-P-0023881	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0023943	0		Diagnosis	Adenocarcinoma	38	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0023974	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma in adenomatous polyp	3	0		Yes	Stage II
+GENIE-MSK-P-0024150	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0024155	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma, NOS	2	1		Yes	Stage IV
+GENIE-MSK-P-0024155	0		Diagnosis		76	Other	Carcinoid tumor, malignant	0	2		No	
+GENIE-MSK-P-0024162	0		Diagnosis	Adenocarcinoma	75	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0024201	0		Diagnosis	Adenocarcinoma	55	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0024204	0		Diagnosis	Adenocarcinoma	37	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0024239	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	1	0	No	Yes	Stage III
+GENIE-MSK-P-0024260	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0024286	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma in adenomatous polyp	11	0		Yes	Stage IV
+GENIE-MSK-P-0024298	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0024312	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma in adenomatous polyp	1	0		Yes	Stage I
+GENIE-MSK-P-0024341	0		Diagnosis	Adenocarcinoma	36	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0024383	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0024390	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage I
+GENIE-MSK-P-0024423	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0024425	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	1	0	No	Yes	Stage I-III NOS
+GENIE-MSK-P-0024428	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-MSK-P-0024443	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	12	0		Yes	Stage IV
+GENIE-MSK-P-0024494	0		Diagnosis	Adenocarcinoma	39	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0024521	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Mucinous adenocarcinoma	0	0	No	Yes	Stage II
+GENIE-MSK-P-0024570	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma in adenomatous polyp	5	0		Yes	Stage III
+GENIE-MSK-P-0024603	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-MSK-P-0024651	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma in adenomatous polyp	4	0		Yes	Stage IV
+GENIE-MSK-P-0024692	-3887		Diagnosis		55	Melanoma	Malignant melanoma, NOS	0	1		No	
+GENIE-MSK-P-0024692	-3487		Diagnosis		56	Renal Kidney Cancer	Renal cell carcinoma	0	2	No	No	
+GENIE-MSK-P-0024692	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	3	3		Yes	Stage III
+GENIE-MSK-P-0024745	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0024777	0		Diagnosis	Adenocarcinoma	26	Colon and Rectum	Mucinous adenocarcinoma	3	0		Yes	Stage IV
+GENIE-MSK-P-0024799	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0024824	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	5	0		Yes	Stage III
+GENIE-MSK-P-0024829	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage III
+GENIE-MSK-P-0024832	0		Diagnosis	Adenocarcinoma	56	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0024836	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0024838	0		Diagnosis	Other histologies/mixed tumor	51	Rectum and Rectosigmoid Cancer	Composite carcinoid	1	0		Yes	Stage III
+GENIE-MSK-P-0024924	0		Diagnosis	Adenocarcinoma	33	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0024967	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-MSK-P-0024987	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0025001	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma in adenomatous polyp	5	0		Yes	Stage III
+GENIE-MSK-P-0025046	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-MSK-P-0025047	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-MSK-P-0025048	0		Diagnosis	Adenocarcinoma	62	Colon and Rectum	Mucinous adenocarcinoma	1	0		Yes	Stage II
+GENIE-MSK-P-0025051	0		Diagnosis	Adenocarcinoma	70	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0025073	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage II
+GENIE-MSK-P-0025157	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0025169	0		Diagnosis	Adenocarcinoma	55	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-MSK-P-0025201	0		Diagnosis	Adenocarcinoma	62	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	10	0		Yes	Stage IV
+GENIE-MSK-P-0025207	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0025348	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	5	1		Yes	Stage IV
+GENIE-MSK-P-0025348	195		Diagnosis		52	Thyroid Cancer	Papillary adenocarcinoma, NOS	0	2		No	Stage I
+GENIE-MSK-P-0025362	0		Diagnosis	Adenocarcinoma	62	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-MSK-P-0025444	0		Diagnosis	Adenocarcinoma	40	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-MSK-P-0025468	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0025470	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage I
+GENIE-MSK-P-0025510	0		Diagnosis	Adenocarcinoma	56	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0025547	0		Diagnosis	Adenocarcinoma	52	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0025591	-803		Diagnosis		48	Melanoma	Melanoma in situ	0	1	Unknown	No	Stage 0
+GENIE-MSK-P-0025591	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage IV
+GENIE-MSK-P-0025596	0		Diagnosis	Adenocarcinoma	33	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage IV
+GENIE-MSK-P-0025683	0		Diagnosis	Adenocarcinoma	41	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	1		Yes	Stage III
+GENIE-MSK-P-0025683	1165		Diagnosis		44	Renal Kidney Cancer		0	2	Unknown	No	
+GENIE-MSK-P-0025686	0		Diagnosis	Adenocarcinoma	69	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-MSK-P-0025694	0		Diagnosis	Adenocarcinoma	56	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0025702	0		Diagnosis	Adenocarcinoma	68	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0	Not Applicable	Yes	Stage III
+GENIE-MSK-P-0025715	0		Diagnosis	Adenocarcinoma	18	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-MSK-P-0025773	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage IV
+GENIE-MSK-P-0025791	0		Diagnosis	Adenocarcinoma	37	Colon and Rectum	Mucinous adenocarcinoma	6	0		Yes	Stage III
+GENIE-MSK-P-0025792	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-MSK-P-0025869	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage II
+GENIE-MSK-P-0025883	0		Diagnosis	Other histologies/mixed tumor	46	Colon and Rectum	Signet ring cell carcinoma	6	0		Yes	Stage III
+GENIE-MSK-P-0025925	-6785		Diagnosis		58	Prostate Cancer	Adenocarcinoma, NOS	0	1	Unknown	No	
+GENIE-MSK-P-0025925	0		Diagnosis	Adenocarcinoma	77	Colon and Rectum	Adenocarcinoma, NOS	2	2	No	Yes	Stage III
+GENIE-MSK-P-0025986	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-MSK-P-0026011	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage IV
+GENIE-MSK-P-0026038	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-MSK-P-0026052	0		Diagnosis	Other histologies/mixed tumor	46	Colon and Rectum	Signet ring cell carcinoma	5	0		Yes	Stage IV
+GENIE-MSK-P-0026054	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-VICC-100745	0		Diagnosis		51	Rectum and Rectosigmoid Cancer		1	0	Not Applicable	Yes	Stage III
+GENIE-VICC-101420	0		Diagnosis	Adenocarcinoma	55	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage II
+GENIE-VICC-107145	0		Diagnosis	Adenocarcinoma	29	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	5	0		Yes	Stage III
+GENIE-VICC-107627	0		Diagnosis	Adenocarcinoma	35	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0	Yes	Yes	Stage III
+GENIE-VICC-110462	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-VICC-111844	0		Diagnosis		56	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-VICC-116953	0		Diagnosis	Adenocarcinoma	52	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	0		Yes	Stage II
+GENIE-VICC-123412	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-VICC-124847	-52		Diagnosis		59	Prostate Cancer	Adenocarcinoma, NOS	1	1	Not Applicable	No	Stage II
+GENIE-VICC-124847	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	4	2		Yes	Stage II
+GENIE-VICC-127744	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage II
+GENIE-VICC-127849	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Adenocarcinoma with mixed subtypes	0	0		Yes	Stage IV
+GENIE-VICC-132564	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-132962	0		Diagnosis		62	Rectum and Rectosigmoid Cancer		5	0	Yes	Yes	Stage III
+GENIE-VICC-136181	-10062		Diagnosis		52	Other	Malignant lymphoma, non-Hodgkin	10	1		No	Stage III
+GENIE-VICC-136181	0		Diagnosis	Adenocarcinoma	80	Colon and Rectum	Adenocarcinoma, NOS	2	2		Yes	Stage IV
+GENIE-VICC-143079	0		Diagnosis	Adenocarcinoma	26	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-VICC-143859	0		Diagnosis	Adenocarcinoma	41	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-VICC-144812	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-VICC-148140	0		Diagnosis	Adenocarcinoma	37	Colon and Rectum	Mucinous adenocarcinoma	4	1		Yes	Stage III
+GENIE-VICC-148140	1574		Diagnosis		41	Prostate Cancer		1	2	Not Applicable	No	Stage II
+GENIE-VICC-154822	0		Diagnosis	Adenocarcinoma	39	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-VICC-155993	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-VICC-156786	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-158210	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-VICC-165070	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-VICC-165276	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-VICC-165395	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Mucinous adenocarcinoma	1	0		Yes	Stage IV
+GENIE-VICC-168204	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-169722	-373		Diagnosis		73	Colon and Rectum		0	1	No	No	Stage I
+GENIE-VICC-169722	0		Diagnosis		74	Colon and Rectum		2	2	No	Yes	Stage III
+GENIE-VICC-171259	0		Diagnosis		42	Colon and Rectum		2	0	No	Yes	Stage III
+GENIE-VICC-174509	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	11	0		Yes	Stage IV
+GENIE-VICC-178194	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-VICC-179696	-1932		Diagnosis		58			1	1		No	
+GENIE-VICC-179696	0		Diagnosis		64	Colon and Rectum		3	2		Yes	Stage IV
+GENIE-VICC-181846	0		Diagnosis	Adenocarcinoma	50	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-VICC-182499	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-VICC-183854	0		Diagnosis		45	Colon and Rectum		4	0		Yes	Stage IV
+GENIE-VICC-185466	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-VICC-189040	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma in villous adenoma	1	0		Yes	Stage IV
+GENIE-VICC-189547	0		Diagnosis	Adenocarcinoma	31	Colon and Rectum	Mucinous adenocarcinoma	3	0		Yes	Stage IV
+GENIE-VICC-189972	0		Diagnosis	Adenocarcinoma	35	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-VICC-194719	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-203897	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage IV
+GENIE-VICC-204137	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage IV
+GENIE-VICC-204668	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Mucinous adenocarcinoma	4	0		Yes	Stage II
+GENIE-VICC-205976	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage III
+GENIE-VICC-206031	-4003		Diagnosis		58	Thyroid Cancer	Papillary adenocarcinoma, NOS	0	1		No	Stage IV
+GENIE-VICC-206031	0		Diagnosis	Adenocarcinoma	69	Colon and Rectum	Adenocarcinoma, NOS	3	2		Yes	Stage IV
+GENIE-VICC-206589	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-207633	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-212081	0		Diagnosis		59	Colon and Rectum		5	0	No	Yes	Stage III
+GENIE-VICC-214671	0		Diagnosis		58	Colon and Rectum		0	0		Yes	Stage IV
+GENIE-VICC-222277	0		Diagnosis	Adenocarcinoma	74	Rectum and Rectosigmoid Cancer	Adenocarcinoma in villous adenoma	2	0		Yes	Stage II
+GENIE-VICC-223599	0		Diagnosis		24	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-VICC-225013	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-VICC-225161	0		Diagnosis	Adenocarcinoma	40	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-228685	0		Diagnosis		54	Colon and Rectum		7	0		Yes	Stage IV
+GENIE-VICC-229859	0		Diagnosis	Adenocarcinoma	25	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-VICC-229928	0		Diagnosis		57	Colon and Rectum		5	0		Yes	Stage IV
+GENIE-VICC-231144	0		Diagnosis	Adenocarcinoma	52	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-VICC-233305	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	1	0		Yes	Stage IV
+GENIE-VICC-242063	0		Diagnosis		62	Colon and Rectum		4	0		Yes	Stage IV
+GENIE-VICC-254752	0		Diagnosis		46	Colon and Rectum		2	0	No	Yes	Stage III
+GENIE-VICC-255292	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-VICC-258862	0		Diagnosis		71	Colon and Rectum		2	0	No	Yes	Stage II
+GENIE-VICC-260421	0		Diagnosis	Adenocarcinoma	63	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-264732	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	9	0		Yes	Stage III
+GENIE-VICC-265939	-1137		Diagnosis		40	Colon and Rectum	Adenocarcinoma in adenomatous polyp	0	1		No	Stage 0
+GENIE-VICC-265939	0		Diagnosis		43	Rectum and Rectosigmoid Cancer		4	2	No	Yes	Stage III
+GENIE-VICC-274190	0		Diagnosis		61	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-VICC-275019	-2297		Diagnosis		42	Melanoma	Superficial spreading melanoma	0	1		No	Stage I
+GENIE-VICC-275019	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Mucinous adenocarcinoma	4	2		Yes	Stage III
+GENIE-VICC-278039	0		Diagnosis	Adenocarcinoma	70	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	1		Yes	Stage II
+GENIE-VICC-278039	0		Diagnosis	Adenocarcinoma	70	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	0	2		Yes	Stage II
+GENIE-VICC-279076	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-VICC-284861	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	1		Yes	Stage III
+GENIE-VICC-284861	1830		Diagnosis		54	Testis Cancer	Seminoma, NOS	0	2		No	Stage I
+GENIE-VICC-287420	0		Diagnosis		64	Colon and Rectum		5	0		Yes	Stage IV
+GENIE-VICC-290129	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-VICC-290689	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Papillary adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-294415	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-299035	0		Diagnosis		51	Colon and Rectum		3	0		Yes	Stage IV
+GENIE-VICC-301318	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-VICC-308169	-5673		Diagnosis		43	Brain Cancer	Astrocytoma, anaplastic	0	1		No	
+GENIE-VICC-308169	-1816		Diagnosis		54	Melanoma		0	2	No	No	Stage I
+GENIE-VICC-308169	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma in villous adenoma	2	3		Yes	Stage IV
+GENIE-VICC-310869	0		Diagnosis	Adenocarcinoma	37	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	1		Yes	Stage IV
+GENIE-VICC-310869	13		Diagnosis		37	Non Small Cell Lung Cancer	Adenocarcinoma with mixed subtypes	0	2		No	Stage I
+GENIE-VICC-310883	0		Diagnosis		57	Colon and Rectum		5	0		Yes	Stage IV
+GENIE-VICC-311749	0		Diagnosis	Adenocarcinoma	30	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-313067	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	7	1		Yes	Stage I
+GENIE-VICC-313067	290		Diagnosis		61	Thyroid Cancer	Medullary carcinoma, NOS	0	2		No	Stage II
+GENIE-VICC-316669	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-VICC-321793	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	2	0		Yes	Stage III
+GENIE-VICC-324835	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Mucinous adenocarcinoma	6	0		Yes	Stage III
+GENIE-VICC-327435	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-328685	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Mucinous adenocarcinoma	4	0		Yes	Stage IV
+GENIE-VICC-329884	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Mucinous adenocarcinoma	5	0		Yes	Stage IV
+GENIE-VICC-332173	0		Diagnosis	Adenocarcinoma	65	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-335983	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-337559	0		Diagnosis	Adenocarcinoma	52	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-VICC-337653	0		Diagnosis	Adenocarcinoma	63	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage IV
+GENIE-VICC-338667	0		Diagnosis	Carcinoma	38	Colon and Rectum	Carcinoma, NOS	3	0		Yes	Stage III
+GENIE-VICC-339054	0		Diagnosis	Adenocarcinoma	72	Colon and Rectum	Adenocarcinoma, NOS	8	0		Yes	Stage IV
+GENIE-VICC-345504	0		Diagnosis		71	Colon and Rectum		5	0		Yes	Stage IV
+GENIE-VICC-345577	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma with mixed subtypes	2	0		Yes	Stage IV
+GENIE-VICC-348185	0		Diagnosis		67	Colon and Rectum		0	0	No	Yes	Stage II
+GENIE-VICC-350240	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma with mixed subtypes	1	0		Yes	Stage IV
+GENIE-VICC-352982	0		Diagnosis		65	Rectum and Rectosigmoid Cancer		1	1	No	Yes	Stage II
+GENIE-VICC-352982	52		Diagnosis		65	Non Small Cell Lung Cancer		0	2	No	No	Stage I
+GENIE-VICC-354098	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	7	1		Yes	Stage I
+GENIE-VICC-354098	2605		Diagnosis		58	Bladder Cancer	Papillary trans. cell carcinoma, non-invasive	0	2		No	Stage 0
+GENIE-VICC-354121	-2511		Diagnosis		59	Breast	Carcinoma, NOS	4	1	Yes	No	Stage II
+GENIE-VICC-354121	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	3	2		Yes	Stage IV
+GENIE-VICC-354269	0		Diagnosis		53	Colon and Rectum		3	0	No	Yes	Stage III
+GENIE-VICC-354847	0		Diagnosis		51	Colon and Rectum		5	0	No	Yes	Stage III
+GENIE-VICC-358004	0		Diagnosis	Adenocarcinoma	62	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage II
+GENIE-VICC-358393	0		Diagnosis		51	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	1		No	Stage III
+GENIE-VICC-358393	0		Diagnosis		51	Colon and Rectum		9	2	Yes	Yes	Stage III
+GENIE-VICC-359498	0		Diagnosis	Adenocarcinoma	66	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage I
+GENIE-VICC-364111	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-VICC-370615	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Mucinous adenocarcinoma	2	0		Yes	Stage III
+GENIE-VICC-374246	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage IV
+GENIE-VICC-378812	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-VICC-380719	0		Diagnosis	Adenocarcinoma	65	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage I
+GENIE-VICC-380850	0		Diagnosis	Adenocarcinoma	57	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-382607	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Mucinous adenocarcinoma	7	1		Yes	Stage IV
+GENIE-VICC-382607	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	7	2		Yes	Stage IV
+GENIE-VICC-383891	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-VICC-385788	0		Diagnosis	Adenocarcinoma	66	Colon and Rectum	Adenocarcinoma, NOS	0	0		Yes	Stage IV
+GENIE-VICC-389872	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Mucinous adenocarcinoma	4	0		Yes	Stage IV
+GENIE-VICC-390430	0		Diagnosis	Adenocarcinoma	43	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	9	0		Yes	Stage IV
+GENIE-VICC-390693	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Mucinous adenocarcinoma	5	0		Yes	Stage III
+GENIE-VICC-396041	0		Diagnosis	Adenocarcinoma	49	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-397091	0		Diagnosis	Adenocarcinoma	36	Colon and Rectum	Adenocarcinoma in adenomatous polyp	9	0		Yes	Stage IV
+GENIE-VICC-398956	0		Diagnosis	Adenocarcinoma	72	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-VICC-400892	0		Diagnosis	Adenocarcinoma	30	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage III
+GENIE-VICC-401622	0		Diagnosis	Adenocarcinoma	48	Colon and Rectum	Adenocarcinoma, NOS	4	0	No	Yes	Stage III
+GENIE-VICC-403084	-4030		Diagnosis		63	Prostate Cancer		0	1		No	
+GENIE-VICC-403084	0		Diagnosis		74	Colon and Rectum		3	2		Yes	Stage IV
+GENIE-VICC-414830	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-416410	0		Diagnosis	Carcinoma	66	Colon and Rectum	Carcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-429860	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	6	0		Yes	Stage III
+GENIE-VICC-434930	0		Diagnosis	Adenocarcinoma	38	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-437919	-257		Diagnosis		52	Liver and Intrahepatic Bile Duct	Hepatocellular carcinoma, NOS	0	1	No	No	Stage I
+GENIE-VICC-437919	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	0	2		Yes	Stage I
+GENIE-VICC-442733	0		Diagnosis		67	Colon and Rectum		4	0	No	Yes	Stage I
+GENIE-VICC-443734	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma in adenomatous polyp	2	0		Yes	Stage IV
+GENIE-VICC-444385	0		Diagnosis	Adenocarcinoma	47	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-VICC-448692	0		Diagnosis	Adenocarcinoma	67	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-456670	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-VICC-461725	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Adenocarcinoma, NOS	10	0		Yes	Stage III
+GENIE-VICC-466163	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-VICC-476323	0		Diagnosis	Adenocarcinoma	51	Rectum and Rectosigmoid Cancer	Adenocarcinoma with mixed subtypes	2	0		Yes	Stage IV
+GENIE-VICC-477779	0		Diagnosis	Other histologies/mixed tumor	53	Colon and Rectum	Signet ring cell carcinoma	2	0		Yes	Stage IV
+GENIE-VICC-478851	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-VICC-481712	0		Diagnosis	Adenocarcinoma	34	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	1	0		Yes	Stage IV
+GENIE-VICC-484816	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-VICC-489032	0		Diagnosis	Adenocarcinoma	61	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage II
+GENIE-VICC-492695	0		Diagnosis		59	Colon and Rectum		0	0		Yes	Stage IV
+GENIE-VICC-497617	0		Diagnosis	Adenocarcinoma	51	Colon and Rectum	Adenocarcinoma, NOS	2	0	No	Yes	Stage II
+GENIE-VICC-499960	0		Diagnosis	Adenocarcinoma	55	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	16	0		Yes	Stage II
+GENIE-VICC-500707	0		Diagnosis	Adenocarcinoma	76	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-VICC-503508	-3455		Diagnosis		58	Brain and Other Nervous System	Meningioma, NOS	0	1			
+GENIE-VICC-503508	0		Diagnosis	Adenocarcinoma	68	Colon and Rectum	Adenocarcinoma, NOS	2	2		Yes	Stage IV
+GENIE-VICC-506235	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-509873	-8721		Diagnosis		34	Breast	Medullary carcinoma, NOS	4	1		No	Stage II
+GENIE-VICC-509873	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	0	2		Yes	Stage IV
+GENIE-VICC-509873	0		Diagnosis		58	Rectum and Rectosigmoid Cancer		0	3		Yes	Stage IV
+GENIE-VICC-513175	0		Diagnosis	Adenocarcinoma	62	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-516280	0		Diagnosis	Adenocarcinoma	66	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	5	0		Yes	Stage III
+GENIE-VICC-516522	-4833		Diagnosis		70	Prostate Cancer		2	1	Not Applicable	No	Stage I
+GENIE-VICC-516522	0		Diagnosis	Adenocarcinoma	83	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	0	2		Yes	Stage IV
+GENIE-VICC-539749	0		Diagnosis		63	Colon and Rectum		2	0		Yes	Stage IV
+GENIE-VICC-554828	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Mucinous adenocarcinoma	4	0		Yes	Stage IV
+GENIE-VICC-560503	0		Diagnosis	Adenocarcinoma	59	Colon and Rectum	Mucinous adenocarcinoma	3	0		Yes	Stage IV
+GENIE-VICC-566196	0		Diagnosis	Adenocarcinoma	33	Rectum and Rectosigmoid Cancer	Adenocarcinoma in adenomatous polyp	6	0		Yes	Stage IV
+GENIE-VICC-577042	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-VICC-582659	0		Diagnosis	Adenocarcinoma	41	Colon and Rectum	Adenocarcinoma, NOS	12	0		Yes	Stage IV
+GENIE-VICC-592606	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-592845	0		Diagnosis		34	Colon and Rectum		2	0	No	Yes	Stage III
+GENIE-VICC-598717	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	3	1		Yes	Stage III
+GENIE-VICC-598717	1191		Diagnosis		46	Non Small Cell Lung Cancer	Acinar cell carcinoma	0	2	No	No	Stage I
+GENIE-VICC-598857	0		Diagnosis		68	Colon and Rectum		2	0	No	Yes	Stage III
+GENIE-VICC-601603	0		Diagnosis	Adenocarcinoma	71	Colon and Rectum	Adenocarcinoma, NOS	1	1		Yes	Stage II
+GENIE-VICC-601603	230		Diagnosis		71	Renal Kidney Cancer	Renal cell carcinoma	0	2		No	Stage I
+GENIE-VICC-609924	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0		Yes	Stage III
+GENIE-VICC-610576	0		Diagnosis	Adenocarcinoma	84	Colon and Rectum	Mucinous adenocarcinoma	2	0		Yes	Stage II
+GENIE-VICC-616048	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma in adenomatous polyp	6	0		Yes	Stage III
+GENIE-VICC-621838	0		Diagnosis		55	Colon and Rectum		3	0	No	Yes	Stage III
+GENIE-VICC-624029	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-624160	0		Diagnosis	Adenocarcinoma	59	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-VICC-632020	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-VICC-636643	0		Diagnosis	Adenocarcinoma	46	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	7	0	No	Yes	Stage II
+GENIE-VICC-647576	0		Diagnosis	Adenocarcinoma	43	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-669338	0		Diagnosis	Adenocarcinoma	58	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-VICC-669632	0		Diagnosis	Adenocarcinoma	56	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-681259	0		Diagnosis	Adenocarcinoma	45	Colon and Rectum	Adenocarcinoma, NOS	2	1		Yes	Stage III
+GENIE-VICC-681259	0		Diagnosis		48	Colon and Rectum		3	2	No	Yes	Stage III
+GENIE-VICC-683928	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage I
+GENIE-VICC-711172	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-VICC-712482	0		Diagnosis		42	Rectum and Rectosigmoid Cancer		3	0		Yes	Stage IV
+GENIE-VICC-714204	0		Diagnosis	Adenocarcinoma	56	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-VICC-715484	0		Diagnosis	Adenocarcinoma	60	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage II
+GENIE-VICC-717363	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma in adenoma. polyposis coli	1	0		Yes	Stage IV
+GENIE-VICC-717874	0		Diagnosis	Adenocarcinoma	36	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-720220	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-VICC-735199	0		Diagnosis	Adenocarcinoma	37	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-VICC-737802	0		Diagnosis		62	Colon and Rectum		5	0		Yes	Stage IV
+GENIE-VICC-738490	0		Diagnosis	Adenocarcinoma	44	Colon and Rectum	Adenocarcinoma, NOS	7	0		Yes	Stage IV
+GENIE-VICC-743403	0		Diagnosis		57	Colon and Rectum		4	0		Yes	Stage IV
+GENIE-VICC-743720	0		Diagnosis	Adenocarcinoma	70	Colon and Rectum	Mucinous adenocarcinoma	2	0		Yes	Stage IV
+GENIE-VICC-753473	0		Diagnosis		49	Colon and Rectum		5	0		Yes	Stage IV
+GENIE-VICC-756267	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma, NOS	5	1		Yes	Stage IV
+GENIE-VICC-756267	0		Diagnosis	Adenocarcinoma	53	Colon and Rectum	Adenocarcinoma, NOS	5	2		Yes	Stage IV
+GENIE-VICC-758432	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage III
+GENIE-VICC-765745	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage III
+GENIE-VICC-768184	0		Diagnosis		56	Colon and Rectum		2	0	No	Yes	Stage II
+GENIE-VICC-773680	0		Diagnosis	Other histologies/mixed tumor	57	Colon and Rectum	Signet ring cell carcinoma	3	0		Yes	Stage IV
+GENIE-VICC-781727	0		Diagnosis		51	Colon and Rectum		6	0		Yes	Stage IV
+GENIE-VICC-784009	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	5	0		Yes	Stage IV
+GENIE-VICC-785919	0		Diagnosis	Adenocarcinoma	35	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage IV
+GENIE-VICC-786605	0		Diagnosis	Adenocarcinoma	46	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	4	0		Yes	Stage IV
+GENIE-VICC-820632	-12634		Diagnosis		43	Breast		0	1	Unknown	No	
+GENIE-VICC-820632	-6790		Diagnosis		59	Breast		1	2	Unknown	No	
+GENIE-VICC-820632	0		Diagnosis		78	Colon and Rectum		0	3	No	Yes	Stage III
+GENIE-VICC-833324	0		Diagnosis		73	Colon and Rectum		1	0	No	Yes	Stage III
+GENIE-VICC-839890	0		Diagnosis	Adenocarcinoma	46	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-841568	0		Diagnosis	Adenocarcinoma	57	Colon and Rectum	Adenocarcinoma, NOS	6	0		Yes	Stage II
+GENIE-VICC-845967	-124		Diagnosis		69	Prostate Cancer		1	1	Not Applicable	No	Stage II
+GENIE-VICC-845967	0		Diagnosis	Adenocarcinoma	69	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	6	2		Yes	Stage II
+GENIE-VICC-849730	0		Diagnosis	Adenocarcinoma	63	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	8	1		Yes	Stage II
+GENIE-VICC-849730	0		Diagnosis		63	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	8	2		No	Stage I
+GENIE-VICC-850935	0		Diagnosis	Adenocarcinoma	78	Colon and Rectum	Adenocarcinoma, NOS	3	1		Yes	Stage III
+GENIE-VICC-850935	238		Diagnosis		79	Other	Chronic lymphocytic leukemia/small lymphocytic lymphoma	0	2		No	
+GENIE-VICC-850935	525		Diagnosis		80	Breast		0	3	Unknown	No	
+GENIE-VICC-858714	0		Diagnosis		62	Colon and Rectum		5	0	No	Yes	Stage II
+GENIE-VICC-863062	0		Diagnosis	Adenocarcinoma	52	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	0		Yes	Stage II
+GENIE-VICC-871543	0		Diagnosis	Adenocarcinoma	86	Colon and Rectum	Adenocarcinoma, NOS	1	0		Yes	Stage II
+GENIE-VICC-874940	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	3	0		Yes	Stage IV
+GENIE-VICC-882887	0		Diagnosis	Adenocarcinoma	54	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-VICC-890950	-10728		Diagnosis		34	Other	Hodgkin lymphoma, NOS	2	1	Not Applicable	No	Stage II
+GENIE-VICC-890950	0		Diagnosis	Adenocarcinoma	64	Colon and Rectum	Adenocarcinoma, NOS	2	2		Yes	Stage IV
+GENIE-VICC-891301	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage II
+GENIE-VICC-892541	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-VICC-895583	0		Diagnosis	Adenocarcinoma	52	Colon and Rectum	Adenocarcinoma, NOS	2	0		Yes	Stage IV
+GENIE-VICC-899430	0		Diagnosis		52	Colon and Rectum		5	0	No	Yes	Stage I
+GENIE-VICC-900184	0		Diagnosis	Adenocarcinoma	37	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-VICC-908007	0		Diagnosis	Adenocarcinoma	64	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	6	0		Yes	Stage IV
+GENIE-VICC-932997	0		Diagnosis	Adenocarcinoma	44	Rectum and Rectosigmoid Cancer	Mucinous adenocarcinoma	4	0		Yes	Stage III
+GENIE-VICC-950467	0		Diagnosis	Adenocarcinoma	58	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	1	0		Yes	Stage IV
+GENIE-VICC-957568	0		Diagnosis		47	Colon and Rectum		8	0		Yes	Stage IV
+GENIE-VICC-976300	0		Diagnosis	Adenocarcinoma	49	Colon and Rectum	Adenocarcinoma, NOS	8	0	No	Yes	Stage III
+GENIE-VICC-977898	0		Diagnosis	Adenocarcinoma	47	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	10	0		Yes	Stage IV
+GENIE-VICC-989853	0		Diagnosis	Adenocarcinoma	48	Rectum and Rectosigmoid Cancer	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage IV
+GENIE-VICC-993800	0		Diagnosis	Adenocarcinoma	53	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	0	0		Yes	Stage IV
+GENIE-VICC-994755	0		Diagnosis	Adenocarcinoma	60	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	2	0		Yes	Stage IV
+GENIE-VICC-995221	0		Diagnosis	Adenocarcinoma	54	Rectum and Rectosigmoid Cancer	Adenocarcinoma, NOS	3	1		Yes	Stage II
+GENIE-VICC-995221	1441		Diagnosis		57	Bladder Cancer	Papillary trans. cell carcinoma, non-invasive	0	2		No	Stage 0
+GENIE-VICC-996370	0		Diagnosis	Adenocarcinoma	50	Colon and Rectum	Adenocarcinoma in tubulovillous adenoma	3	0		Yes	Stage IV
