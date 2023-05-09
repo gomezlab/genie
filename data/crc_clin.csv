@@ -1,0 +1,1354 @@
+clin_Tumor Registry ICD-O-3 Behavior Code,clin_Derived Grade or Differentiation of Tumor,clin_Histology Category,clin_Histology,clin_Neoadjuvant Chemotherapy or Radiation Therapy Before Pathologic Stage Diagnosis,clin_Sites of Distant Metastasis at the Time of Cancer Diagnosis (Stage IV Patients),clin_Stage at Diagnosis,clin_Year of Birth,clin_Ethnicity Category,clin_Primary Race,clin_Sex,clin_Center
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1944,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage II,1950,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,NA,Stage III,1982,Mexican (includes Chicano),White,Female,DFCI
+Unknown,I,NA,NA,No,NA,Stage III,1970,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1979,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,NA,Stage III,1958,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,I,NA,NA,Yes,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Other histologies/mixed tumor,Signet Ring,No,NA,Stage III,1949,Non-Spanish; non-Hispanic,Other,Female,MSK
+3,III,Other histologies/mixed tumor,Signet Ring,No,NA,Stage III,1967,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1939,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1967,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage III,1977,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1955,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,III,NA,NA,No,NA,Stage I-III NOS,1938,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1974,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1953,Mexican (includes Chicano),White,Male,DFCI
+3,I,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1967,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1940,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1967,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1953,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1981,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1932,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1958,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1933,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1973,Mexican (includes Chicano),White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1978,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1957,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Mexican (includes Chicano),White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1979,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,III,Other histologies/mixed tumor,Other,No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1953,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1969,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1945,Non-Spanish; non-Hispanic,Black,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1947,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1974,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1943,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1942,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,Other,No,Yes,Stage IV,1940,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1948,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage I,1958,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,III,Carcinoma,Other,No,Yes,Stage IV,1974,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1955,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1958,Mexican (includes Chicano),Unknown,Female,MSK
+Unknown,Unknown,NA,NA,Yes,NA,Stage III,1985,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1953,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1932,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,NA,Stage II,1951,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1952,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1942,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,NA,Stage III,1941,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,I,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1957,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1978,Non-Spanish; non-Hispanic,White,Male,MSK
+3,IV,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1945,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1949,Non-Spanish; non-Hispanic,White,Male,MSK
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1976,Non-Spanish; non-Hispanic,Unknown,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,Black,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1983,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,Yes,Stage IV,1962,Unknown whether Spanish or not,White,Female,VICC
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1952,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,III,Carcinoma,Other,No,NA,Stage III,1957,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1973,Spanish surname only,Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1981,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1963,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1967,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,Black,Female,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1935,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,White,Male,VICC
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1977,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1945,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1968,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1951,Non-Spanish; non-Hispanic,Unknown,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1976,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1952,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1946,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1991,Mexican (includes Chicano),Other,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Spanish surname only,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,Black,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1945,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1961,Non-Spanish; non-Hispanic,White,Female,MSK
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1942,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1986,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1978,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1962,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1964,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1945,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1984,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1949,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1948,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1954,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,IV,NA,NA,No,Yes,Stage IV,1973,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,NA,Stage III,1973,Non-Spanish; non-Hispanic,White,Male,VICC
+Unknown,II,NA,NA,Not Applicable,NA,Stage II,1934,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1962,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1931,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1937,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Other histologies/mixed tumor,Other,No,NA,Stage III,1967,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,Black,Male,DFCI
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1954,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1947,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1943,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1976,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1973,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1955,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1981,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Non-Spanish; non-Hispanic,White,Male,VICC
+3,Unknown,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1974,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,NA,Stage III,1946,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1973,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1987,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1948,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,Mucinous,Yes,NA,Stage III,1947,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1979,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1949,Non-Spanish; non-Hispanic,White,Female,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Male,VICC
+3,III,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1940,Non-Spanish; non-Hispanic,White,Female,MSK
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1932,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,I,NA,NA,Yes,NA,Stage II,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1931,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1964,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,VICC
+3,III,Carcinoma,Other,No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1959,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+Unknown,IV,NA,NA,No,NA,Stage III,1967,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,Unknown,NA,NA,No,NA,Stage I,1946,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1938,Mexican (includes Chicano),Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1940,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1963,Non-Spanish; non-Hispanic,White,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1968,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1973,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1962,Mexican (includes Chicano),White,Male,MSK
+3,III,Carcinoma,Other,No,NA,Stage III,1936,Non-Spanish; non-Hispanic,White,Female,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1952,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1981,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1948,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1973,Mexican (includes Chicano),White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1976,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1964,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,III,NA,NA,No,NA,Stage III,1949,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1964,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1985,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,NA,Stage III,1939,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1978,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,Unknown,NA,NA,No,NA,Stage I,1949,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,I,NA,NA,No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1947,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,I,NA,NA,No,NA,Stage I,1955,Unknown whether Spanish or not,Unknown,Male,VICC
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1967,Non-Spanish; non-Hispanic,Chinese,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1954,Non-Spanish; non-Hispanic,Black,Male,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1954,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1942,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1973,Non-Spanish; non-Hispanic,White,Female,MSK
+3,I,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Female,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1945,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1958,Spanish surname only,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1973,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1944,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1964,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1948,Unknown whether Spanish or not,White,Male,VICC
+Unknown,III,NA,NA,No,NA,Stage III,1959,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1929,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1968,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,Yes,Stage IV,1974,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1977,Non-Spanish; non-Hispanic,White,Female,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1959,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1960,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1940,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,Unknown,NA,Stage III,1938,Non-Spanish; non-Hispanic,Chinese,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1972,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1999,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1972,Non-Spanish; non-Hispanic,White,Female,VICC
+3,III,Other histologies/mixed tumor,Other,No,NA,Stage III,1965,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+Unknown,IV,NA,NA,No,NA,Stage I,1948,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1979,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1947,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1976,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1949,Unknown whether Spanish or not,Unknown,Female,VICC
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1982,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1933,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,White,Female,MSK
+3,IV,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1962,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1936,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1978,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,Mucinous,No,NA,Stage II,1973,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1967,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1976,Mexican (includes Chicano),Other,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,Black,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1968,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,Unknown,NA,NA,No,NA,Stage I,1967,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1946,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1956,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1985,Non-Spanish; non-Hispanic,Black,Female,DFCI
+3,III,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1981,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1975,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1955,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1955,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Female,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1969,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I-III NOS,1941,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1966,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,Mucinous,No,NA,Stage II,1948,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1976,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Non-Spanish; non-Hispanic,Chinese,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1942,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1963,Non-Spanish; non-Hispanic,Black,Female,DFCI
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Other histologies/mixed tumor,Signet Ring,No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1943,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage III,1978,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1932,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1974,Mexican (includes Chicano),Other,Female,MSK
+Unknown,III,NA,NA,No,Yes,Stage IV,1976,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1948,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage II,1943,Unknown whether Spanish or not,Unknown,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1939,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1954,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1986,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage III,1967,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1975,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1970,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1949,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1987,Non-Spanish; non-Hispanic,White,Female,VICC
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1984,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1980,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1942,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,I,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1969,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1951,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1947,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1943,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1976,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1974,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1948,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,Other,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1932,Non-Spanish; non-Hispanic,White,Female,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,Unknown,NA,NA,No,NA,Stage III,1969,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1952,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1933,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1935,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1987,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1935,Non-Spanish; non-Hispanic,White,Male,MSK
+3,IV,Adenocarcinoma,Other,No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1954,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1972,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1934,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1990,Unknown whether Spanish or not,Unknown,Female,VICC
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,I,NA,NA,No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,White,Female,VICC
+Unknown,II,NA,NA,No,NA,Stage I,1940,Unknown whether Spanish or not,Unknown,Male,VICC
+Unknown,II,NA,NA,No,Yes,Stage IV,1985,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1962,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1959,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,Unknown,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1975,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,IV,Other histologies/mixed tumor,Other,No,Yes,Stage IV,1941,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1935,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1959,Unknown whether Spanish or not,Unknown,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1965,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1946,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1942,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1947,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,III,NA,NA,No,NA,Stage III,1958,Mexican (includes Chicano),Other,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1940,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1970,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1939,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1978,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1971,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1947,Mexican (includes Chicano),White,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage III,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1979,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1961,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,Unknown,NA,NA,Not Applicable,NA,Stage III,1952,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1948,Mexican (includes Chicano),White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1946,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1946,Unknown whether Spanish or not,Unknown,Male,VICC
+3,II,Carcinoma,Other,No,Yes,Stage IV,1986,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1976,Non-Spanish; non-Hispanic,Black,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1949,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage III,1969,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1939,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1952,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage I,1935,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1974,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1935,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1964,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1977,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1973,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1937,Unknown whether Spanish or not,White,Male,VICC
+Unknown,III,NA,NA,No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1975,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Male,MSK
+3,I,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Female,VICC
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Other histologies/mixed tumor,Signet Ring,No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1956,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,Black,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1963,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1979,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1985,Non-Spanish; non-Hispanic,White,Female,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1943,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,IV,Adenocarcinoma,Other,No,NA,Stage III,1945,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1955,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1956,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1949,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1972,Non-Spanish; non-Hispanic,Black,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1949,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1947,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1935,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1938,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1973,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,Unknown,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1940,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,Other,No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1945,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage I,1964,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1935,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Squamous cell,Other,No,NA,Stage I,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1974,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,NA,Stage III,1955,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1973,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1936,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Other histologies/mixed tumor,Signet Ring,No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Mexican (includes Chicano),White,Female,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1933,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1945,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,Chinese,Male,DFCI
+Unknown,III,NA,NA,No,NA,Stage III,1969,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1954,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1975,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1979,Mexican (includes Chicano),White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,NA,Stage III,1953,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,Chinese,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,III,NA,NA,No,NA,Stage III,1949,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,Other,No,Yes,Stage IV,1967,Unknown whether Spanish or not,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1958,Non-Spanish; non-Hispanic,White,Female,MSK
+3,IV,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1967,Non-Spanish; non-Hispanic,Black,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1942,Non-Spanish; non-Hispanic,White,Male,VICC
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1976,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,NA,Stage III,1987,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,NA,Stage II,1968,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1968,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1971,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1946,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1957,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1942,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1956,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1940,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,Unknown,NA,NA,Yes,NA,Stage II,1968,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,NA,Stage II,1945,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1942,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage III,1945,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1978,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,VICC
+Unknown,III,NA,NA,No,NA,Stage III,1947,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1942,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage II,1964,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1942,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1972,Mexican (includes Chicano),Other,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1988,Mexican (includes Chicano),Other,Female,MSK
+3,III,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1948,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1945,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1935,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage II,1946,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1951,Non-Spanish; non-Hispanic,White,Female,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,Other,Female,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1936,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1983,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1991,Mexican (includes Chicano),Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1974,Mexican (includes Chicano),White,Male,MSK
+3,III,Adenocarcinoma,Other,No,NA,Stage III,1973,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1968,Non-Spanish; non-Hispanic,White,Male,VICC
+Unknown,I,NA,NA,No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,NA,Stage III,1942,Unknown whether Spanish or not,White,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1941,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1962,Non-Spanish; non-Hispanic,Black,Male,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1937,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1935,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1940,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1978,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1939,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage I-III NOS,1973,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1942,Unknown whether Spanish or not,Unknown,Male,VICC
+Unknown,II,NA,NA,No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1973,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1958,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,Not Applicable,NA,Stage II,1952,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,Other,Male,MSK
+Unknown,III,NA,NA,No,NA,Stage III,1978,Unknown whether Spanish or not,Unknown,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1973,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,III,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1948,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,NA,Stage II,1939,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1959,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage III,1968,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1970,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1942,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1933,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,I,NA,NA,No,NA,Stage II,1954,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,NA,Stage III,1965,Unknown whether Spanish or not,White,Male,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1973,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1970,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,Other,No,Yes,Stage IV,1952,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1974,Mexican (includes Chicano),Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1974,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1972,Unknown whether Spanish or not,Unknown,Male,VICC
+Unknown,I,NA,NA,No,NA,Stage III,1954,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1943,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1958,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,Black,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1943,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage II,1962,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,III,NA,NA,No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Male,VICC
+3,Unknown,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1952,Non-Spanish; non-Hispanic,White,Male,VICC
+3,Unknown,Other histologies/mixed tumor,Other,No,Yes,Stage IV,1943,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Spanish surname only,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1937,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1974,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1974,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,Unknown,NA,NA,No,NA,Stage II,1948,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Other histologies/mixed tumor,Signet Ring,No,Yes,Stage IV,1976,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1979,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1983,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1954,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1976,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1941,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1956,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1975,Non-Spanish; non-Hispanic,Black,Female,DFCI
+Unknown,II,NA,NA,Yes,NA,Stage III,1989,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,Other,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1969,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1977,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1939,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1961,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,Mucinous,No,NA,Stage III,1972,Non-Spanish; non-Hispanic,Chinese,Male,DFCI
+3,Unknown,Carcinoma,Other,No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1944,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1946,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1957,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Female,VICC
+3,III,Other histologies/mixed tumor,Signet Ring,No,NA,Stage III,1952,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1940,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1980,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1981,Mexican (includes Chicano),Other,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1972,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage II,1938,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1935,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1945,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,I,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1963,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage II,1980,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1955,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1947,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1941,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1945,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,NA,Stage III,1956,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,IV,NA,NA,No,Yes,Stage IV,1984,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,Yes,NA,Stage II,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1992,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1969,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,NA,Stage III,1949,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1977,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,Unknown,Other histologies/mixed tumor,Signet Ring,No,Yes,Stage IV,1978,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1975,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+3,I,Adenocarcinoma,Mucinous,No,NA,Stage III,1966,Non-Spanish; non-Hispanic,Black,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1957,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1979,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1959,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage III,1937,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1950,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1955,Non-Spanish; non-Hispanic,Black,Male,VICC
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1958,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1972,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1981,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1959,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Other histologies/mixed tumor,Signet Ring,No,NA,Stage III,1954,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,III,Adenocarcinoma,Other,No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,Black,Female,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1977,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1939,Spanish surname only,White,Male,MSK
+Unknown,II,NA,NA,Yes,NA,Stage III,1957,Unknown whether Spanish or not,Unknown,Male,VICC
+Unknown,II,NA,NA,No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1968,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1945,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1971,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1978,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,Unknown,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,Chinese,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1978,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1977,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1949,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Female,MSK
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1954,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,NA,Stage I,1943,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1971,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1973,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1954,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1972,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,Yes,NA,Stage II,1954,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1975,Mexican (includes Chicano),White,Female,MSK
+3,III,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1967,Non-Spanish; non-Hispanic,White,Female,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1956,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Female,VICC
+3,Unknown,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1948,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1944,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1976,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Female,MSK
+3,I,Adenocarcinoma,TubulovillousVillous,No,NA,Stage I,1954,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1971,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,I,NA,NA,No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Other histologies/mixed tumor,Signet Ring,Yes,NA,Stage III,1969,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1984,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1959,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage I,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1947,Non-Spanish; non-Hispanic,Chinese,Male,DFCI
+Unknown,IV,NA,NA,No,NA,Stage III,1978,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1976,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1964,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1972,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,IV,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1980,Non-Spanish; non-Hispanic,Black,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1958,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1968,Mexican (includes Chicano),White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1959,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1947,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1939,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,Other,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1938,Non-Spanish; non-Hispanic,Other,Male,DFCI
+3,III,Adenocarcinoma,Other,No,Yes,Stage IV,1947,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Female,VICC
+3,III,Carcinoma,Other,No,NA,Stage II,1947,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,III,Other histologies/mixed tumor,Signet Ring,No,NA,Stage III,1960,Non-Spanish; non-Hispanic,Black,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1945,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1962,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1947,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1934,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1936,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1982,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1976,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage I,1967,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1952,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1962,Non-Spanish; non-Hispanic,White,Male,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage II,1971,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1985,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1943,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1947,Non-Spanish; non-Hispanic,White,Female,VICC
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1974,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,Yes,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1952,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Female,VICC
+3,IV,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1941,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1953,Non-Spanish; non-Hispanic,White,Female,MSK
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1973,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1931,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1985,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1950,Unknown whether Spanish or not,White,Female,VICC
+3,III,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1969,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1971,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1957,Non-Spanish; non-Hispanic,White,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1963,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,Unknown,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1953,Mexican (includes Chicano),White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1979,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+Unknown,I,NA,NA,No,NA,Stage III,1968,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1982,Non-Spanish; non-Hispanic,Black,Female,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1982,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1941,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage II,1955,Non-Spanish; non-Hispanic,White,Female,MSK
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1957,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Mexican (includes Chicano),Unknown,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1956,Non-Spanish; non-Hispanic,White,Male,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,I,NA,NA,No,NA,Stage II,1958,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1977,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,Other,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage I-III NOS,1959,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Male,MSK
+3,IV,Carcinoma,Other,No,Yes,Stage IV,1981,Mexican (includes Chicano),White,Female,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1948,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1963,Non-Spanish; non-Hispanic,Other,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,III,NA,NA,No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1943,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,Other,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1960,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1984,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1933,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1942,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1943,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",Not Applicable,NA,Stage I-III NOS,1965,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,White,Male,VICC
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1952,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Unknown whether Spanish or not,Black,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,Yes,NA,Stage II,1968,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1956,Unknown whether Spanish or not,Unknown,Male,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1947,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1955,Non-Spanish; non-Hispanic,Other,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1932,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1934,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1947,Mexican (includes Chicano),Unknown,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1940,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1955,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1969,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1943,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1949,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1937,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1972,Non-Spanish; non-Hispanic,White,Female,MSK
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1953,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1951,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,NA,Stage I,1967,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1978,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,Unknown,Adenocarcinoma,TubulovillousVillous,No,NA,Stage I,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Female,VICC
+Unknown,II,NA,NA,Yes,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,Unknown,NA,NA,No,NA,Stage I,1935,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1957,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,I,NA,NA,No,NA,Stage III,1941,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1967,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1954,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1963,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1957,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1943,Mexican (includes Chicano),Other,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1945,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1942,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1955,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,Yes,NA,Stage II,1959,Non-Spanish; non-Hispanic,Black,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1940,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1934,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1946,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1950,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1981,Mexican (includes Chicano),Other,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1974,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1940,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1937,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1949,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1931,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Mexican (includes Chicano),White,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1972,Mexican (includes Chicano),White,Female,DFCI
+Unknown,III,NA,NA,No,NA,Stage III,1958,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,NA,Stage II,1948,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1936,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1947,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1973,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Other histologies/mixed tumor,Signet Ring,No,NA,Stage II,1960,Mexican (includes Chicano),Unknown,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1978,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1945,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,IV,NA,NA,No,Yes,Stage IV,1993,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1974,Mexican (includes Chicano),White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1959,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1951,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,Other,No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1975,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,NA,Stage II,1951,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1954,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1976,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1960,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,Other,Male,VICC
+3,III,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1976,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1962,Non-Spanish; non-Hispanic,White,Male,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1958,Non-Spanish; non-Hispanic,Chinese,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1942,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,IV,NA,NA,No,NA,Stage III,1962,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,Yes,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1979,Mexican (includes Chicano),Unknown,Male,MSK
+Unknown,IV,NA,NA,Yes,NA,Stage III,1934,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1968,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1961,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1976,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1963,Mexican (includes Chicano),Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1955,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1982,Non-Spanish; non-Hispanic,Other,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1981,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Other histologies/mixed tumor,Signet Ring,No,NA,Stage III,1988,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1975,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1951,Mexican (includes Chicano),White,Male,MSK
+3,III,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,Unknown,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1940,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Other histologies/mixed tumor,Signet Ring,No,Yes,Stage IV,1987,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1975,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1933,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1971,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1980,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1977,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1951,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1941,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1955,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1976,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1964,Non-Spanish; non-Hispanic,Unknown,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1941,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1967,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1952,Non-Spanish; non-Hispanic,Unknown,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1949,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,IV,NA,NA,No,Yes,Stage IV,1968,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1953,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1975,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1943,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1939,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,Other,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1963,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,Unknown,NA,NA,No,NA,Stage I,1957,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1953,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",Not Applicable,NA,Stage II,1952,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1977,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1948,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage III,1947,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1984,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage II,1958,Non-Spanish; non-Hispanic,Black,Male,DFCI
+3,Unknown,Adenocarcinoma,Mucinous,No,NA,Stage I,1963,Non-Spanish; non-Hispanic,Chinese,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1932,Mexican (includes Chicano),White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1964,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1945,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,Yes,NA,Stage III,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1980,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1952,Non-Spanish; non-Hispanic,Black,Male,MSK
+Unknown,II,NA,NA,Yes,NA,Stage II,1967,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,Unknown,NA,NA,No,NA,Stage III,1947,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,III,NA,NA,No,Yes,Stage IV,1983,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1937,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1981,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,III,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1942,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1959,Non-Spanish; non-Hispanic,Black,Male,MSK
+Unknown,II,NA,NA,No,NA,Stage II,1934,Spanish surname only,White,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1959,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1968,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,IV,NA,NA,No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1975,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1974,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1945,Mexican (includes Chicano),White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1939,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1977,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1946,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1948,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1957,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1956,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1972,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Other,No,NA,Stage III,1968,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1954,Non-Spanish; non-Hispanic,Black,Male,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1951,Unknown whether Spanish or not,Unknown,Female,VICC
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage II,1976,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Male,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1956,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1968,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Other histologies/mixed tumor,Signet Ring,No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1947,Mexican (includes Chicano),Black,Male,DFCI
+3,III,Adenocarcinoma,Mucinous,Yes,NA,Stage III,1978,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1948,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Male,VICC
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Male,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1962,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1938,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1947,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1975,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Mexican (includes Chicano),Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Female,MSK
+3,I,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1954,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,White,Male,MSK
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1967,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,III,NA,NA,Not Applicable,NA,Stage II,1958,Spanish surname only,Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1948,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1932,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1968,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,I,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1974,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1963,Mexican (includes Chicano),White,Female,MSK
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,I,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1977,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Other histologies/mixed tumor,Signet Ring,No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1962,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1975,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage II,1939,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage III,1975,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1947,Mexican (includes Chicano),White,Female,DFCI
+3,III,Other histologies/mixed tumor,Signet Ring,No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1956,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1973,Non-Spanish; non-Hispanic,Other,Female,MSK
+3,Unknown,Carcinoma,Other,No,NA,Stage III,1959,Non-Spanish; non-Hispanic,White,Male,VICC
+Unknown,II,NA,NA,No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,Black,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1989,Mexican (includes Chicano),White,Male,MSK
+3,III,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage III,1952,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,III,Adenocarcinoma,TubulovillousVillous,No,NA,Stage I,1952,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1944,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1971,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1940,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1945,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Other histologies/mixed tumor,Signet Ring,No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1937,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,III,Other histologies/mixed tumor,Signet Ring,No,NA,Stage III,1959,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1941,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,Other,No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1949,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1969,Non-Spanish; non-Hispanic,Black,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1970,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1956,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1967,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,III,NA,NA,No,NA,Stage III,1935,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,Unknown,NA,NA,No,NA,Stage I,1939,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1939,Non-Spanish; non-Hispanic,White,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1980,Non-Spanish; non-Hispanic,Chinese,Male,DFCI
+Unknown,I,NA,NA,No,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1942,Non-Spanish; non-Hispanic,White,Female,VICC
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1954,Non-Spanish; non-Hispanic,Unknown,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1985,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Mexican (includes Chicano),White,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage II,1953,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1941,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1944,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1947,Unknown whether Spanish or not,Unknown,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1955,Mexican (includes Chicano),Other,Female,MSK
+Unknown,IV,NA,NA,No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1934,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1954,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1935,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1956,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,III,NA,NA,No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1950,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1964,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,Chinese,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1938,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,IV,NA,NA,No,Yes,Stage IV,1949,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1980,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1968,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1945,Non-Spanish; non-Hispanic,Black,Male,MSK
+Unknown,III,NA,NA,No,NA,Stage III,1955,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,NA,Stage III,1971,Non-Spanish; non-Hispanic,Black,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1958,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage II,1949,Unknown whether Spanish or not,Unknown,Male,VICC
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1934,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1981,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1975,Mexican (includes Chicano),White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1974,Mexican (includes Chicano),White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,I,Adenocarcinoma,Mucinous,No,NA,Stage II,1946,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1952,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1945,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage II,1945,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1951,Mexican (includes Chicano),White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1943,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1945,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Female,VICC
+Unknown,Unknown,NA,NA,No,NA,Stage III,1962,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1954,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1938,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1989,Mexican (includes Chicano),White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1960,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1946,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1952,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1961,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,NA,Stage III,1956,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1948,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1958,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1948,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage I,1938,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1953,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1965,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,I,NA,NA,No,NA,Stage I,1967,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1953,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage I,1938,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1949,Non-Spanish; non-Hispanic,Chinese,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1964,Non-Spanish; non-Hispanic,Unknown,Female,DFCI
+3,IV,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1947,Non-Spanish; non-Hispanic,White,Female,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1958,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1944,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,NA,Stage III,1960,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1950,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1952,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1955,Unknown whether Spanish or not,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1953,Non-Spanish; non-Hispanic,Black,Female,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1951,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1959,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",Not Applicable,NA,Stage III,1947,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1947,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,NA,Stage III,1957,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,Unknown,NA,NA,No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,III,NA,NA,No,Yes,Stage IV,1945,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1947,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1968,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,NA,Stage II,1951,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1983,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1968,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1956,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1939,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1979,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1955,Non-Spanish; non-Hispanic,White,Male,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,Black,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1978,Mexican (includes Chicano),White,Male,MSK
+3,III,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1952,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,Black,Female,VICC
+Unknown,III,NA,NA,No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1961,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1982,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1937,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1963,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1943,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,IV,NA,NA,No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1968,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,Mucinous,No,NA,Stage II,1950,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1958,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Carcinoma,Other,No,NA,Stage II,1948,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1984,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1975,Non-Spanish; non-Hispanic,Chinese,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1973,Non-Spanish; non-Hispanic,White,Female,DFCI
+Unknown,II,NA,NA,No,Yes,Stage IV,1956,Spanish NOS or Hispanic NOS or Latino NOS,Other,Male,VICC
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1977,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",Unknown,NA,Stage I-III NOS,1951,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1961,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1974,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Male,MSK
+3,IV,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1931,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1968,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1948,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1968,Non-Spanish; non-Hispanic,White,Male,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,Chinese,Male,DFCI
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1933,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1957,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1955,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1940,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1948,Non-Spanish; non-Hispanic,Other,Male,MSK
+Unknown,III,NA,NA,No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1956,Unknown whether Spanish or not,White,Male,VICC
+3,III,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1947,Non-Spanish; non-Hispanic,White,Male,MSK
+3,Unknown,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,Not Applicable,NA,Stage II,1958,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1955,Mexican (includes Chicano),White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1938,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1947,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1961,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1967,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,IV,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1959,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1959,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1932,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1934,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1967,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage II,1958,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1955,Unknown whether Spanish or not,White,Male,VICC
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage I,1946,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1963,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1975,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1938,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,Black,Male,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1978,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Mexican (includes Chicano),White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1984,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1961,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1956,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1952,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1947,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1960,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Other histologies/mixed tumor,Other,No,NA,Stage III,1947,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1955,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+Unknown,III,NA,NA,No,NA,Stage III,1948,Non-Spanish; non-Hispanic,Other,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1979,Non-Spanish; non-Hispanic,White,Male,MSK
+3,I,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1957,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Mucinous,Yes,NA,Stage II,1946,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1932,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1968,Non-Spanish; non-Hispanic,White,Male,MSK
+3,I,Adenocarcinoma,Mucinous,No,NA,Stage III,1951,Non-Spanish; non-Hispanic,White,Female,VICC
+Unknown,II,NA,NA,No,NA,Stage I,1976,Non-Spanish; non-Hispanic,Unknown,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1947,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1965,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1938,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",Yes,NA,Stage II,1959,Non-Spanish; non-Hispanic,Chinese,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1961,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1943,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage II,1947,Non-Spanish; non-Hispanic,White,Male,VICC
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1964,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1950,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,I,NA,NA,No,NA,Stage II,1946,Non-Spanish; non-Hispanic,White,Male,DFCI
+Unknown,II,NA,NA,No,NA,Stage III,1991,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,Unknown,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1943,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1942,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage I,1964,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1942,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1969,Mexican (includes Chicano),White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1965,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1967,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1950,Non-Spanish; non-Hispanic,White,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1932,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage III,1984,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1946,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1980,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1964,Non-Spanish; non-Hispanic,Chinese,Female,MSK
+3,II,Adenocarcinoma,Mucinous,No,NA,Stage II,1950,Non-Spanish; non-Hispanic,Black,Female,MSK
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1985,Non-Spanish; non-Hispanic,White,Male,MSK
+3,III,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1956,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage I,1975,Non-Spanish; non-Hispanic,White,Male,MSK
+Unknown,IV,NA,NA,Yes,NA,Stage III,1980,Non-Spanish; non-Hispanic,Chinese,Female,DFCI
+3,III,Other histologies/mixed tumor,Signet Ring,No,NA,Stage III,1956,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1966,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1970,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1962,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1989,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1964,Non-Spanish; non-Hispanic,White,Female,MSK
+Unknown,II,NA,NA,No,Yes,Stage IV,1972,Non-Spanish; non-Hispanic,Unknown,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1956,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1968,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage II,1966,Non-Spanish; non-Hispanic,White,Female,MSK
+3,II,Adenocarcinoma,Adenocarcinoma in adenomatous polyp,No,Yes,Stage IV,1977,Non-Spanish; non-Hispanic,White,Female,DFCI
+3,II,Adenocarcinoma,TubulovillousVillous,No,NA,Stage I,1953,Non-Spanish; non-Hispanic,Chinese,Male,DFCI
+3,Unknown,Adenocarcinoma,Mucinous,No,Yes,Stage IV,1952,Non-Spanish; non-Hispanic,White,Female,MSK
+3,III,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1966,Non-Spanish; non-Hispanic,White,Male,MSK
+3,II,Adenocarcinoma,"Adenocarcinoma, NOS",No,NA,Stage III,1957,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1988,Non-Spanish; non-Hispanic,White,Male,DFCI
+3,Unknown,Adenocarcinoma,"Adenocarcinoma, NOS",No,Yes,Stage IV,1945,Mexican (includes Chicano),Unknown,Female,MSK
