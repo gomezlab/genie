@@ -3,13 +3,12 @@ GENIE-DFCI-000971,795,795.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,8
 GENIE-DFCI-001038,759,839.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,4,81.0,0,No,Yes,Yes
 GENIE-DFCI-002499,1073,1073.0,Treatment,Systemic Therapy,Cabozantinib Smalate,Cabozantinib Smalate,3,1.0,0,Yes,Yes,Yes
 GENIE-DFCI-002507,2142,2249.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,8,108.0,0,No,Yes,Yes
-GENIE-DFCI-002561,1616,1729.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",6,114.0,0,No,Yes,Yes
-GENIE-DFCI-004251,1398,1468.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",6,71.0,0,No,Yes,Yes
+GENIE-DFCI-002561,1812,1954.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,8,143.0,0,No,Yes,Yes
+GENIE-DFCI-004251,2068,2210.0,Treatment,Systemic Therapy,Lapatinib Ditosylate,"Lapatinib Ditosylate, Trastuzumab",10,143.0,0,No,Yes,Yes
 GENIE-DFCI-005003,946,1021.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,6,76.0,0,No,Yes,Yes
-GENIE-DFCI-006288,1364,1463.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",7,100.0,0,No,Yes,Yes
+GENIE-DFCI-006288,1476,1553.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,8,78.0,0,No,Yes,Yes
 GENIE-DFCI-006340,3370,3473.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,4,104.0,0,No,Yes,Yes
 GENIE-DFCI-007011,692,1987.0,Treatment,Systemic Therapy,Trastuzumab,"Lapatinib Ditosylate, Trastuzumab",4,1296.0,0,No,Yes,Yes
-GENIE-DFCI-007675,693,707.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",3,15.0,0,No,Yes,Yes
 GENIE-DFCI-007910,5323,5323.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,7,1.0,0,No,Yes,Yes
 GENIE-DFCI-008063,2278,,Treatment,Systemic Therapy,Regorafenib,Regorafenib,9,,0,No,No,Yes
 GENIE-DFCI-008081,739,932.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,4,194.0,0,No,Yes,Yes
@@ -17,8 +16,6 @@ GENIE-DFCI-008121,874,874.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,6
 GENIE-DFCI-008778,587,587.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,5,1.0,0,No,Yes,Yes
 GENIE-DFCI-008814,2570,2570.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,3,1.0,0,No,Yes,Yes
 GENIE-DFCI-009199,672,699.0,Treatment,Systemic Therapy,Atezolizumab,"Atezolizumab, Cobimetinib",5,28.0,0,No,Yes,Yes
-GENIE-DFCI-009214,2516,2572.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",6,57.0,0,No,Yes,Yes
-GENIE-DFCI-009245,980,1165.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",5,186.0,0,No,Yes,Yes
 GENIE-DFCI-009370,546,570.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,3,25.0,0,No,Yes,Yes
 GENIE-DFCI-009399,1054,1139.0,Treatment,Systemic Therapy,Trastuzumab,"Neratinib, Trastuzumab",4,86.0,0,Yes,Yes,Yes
 GENIE-DFCI-009426,841,954.0,Treatment,Systemic Therapy,Cabozantinib Smalate,Cabozantinib Smalate,4,114.0,0,No,Yes,Yes
@@ -27,7 +24,6 @@ GENIE-DFCI-009631,801,955.0,Treatment,Systemic Therapy,Regorafenib,"Panitumumab,
 GENIE-DFCI-009918,400,461.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,3,62.0,0,No,Yes,Yes
 GENIE-DFCI-009944,1488,1544.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,6,57.0,0,No,Yes,Yes
 GENIE-DFCI-010053,399,469.0,Treatment,Systemic Therapy,Panitumumab,"Dabrafenib, Panitumumab, Trametinib",3,71.0,0,No,Yes,Yes
-GENIE-DFCI-010321,1041,1084.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",7,44.0,0,No,Yes,Yes
 GENIE-DFCI-010603,527,647.0,Treatment,Systemic Therapy,Alectinib,Alectinib,6,121.0,0,No,Yes,Yes
 GENIE-DFCI-010772,994,1002.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,9,9.0,0,No,Yes,Yes
 GENIE-DFCI-010860,455,455.0,Treatment,Systemic Therapy,Trametinib,"Dabrafenib, Trametinib",5,1.0,0,No,Yes,Yes
@@ -52,9 +48,8 @@ GENIE-DFCI-077594,758,848.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,4
 GENIE-DFCI-087455,1108,1387.0,Treatment,Systemic Therapy,Irinotecan Hydrochloride,"Dabrafenib, Irinotecan Hydrochloride, Panitumumab",6,280.0,0,No,Yes,Yes
 GENIE-DFCI-090102,2623,,Treatment,Systemic Therapy,Regorafenib,Regorafenib,4,,2,No,"Unknown, no documentation found",Yes
 GENIE-DFCI-090196,283,320.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,3,38.0,0,No,Yes,Yes
-GENIE-DFCI-091167,769,769.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",3,1.0,0,No,Yes,Yes
+GENIE-DFCI-091167,784,830.0,Treatment,Systemic Therapy,Ceritinib,Ceritinib,4,47.0,0,Yes,Yes,Yes
 GENIE-DFCI-091403,1127,1185.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,6,59.0,0,No,Yes,Yes
-GENIE-DFCI-091553,1088,1143.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",5,56.0,0,No,Yes,Yes
 GENIE-DFCI-091867,362,383.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,4,22.0,0,No,Yes,Yes
 GENIE-DFCI-091893,187,187.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,3,1.0,0,No,Yes,Yes
 GENIE-DFCI-092222,741,790.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,5,50.0,0,No,Yes,Yes
@@ -73,7 +68,7 @@ GENIE-MSK-P-0005487,367,673.0,Treatment,Systemic Therapy,Panitumumab,"Dabrafenib
 GENIE-MSK-P-0005742,545,586.0,Treatment,Systemic Therapy,Panitumumab,"Panitumumab, Vemurafenib",4,42.0,0,No,Yes,Yes
 GENIE-MSK-P-0005833,854,961.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,5,108.0,0,No,Yes,Yes
 GENIE-MSK-P-0005888,298,379.0,Treatment,Systemic Therapy,Dabrafenib,"Dabrafenib, Panitumumab, Trametinib",2,82.0,0,No,Yes,Yes
-GENIE-MSK-P-0005938,2467,2525.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",7,59.0,0,No,Yes,Yes
+GENIE-MSK-P-0005938,2673,2763.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,9,91.0,0,No,Yes,Yes
 GENIE-MSK-P-0006225,1103,1238.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,3,136.0,1,Yes,Yes,Yes
 GENIE-MSK-P-0006469,904,963.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,3,60.0,0,No,Yes,Yes
 GENIE-MSK-P-0007405,2329,,Treatment,Systemic Therapy,Regorafenib,Regorafenib,13,,0,No,"Unknown, no documentation found",Yes
@@ -109,7 +104,7 @@ GENIE-MSK-P-0018760,476,709.0,Treatment,Systemic Therapy,Trastuzumab,"Lapatinib 
 GENIE-MSK-P-0019711,1077,1138.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,6,62.0,1,No,Yes,Yes
 GENIE-MSK-P-0019816,1540,,Treatment,Systemic Therapy,Regorafenib,Regorafenib,7,,0,No,"Unknown, no documentation found",Yes
 GENIE-MSK-P-0020681,514,514.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,3,1.0,0,No,Yes,Yes
-GENIE-MSK-P-0020791,719,842.0,Treatment,Systemic Therapy,Ziv Aflibercept,"Irinotecan Hydrochloride, Ziv Aflibercept",7,124.0,0,No,Yes,Yes
+GENIE-MSK-P-0020791,1023,1036.0,Treatment,Systemic Therapy,Olaparib,Olaparib,10,14.0,0,No,Yes,Yes
 GENIE-MSK-P-0022050,799,944.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,6,146.0,1,No,Yes,Yes
 GENIE-MSK-P-0022555,842,,Treatment,Systemic Therapy,Panitumumab,"Binimetinib, Encorafenib, Panitumumab",5,,0,No,No,Yes
 GENIE-MSK-P-0022917,423,449.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,3,27.0,0,No,Yes,Yes
@@ -117,7 +112,6 @@ GENIE-MSK-P-0023588,747,801.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib
 GENIE-MSK-P-0024824,924,1407.0,Treatment,Systemic Therapy,Cetuximab,"Cetuximab, Cobimetinib, Vemurafenib",3,484.0,0,No,Yes,Yes
 GENIE-MSK-P-0025201,1883,2125.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,9,243.0,0,No,Yes,Yes
 GENIE-VICC-107145,687,721.0,Treatment,Systemic Therapy,Imatinib Mesylate,Imatinib Mesylate,5,35.0,0,No,Yes,Yes
-GENIE-VICC-223599,221,417.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",2,197.0,0,No,Yes,Yes
 GENIE-VICC-225161,667,742.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,4,76.0,0,No,Yes,Yes
 GENIE-VICC-228685,754,838.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,5,85.0,0,No,Yes,Yes
 GENIE-VICC-229928,1909,2397.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,4,489.0,0,No,Yes,Yes
@@ -131,15 +125,11 @@ GENIE-VICC-382607,830,865.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,6
 GENIE-VICC-389872,4323,,Treatment,Systemic Therapy,Regorafenib,Regorafenib,4,,0,No,No,Yes
 GENIE-VICC-397091,1537,1654.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,9,118.0,0,No,Yes,Yes
 GENIE-VICC-442733,2898,2961.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,4,64.0,0,No,Yes,Yes
-GENIE-VICC-499960,2225,2383.0,Treatment,Systemic Therapy,Leucovorin Calcium,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",9,159.0,0,No,Yes,Yes
+GENIE-VICC-499960,3778,3831.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,16,54.0,0,No,Yes,Yes
 GENIE-VICC-566196,1144,1187.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,6,44.0,0,No,Yes,Yes
-GENIE-VICC-621838,1112,1140.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Ziv Aflibercept",3,29.0,0,No,Yes,Yes
 GENIE-VICC-624160,1561,1882.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,5,322.0,0,No,Yes,Yes
 GENIE-VICC-636643,1831,1928.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,6,98.0,0,No,Yes,Yes
-GENIE-VICC-737802,1837,2033.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Ziv Aflibercept",2,197.0,0,No,Yes,Yes
 GENIE-VICC-738490,754,805.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,5,52.0,0,No,Yes,Yes
-GENIE-VICC-743403,455,547.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Ziv Aflibercept",3,93.0,0,No,Yes,Yes
-GENIE-VICC-753473,1407,1735.0,Treatment,Systemic Therapy,Fluorouracil,"Fluorouracil, Ziv Aflibercept",3,329.0,0,No,Yes,Yes
 GENIE-VICC-849730,1898,1945.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,6,48.0,1,No,Yes,Yes
 GENIE-VICC-899430,2566,2614.0,Treatment,Systemic Therapy,Regorafenib,Regorafenib,5,49.0,0,No,Yes,Yes
 GENIE-VICC-957568,2337,,Treatment,Systemic Therapy,Regorafenib,Regorafenib,8,,0,No,"Unknown, no documentation found",Yes
