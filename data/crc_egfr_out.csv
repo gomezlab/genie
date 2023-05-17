@@ -1,0 +1,369 @@
+,record_id,institution,drugs_list,os_g_status,pfs_i_and_m_g_status,sample_id
+0,GENIE-DFCI-000971,DFCI,"Bevacizumab, Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-000971-10958
+1,GENIE-DFCI-001292,DFCI,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Panitumumab",1,1.0,GENIE-DFCI-001292-7406
+2,GENIE-DFCI-001463,DFCI,Cetuximab,1,0.0,GENIE-DFCI-001463-9650
+3,GENIE-DFCI-001463,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-001463-9650
+4,GENIE-DFCI-002507,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-DFCI-002507-4815
+5,GENIE-DFCI-002513,DFCI,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-DFCI-002513-8039
+6,GENIE-DFCI-002518,DFCI,"Cetuximab, Investigational Drug",1,1.0,GENIE-DFCI-002518-8563
+7,GENIE-DFCI-002561,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,0.0,GENIE-DFCI-002561-8631
+8,GENIE-DFCI-003065,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-003065-8186
+9,GENIE-DFCI-003423,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-003423-6929
+10,GENIE-DFCI-003600,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-003600-5448
+11,GENIE-DFCI-003654,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-003654-10980
+12,GENIE-DFCI-003654,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-DFCI-003654-10980
+13,GENIE-DFCI-004251,DFCI,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-DFCI-004251-6964
+14,GENIE-DFCI-004863,DFCI,Cetuximab,1,1.0,GENIE-DFCI-004863-8683
+15,GENIE-DFCI-005639,DFCI,"Bevacizumab, Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-005639-7369
+16,GENIE-DFCI-006140,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-006140-9404
+17,GENIE-DFCI-006340,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-DFCI-006340-9097
+18,GENIE-DFCI-007011,DFCI,"Cetuximab, Irinotecan Hydrochloride",0,0.0,GENIE-DFCI-007011-11659
+19,GENIE-DFCI-007011,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,1.0,GENIE-DFCI-007011-11659
+20,GENIE-DFCI-007504,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-DFCI-007504-7427
+21,GENIE-DFCI-007715,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-DFCI-007715-7094
+22,GENIE-DFCI-008063,DFCI,"Cetuximab, Irinotecan Hydrochloride",0,0.0,GENIE-DFCI-008063-6219
+23,GENIE-DFCI-008081,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-DFCI-008081-6165
+24,GENIE-DFCI-008103,DFCI,Panitumumab,1,0.0,GENIE-DFCI-008103-7932
+25,GENIE-DFCI-008103,DFCI,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Panitumumab",1,0.0,GENIE-DFCI-008103-7932
+26,GENIE-DFCI-008121,DFCI,"Bevacizumab, Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-008121-5256
+27,GENIE-DFCI-008284,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-DFCI-008284-6855
+28,GENIE-DFCI-008439,DFCI,"Cetuximab, Irinotecan Hydrochloride",0,0.0,GENIE-DFCI-008439-5716
+29,GENIE-DFCI-008439,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,1.0,GENIE-DFCI-008439-5716
+30,GENIE-DFCI-008450,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-DFCI-008450-7434
+31,GENIE-DFCI-008508,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-008508-9210
+32,GENIE-DFCI-008517,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-008517-10877
+33,GENIE-DFCI-008517,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,0.0,GENIE-DFCI-008517-10877
+34,GENIE-DFCI-008760,DFCI,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,0.0,GENIE-DFCI-008760-7042
+35,GENIE-DFCI-008778,DFCI,"Bevacizumab, Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-008778-6933
+36,GENIE-DFCI-008814,DFCI,Panitumumab,1,1.0,GENIE-DFCI-008814-7234
+37,GENIE-DFCI-008814,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-008814-7234
+38,GENIE-DFCI-008814,DFCI,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,,GENIE-DFCI-008814-7234
+39,GENIE-DFCI-008889,DFCI,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-DFCI-008889-6970
+40,GENIE-DFCI-008940,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-DFCI-008940-7584
+41,GENIE-DFCI-009003,DFCI,"Cetuximab, Irinotecan Hydrochloride",0,1.0,GENIE-DFCI-009003-9496
+42,GENIE-DFCI-009065,DFCI,"Bevacizumab, Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-009065-6737
+43,GENIE-DFCI-009074,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-DFCI-009074-7064
+44,GENIE-DFCI-009370,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-009370-7880
+45,GENIE-DFCI-009404,DFCI,Panitumumab,0,0.0,GENIE-DFCI-009404-7854
+46,GENIE-DFCI-009404,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,1.0,GENIE-DFCI-009404-7854
+47,GENIE-DFCI-009426,DFCI,"Bevacizumab, Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-009426-8309
+48,GENIE-DFCI-009482,DFCI,Cetuximab,1,0.0,GENIE-DFCI-009482-9045
+49,GENIE-DFCI-009482,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-009482-9045
+50,GENIE-DFCI-009581,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-009581-8598
+51,GENIE-DFCI-009586,DFCI,"Cetuximab, Fluorouracil, Irinotecan liposome, Leucovorin Calcium",1,1.0,GENIE-DFCI-009586-8555
+52,GENIE-DFCI-009631,DFCI,"Panitumumab, Regorafenib",1,1.0,GENIE-DFCI-009631-9022
+53,GENIE-DFCI-009719,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-DFCI-009719-6937
+54,GENIE-DFCI-009854,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-009854-8223
+55,GENIE-DFCI-009918,DFCI,"Dabrafenib, Panitumumab, Trametinib",1,1.0,GENIE-DFCI-009918-8674
+56,GENIE-DFCI-009983,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-009983-8421
+57,GENIE-DFCI-009983,DFCI,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Panitumumab",1,1.0,GENIE-DFCI-009983-8421
+58,GENIE-DFCI-010053,DFCI,"Dabrafenib, Panitumumab, Trametinib",1,1.0,GENIE-DFCI-010053-10234
+59,GENIE-DFCI-010207,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-DFCI-010207-10042
+60,GENIE-DFCI-010321,DFCI,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-DFCI-010321-9951
+61,GENIE-DFCI-010547,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,0.0,GENIE-DFCI-010547-11352
+62,GENIE-DFCI-010552,DFCI,"Cetuximab, Fluorouracil, Oxaliplatin",0,1.0,GENIE-DFCI-010552-10110
+63,GENIE-DFCI-010603,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-010603-9978
+64,GENIE-DFCI-010640,DFCI,"Bevacizumab, Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-010640-9164
+65,GENIE-DFCI-010772,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,0.0,GENIE-DFCI-010772-9516
+66,GENIE-DFCI-010860,DFCI,Panitumumab,1,0.0,GENIE-DFCI-010860-8834
+67,GENIE-DFCI-010903,DFCI,"Cetuximab, Irinotecan Hydrochloride, Vemurafenib",1,0.0,GENIE-DFCI-010903-10011
+68,GENIE-DFCI-011006,DFCI,"Capecitabine, Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-011006-11475
+69,GENIE-DFCI-011010,DFCI,"Cetuximab, Investigational Drug",1,1.0,GENIE-DFCI-011010-10732
+70,GENIE-DFCI-011252,DFCI,Cetuximab,1,0.0,GENIE-DFCI-011252-11577
+71,GENIE-DFCI-011252,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-011252-11577
+72,GENIE-DFCI-011391,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-011391-10687
+73,GENIE-DFCI-011396,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-011396-11089
+74,GENIE-DFCI-011512,DFCI,"Bevacizumab, Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-011512-10189
+75,GENIE-DFCI-011888,DFCI,"Bevacizumab, Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-011888-23826
+76,GENIE-DFCI-016815,DFCI,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-DFCI-016815-23894
+77,GENIE-DFCI-016815,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-016815-23894
+78,GENIE-DFCI-016815,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,0.0,GENIE-DFCI-016815-23894
+79,GENIE-DFCI-017652,DFCI,Cetuximab,1,1.0,GENIE-DFCI-017652-23659
+80,GENIE-DFCI-022876,DFCI,"Cetuximab, Irinotecan Hydrochloride",0,1.0,GENIE-DFCI-022876-23829
+81,GENIE-DFCI-023427,DFCI,"Bevacizumab, Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-023427-23932
+82,GENIE-DFCI-023755,DFCI,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,1.0,GENIE-DFCI-023755-23751
+83,GENIE-DFCI-024082,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-DFCI-024082-130672
+84,GENIE-DFCI-024579,DFCI,Cetuximab,1,1.0,GENIE-DFCI-024579-36065
+85,GENIE-DFCI-025142,DFCI,"Cetuximab, Irinotecan Hydrochloride, Vemurafenib",1,1.0,GENIE-DFCI-025142-74570
+86,GENIE-DFCI-031982,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-DFCI-031982-75000
+87,GENIE-DFCI-033013,DFCI,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,0.0,GENIE-DFCI-033013-116021
+88,GENIE-DFCI-034097,DFCI,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-DFCI-034097-130334
+89,GENIE-DFCI-034441,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-034441-116348
+90,GENIE-DFCI-034485,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-DFCI-034485-158933
+91,GENIE-DFCI-035417,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-035417-36270
+92,GENIE-DFCI-036347,DFCI,"Cetuximab, Irinotecan Hydrochloride",0,1.0,GENIE-DFCI-036347-36256
+93,GENIE-DFCI-036507,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-036507-74569
+94,GENIE-DFCI-036807,DFCI,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",0,0.0,GENIE-DFCI-036807-88810
+95,GENIE-DFCI-037031,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-037031-130113
+96,GENIE-DFCI-037044,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-DFCI-037044-159112
+97,GENIE-DFCI-037237,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,1.0,GENIE-DFCI-037237-116393
+98,GENIE-DFCI-037427,DFCI,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,1.0,GENIE-DFCI-037427-130620
+99,GENIE-DFCI-037610,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-DFCI-037610-74637
+100,GENIE-DFCI-037641,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-037641-130641
+101,GENIE-DFCI-037965,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-DFCI-037965-48493
+102,GENIE-DFCI-037984,DFCI,Cetuximab,0,,GENIE-DFCI-037984-74576
+103,GENIE-DFCI-041166,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-041166-203665
+104,GENIE-DFCI-046927,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-DFCI-046927-218671
+105,GENIE-DFCI-050749,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-DFCI-050749-173868
+106,GENIE-DFCI-051726,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-DFCI-051726-173723
+107,GENIE-DFCI-051869,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-DFCI-051869-218540
+108,GENIE-DFCI-052979,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-DFCI-052979-173860
+109,GENIE-DFCI-053392,DFCI,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-DFCI-053392-218525
+110,GENIE-DFCI-087455,DFCI,Panitumumab,0,0.0,GENIE-DFCI-087455-266370
+111,GENIE-DFCI-087455,DFCI,"Dabrafenib, Irinotecan Hydrochloride, Panitumumab",0,1.0,GENIE-DFCI-087455-266370
+112,GENIE-DFCI-091011,DFCI,"Cetuximab, Investigational Drug",0,1.0,GENIE-DFCI-091011-298994
+113,GENIE-DFCI-091167,DFCI,Cetuximab,1,0.0,GENIE-DFCI-091167-332910
+114,GENIE-DFCI-091182,DFCI,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,0.0,GENIE-DFCI-091182-315923
+115,GENIE-DFCI-091403,DFCI,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",0,1.0,GENIE-DFCI-091403-265966
+116,GENIE-DFCI-091491,DFCI,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-DFCI-091491-332950
+117,GENIE-DFCI-091558,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,0.0,GENIE-DFCI-091558-350887
+118,GENIE-DFCI-092164,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,0.0,GENIE-DFCI-092164-350927
+119,GENIE-DFCI-092207,DFCI,Cetuximab,0,0.0,GENIE-DFCI-092207-350763
+120,GENIE-DFCI-094137,DFCI,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,0.0,GENIE-DFCI-094137-437242
+121,GENIE-DFCI-098468,DFCI,"Cetuximab, Irinotecan Hydrochloride",0,1.0,GENIE-DFCI-098468-664225
+122,GENIE-DFCI-104082,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,0.0,GENIE-DFCI-104082-437230
+123,GENIE-DFCI-107965,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-DFCI-107965-664157
+124,GENIE-DFCI-110177,DFCI,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-DFCI-110177-617833
+125,GENIE-DFCI-110221,DFCI,"Cetuximab, Irinotecan Hydrochloride",0,1.0,GENIE-DFCI-110221-571813
+126,GENIE-DFCI-110633,DFCI,"Cetuximab, Irinotecan Hydrochloride",0,0.0,GENIE-DFCI-110633-436919
+127,GENIE-DFCI-111051,DFCI,Cetuximab,0,1.0,GENIE-DFCI-111051-617842
+128,GENIE-DFCI-112049,DFCI,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-DFCI-112049-664134
+129,GENIE-DFCI-112049,DFCI,"Binimetinib, Encorafenib, Panitumumab",1,0.0,GENIE-DFCI-112049-664134
+130,GENIE-DFCI-117906,DFCI,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-DFCI-117906-664184
+131,GENIE-MSK-P-0001961,MSK,"Cetuximab, Irinotecan Hydrochloride, Mitomycin",1,0.0,GENIE-MSK-P-0001961-T02-IM5
+132,GENIE-MSK-P-0001961,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,0.0,GENIE-MSK-P-0001961-T02-IM5
+133,GENIE-MSK-P-0002463,MSK,"Cetuximab, Investigational Drug",0,0.0,GENIE-MSK-P-0002463-T02-IM5
+134,GENIE-MSK-P-0002702,MSK,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-MSK-P-0002702-T01-IM3
+135,GENIE-MSK-P-0003284,MSK,"Irinotecan Hydrochloride, Panitumumab",0,0.0,GENIE-MSK-P-0003284-T01-IM5
+136,GENIE-MSK-P-0003285,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0003285-T01-IM5
+137,GENIE-MSK-P-0003285,MSK,"Bevacizumab, Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0003285-T01-IM5
+138,GENIE-MSK-P-0003582,MSK,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-MSK-P-0003582-T01-IM5
+139,GENIE-MSK-P-0004140,MSK,"Cetuximab, Investigational Drug",1,0.0,GENIE-MSK-P-0004140-T01-IM5
+140,GENIE-MSK-P-0004666,MSK,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-MSK-P-0004666-T01-IM5
+141,GENIE-MSK-P-0004666,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium",1,0.0,GENIE-MSK-P-0004666-T01-IM5
+142,GENIE-MSK-P-0004666,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,0.0,GENIE-MSK-P-0004666-T01-IM5
+143,GENIE-MSK-P-0004690,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0004690-T01-IM5
+144,GENIE-MSK-P-0004977,MSK,"Cetuximab, Irinotecan Hydrochloride",1,,GENIE-MSK-P-0004977-T01-IM5
+145,GENIE-MSK-P-0005132,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0005132-T01-IM5
+146,GENIE-MSK-P-0005151,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,,GENIE-MSK-P-0005151-T01-IM5
+147,GENIE-MSK-P-0005163,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,1.0,GENIE-MSK-P-0005163-T01-IM5
+148,GENIE-MSK-P-0005430,MSK,Panitumumab,1,1.0,GENIE-MSK-P-0005430-T01-IM5
+149,GENIE-MSK-P-0005487,MSK,"Dabrafenib, Panitumumab, Trametinib",1,1.0,GENIE-MSK-P-0005487-T01-IM5
+150,GENIE-MSK-P-0005502,MSK,"Fluorouracil, Panitumumab",1,1.0,GENIE-MSK-P-0005502-T01-IM5
+151,GENIE-MSK-P-0005522,MSK,Cetuximab,1,0.0,GENIE-MSK-P-0005522-T01-IM5
+152,GENIE-MSK-P-0005522,MSK,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-MSK-P-0005522-T01-IM5
+153,GENIE-MSK-P-0005634,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium",1,0.0,GENIE-MSK-P-0005634-T01-IM5
+154,GENIE-MSK-P-0005634,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,0.0,GENIE-MSK-P-0005634-T01-IM5
+155,GENIE-MSK-P-0005730,MSK,Panitumumab,0,0.0,GENIE-MSK-P-0005730-T02-IM5
+156,GENIE-MSK-P-0005730,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-MSK-P-0005730-T02-IM5
+157,GENIE-MSK-P-0005742,MSK,"Panitumumab, Vemurafenib",1,1.0,GENIE-MSK-P-0005742-T01-IM5
+158,GENIE-MSK-P-0005762,MSK,Cetuximab,1,0.0,GENIE-MSK-P-0005762-T01-IM5
+159,GENIE-MSK-P-0005762,MSK,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-MSK-P-0005762-T01-IM5
+160,GENIE-MSK-P-0005762,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,0.0,GENIE-MSK-P-0005762-T01-IM5
+161,GENIE-MSK-P-0005833,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,0.0,GENIE-MSK-P-0005833-T01-IM5
+162,GENIE-MSK-P-0005888,MSK,"Dabrafenib, Panitumumab, Trametinib",1,1.0,GENIE-MSK-P-0005888-T01-IM5
+163,GENIE-MSK-P-0005938,MSK,"Capecitabine, Cetuximab",1,0.0,GENIE-MSK-P-0005938-T01-IM5
+164,GENIE-MSK-P-0005938,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride",1,0.0,GENIE-MSK-P-0005938-T01-IM5
+165,GENIE-MSK-P-0005941,MSK,Panitumumab,1,1.0,GENIE-MSK-P-0005941-T01-IM5
+166,GENIE-MSK-P-0005996,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",0,0.0,GENIE-MSK-P-0005996-T01-IM5
+167,GENIE-MSK-P-0006138,MSK,Panitumumab,1,0.0,GENIE-MSK-P-0006138-T01-IM5
+168,GENIE-MSK-P-0006138,MSK,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-MSK-P-0006138-T01-IM5
+169,GENIE-MSK-P-0006138,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,0.0,GENIE-MSK-P-0006138-T01-IM5
+170,GENIE-MSK-P-0006329,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",0,1.0,GENIE-MSK-P-0006329-T01-IM5
+171,GENIE-MSK-P-0006390,MSK,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-MSK-P-0006390-T01-IM5
+172,GENIE-MSK-P-0006468,MSK,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-MSK-P-0006468-T01-IM5
+173,GENIE-MSK-P-0006468,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium",1,1.0,GENIE-MSK-P-0006468-T01-IM5
+174,GENIE-MSK-P-0006608,MSK,"Fluorouracil, Leucovorin Calcium, Panitumumab",0,1.0,GENIE-MSK-P-0006608-T01-IM5
+175,GENIE-MSK-P-0006608,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-MSK-P-0006608-T01-IM5
+176,GENIE-MSK-P-0006721,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0006721-T01-IM5
+177,GENIE-MSK-P-0006770,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0006770-T01-IM5
+178,GENIE-MSK-P-0006968,MSK,Cetuximab,0,0.0,GENIE-MSK-P-0006968-T01-IM5
+179,GENIE-MSK-P-0006968,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-MSK-P-0006968-T01-IM5
+180,GENIE-MSK-P-0007069,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0007069-T01-IM5
+181,GENIE-MSK-P-0007090,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,0.0,GENIE-MSK-P-0007090-T02-IM5
+182,GENIE-MSK-P-0007136,MSK,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-MSK-P-0007136-T01-IM5
+183,GENIE-MSK-P-0007410,MSK,"Irinotecan Hydrochloride, Panitumumab",0,1.0,GENIE-MSK-P-0007410-T01-IM5
+184,GENIE-MSK-P-0007414,MSK,Panitumumab,1,1.0,GENIE-MSK-P-0007414-T01-IM5
+185,GENIE-MSK-P-0007586,MSK,"Capecitabine, Cetuximab",1,1.0,GENIE-MSK-P-0007586-T01-IM5
+186,GENIE-MSK-P-0007586,MSK,"Capecitabine, Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-MSK-P-0007586-T01-IM5
+187,GENIE-MSK-P-0007586,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-MSK-P-0007586-T01-IM5
+188,GENIE-MSK-P-0007863,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-MSK-P-0007863-T01-IM5
+189,GENIE-MSK-P-0007997,MSK,"Dabrafenib, Panitumumab, Trametinib",1,0.0,GENIE-MSK-P-0007997-T01-IM5
+190,GENIE-MSK-P-0008031,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0008031-T01-IM5
+191,GENIE-MSK-P-0008083,MSK,"Cetuximab, Irinotecan Hydrochloride",0,0.0,GENIE-MSK-P-0008083-T01-IM5
+192,GENIE-MSK-P-0008083,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0008083-T01-IM5
+193,GENIE-MSK-P-0008467,MSK,"Dabrafenib, Panitumumab, Trametinib",1,1.0,GENIE-MSK-P-0008467-T01-IM5
+194,GENIE-MSK-P-0008551,MSK,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Panitumumab",0,1.0,GENIE-MSK-P-0008551-T01-IM5
+195,GENIE-MSK-P-0008565,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0008565-T01-IM5
+196,GENIE-MSK-P-0008583,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium",1,1.0,GENIE-MSK-P-0008583-T01-IM5
+197,GENIE-MSK-P-0008583,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,1.0,GENIE-MSK-P-0008583-T01-IM5
+198,GENIE-MSK-P-0008651,MSK,"Irinotecan Hydrochloride, Panitumumab",0,1.0,GENIE-MSK-P-0008651-T01-IM5
+199,GENIE-MSK-P-0009145,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,1.0,GENIE-MSK-P-0009145-T01-IM5
+200,GENIE-MSK-P-0009252,MSK,"Cetuximab, Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0009252-T01-IM5
+201,GENIE-MSK-P-0009294,MSK,Panitumumab,1,1.0,GENIE-MSK-P-0009294-T01-IM5
+202,GENIE-MSK-P-0009617,MSK,"Cetuximab, Cobimetinib, Vemurafenib",1,1.0,GENIE-MSK-P-0009617-T01-IM5
+203,GENIE-MSK-P-0009949,MSK,"Irinotecan Hydrochloride, Panitumumab",0,1.0,GENIE-MSK-P-0009949-T01-IM5
+204,GENIE-MSK-P-0009949,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-MSK-P-0009949-T01-IM5
+205,GENIE-MSK-P-0010098,MSK,"Cobimetinib, Panitumumab, Vemurafenib",1,1.0,GENIE-MSK-P-0010098-T01-IM5
+206,GENIE-MSK-P-0010207,MSK,Panitumumab,0,0.0,GENIE-MSK-P-0010207-T01-IM5
+207,GENIE-MSK-P-0010207,MSK,"Irinotecan Hydrochloride, Panitumumab",0,1.0,GENIE-MSK-P-0010207-T01-IM5
+208,GENIE-MSK-P-0010238,MSK,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-MSK-P-0010238-T01-IM5
+209,GENIE-MSK-P-0010367,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0010367-T01-IM5
+210,GENIE-MSK-P-0010393,MSK,"Cetuximab, Fluorouracil",0,1.0,GENIE-MSK-P-0010393-T01-IM5
+211,GENIE-MSK-P-0010497,MSK,"Cetuximab, Irinotecan Hydrochloride",0,0.0,GENIE-MSK-P-0010497-T01-IM5
+212,GENIE-MSK-P-0010587,MSK,"Irinotecan Hydrochloride, Panitumumab",0,1.0,GENIE-MSK-P-0010587-T01-IM5
+213,GENIE-MSK-P-0010781,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0010781-T01-IM5
+214,GENIE-MSK-P-0011131,MSK,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-MSK-P-0011131-T01-IM5
+215,GENIE-MSK-P-0011195,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,0.0,GENIE-MSK-P-0011195-T01-IM5
+216,GENIE-MSK-P-0011282,MSK,Cetuximab,1,,GENIE-MSK-P-0011282-T01-IM5
+217,GENIE-MSK-P-0011288,MSK,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-MSK-P-0011288-T01-IM5
+218,GENIE-MSK-P-0011455,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0011455-T01-IM5
+219,GENIE-MSK-P-0011455,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,1.0,GENIE-MSK-P-0011455-T01-IM5
+220,GENIE-MSK-P-0012110,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,1.0,GENIE-MSK-P-0012110-T01-IM5
+221,GENIE-MSK-P-0012135,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0012135-T01-IM5
+222,GENIE-MSK-P-0012389,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0012389-T01-IM5
+223,GENIE-MSK-P-0013087,MSK,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-MSK-P-0013087-T01-IM5
+224,GENIE-MSK-P-0013227,MSK,"Bevacizumab, Cetuximab, Irinotecan Hydrochloride",0,1.0,GENIE-MSK-P-0013227-T01-IM5
+225,GENIE-MSK-P-0013258,MSK,"Cetuximab, Irinotecan Hydrochloride, Vemurafenib",1,1.0,GENIE-MSK-P-0013258-T01-IM5
+226,GENIE-MSK-P-0013290,MSK,"Cetuximab, Irinotecan Hydrochloride",0,1.0,GENIE-MSK-P-0013290-T02-IM6
+227,GENIE-MSK-P-0013290,MSK,"Cetuximab, Trifluridine and Tipiracil Hydrochloride, Vemurafenib",0,0.0,GENIE-MSK-P-0013290-T02-IM6
+228,GENIE-MSK-P-0013594,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0013594-T01-IM5
+229,GENIE-MSK-P-0013786,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,0.0,GENIE-MSK-P-0013786-T01-IM5
+230,GENIE-MSK-P-0013799,MSK,"Cetuximab, Irinotecan Hydrochloride",0,0.0,GENIE-MSK-P-0013799-T01-IM5
+231,GENIE-MSK-P-0013799,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0013799-T01-IM5
+232,GENIE-MSK-P-0013856,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,0.0,GENIE-MSK-P-0013856-T01-IM5
+233,GENIE-MSK-P-0013941,MSK,"Irinotecan Hydrochloride, Panitumumab",0,0.0,GENIE-MSK-P-0013941-T01-IM5
+234,GENIE-MSK-P-0014020,MSK,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-MSK-P-0014020-T01-IM5
+235,GENIE-MSK-P-0015055,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-MSK-P-0015055-T01-IM6
+236,GENIE-MSK-P-0015276,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-MSK-P-0015276-T01-IM6
+237,GENIE-MSK-P-0015411,MSK,Panitumumab,0,1.0,GENIE-MSK-P-0015411-T01-IM6
+238,GENIE-MSK-P-0015474,MSK,"Irinotecan Hydrochloride, Panitumumab",0,0.0,GENIE-MSK-P-0015474-T01-IM6
+239,GENIE-MSK-P-0015566,MSK,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-MSK-P-0015566-T01-IM6
+240,GENIE-MSK-P-0015566,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",1,0.0,GENIE-MSK-P-0015566-T01-IM6
+241,GENIE-MSK-P-0015884,MSK,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-MSK-P-0015884-T01-IM6
+242,GENIE-MSK-P-0016111,MSK,"Cetuximab, Irinotecan Hydrochloride",1,0.0,GENIE-MSK-P-0016111-T01-IM6
+243,GENIE-MSK-P-0016111,MSK,"Cetuximab, Irinotecan Hydrochloride, Oxaliplatin",1,1.0,GENIE-MSK-P-0016111-T01-IM6
+244,GENIE-MSK-P-0016183,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0016183-T01-IM6
+245,GENIE-MSK-P-0016227,MSK,Panitumumab,1,0.0,GENIE-MSK-P-0016227-T01-IM6
+246,GENIE-MSK-P-0016227,MSK,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-MSK-P-0016227-T01-IM6
+247,GENIE-MSK-P-0016293,MSK,Panitumumab,0,0.0,GENIE-MSK-P-0016293-T01-IM6
+248,GENIE-MSK-P-0016485,MSK,"Irinotecan Hydrochloride, Panitumumab",0,0.0,GENIE-MSK-P-0016485-T01-IM6
+249,GENIE-MSK-P-0016550,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0016550-T01-IM6
+250,GENIE-MSK-P-0016552,MSK,"Irinotecan Hydrochloride, Panitumumab",0,1.0,GENIE-MSK-P-0016552-T01-IM6
+251,GENIE-MSK-P-0016560,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-MSK-P-0016560-T01-IM6
+252,GENIE-MSK-P-0016937,MSK,Panitumumab,0,1.0,GENIE-MSK-P-0016937-T01-IM6
+253,GENIE-MSK-P-0016937,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-MSK-P-0016937-T01-IM6
+254,GENIE-MSK-P-0017565,MSK,"Cetuximab, Irinotecan Hydrochloride",0,0.0,GENIE-MSK-P-0017565-T01-IM5
+255,GENIE-MSK-P-0017565,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0017565-T01-IM5
+256,GENIE-MSK-P-0017565,MSK,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",0,0.0,GENIE-MSK-P-0017565-T01-IM5
+257,GENIE-MSK-P-0017800,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0017800-T01-IM6
+258,GENIE-MSK-P-0017925,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,0.0,GENIE-MSK-P-0017925-T01-IM6
+259,GENIE-MSK-P-0018084,MSK,Panitumumab,0,0.0,GENIE-MSK-P-0018084-T01-IM6
+260,GENIE-MSK-P-0018109,MSK,"Dabrafenib, Panitumumab, Trametinib",1,1.0,GENIE-MSK-P-0018109-T01-IM6
+261,GENIE-MSK-P-0018208,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0018208-T01-IM6
+262,GENIE-MSK-P-0018368,MSK,"Cetuximab, Irinotecan Hydrochloride",0,0.0,GENIE-MSK-P-0018368-T01-IM6
+263,GENIE-MSK-P-0018368,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0018368-T01-IM6
+264,GENIE-MSK-P-0018485,MSK,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-MSK-P-0018485-T01-IM6
+265,GENIE-MSK-P-0019594,MSK,Panitumumab,1,1.0,GENIE-MSK-P-0019594-T01-IM6
+266,GENIE-MSK-P-0019711,MSK,Panitumumab,0,1.0,GENIE-MSK-P-0019711-T01-IM6
+267,GENIE-MSK-P-0019711,MSK,"Panitumumab, Rituximab and Hyaluronidase Human",0,1.0,GENIE-MSK-P-0019711-T01-IM6
+268,GENIE-MSK-P-0020303,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0020303-T01-IM6
+269,GENIE-MSK-P-0020338,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0020338-T01-IM6
+270,GENIE-MSK-P-0020338,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-MSK-P-0020338-T01-IM6
+271,GENIE-MSK-P-0020418,MSK,"Irinotecan Hydrochloride, Panitumumab",0,0.0,GENIE-MSK-P-0020418-T01-IM6
+272,GENIE-MSK-P-0020634,MSK,Cetuximab,1,0.0,GENIE-MSK-P-0020634-T01-IM6
+273,GENIE-MSK-P-0020733,MSK,"Capecitabine, Irinotecan Hydrochloride, Panitumumab",0,0.0,GENIE-MSK-P-0020733-T01-IM6
+274,GENIE-MSK-P-0021985,MSK,"Capecitabine, Panitumumab",0,0.0,GENIE-MSK-P-0021985-T01-IM6
+275,GENIE-MSK-P-0021985,MSK,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Panitumumab",0,0.0,GENIE-MSK-P-0021985-T01-IM6
+276,GENIE-MSK-P-0022050,MSK,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-MSK-P-0022050-T01-IM6
+277,GENIE-MSK-P-0022409,MSK,"Irinotecan Hydrochloride, Panitumumab",0,0.0,GENIE-MSK-P-0022409-T01-IM6
+278,GENIE-MSK-P-0022490,MSK,Panitumumab,1,1.0,GENIE-MSK-P-0022490-T01-IM6
+279,GENIE-MSK-P-0022490,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,0.0,GENIE-MSK-P-0022490-T01-IM6
+280,GENIE-MSK-P-0022555,MSK,"Cetuximab, Investigational Drug",0,0.0,GENIE-MSK-P-0022555-T01-IM6
+281,GENIE-MSK-P-0022555,MSK,"Binimetinib, Encorafenib, Panitumumab",0,0.0,GENIE-MSK-P-0022555-T01-IM6
+282,GENIE-MSK-P-0022699,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,0.0,GENIE-MSK-P-0022699-T01-IM6
+283,GENIE-MSK-P-0022928,MSK,"Fluorouracil, Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-MSK-P-0022928-T01-IM6
+284,GENIE-MSK-P-0022945,MSK,Panitumumab,1,1.0,GENIE-MSK-P-0022945-T01-IM6
+285,GENIE-MSK-P-0023616,MSK,"Capecitabine, Panitumumab",0,0.0,GENIE-MSK-P-0023616-T01-IM6
+286,GENIE-MSK-P-0023616,MSK,"Capecitabine, Irinotecan Hydrochloride, Panitumumab",0,0.0,GENIE-MSK-P-0023616-T01-IM6
+287,GENIE-MSK-P-0023943,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,0.0,GENIE-MSK-P-0023943-T01-IM6
+288,GENIE-MSK-P-0024155,MSK,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Panitumumab",0,0.0,GENIE-MSK-P-0024155-T01-IM6
+289,GENIE-MSK-P-0024298,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0024298-T01-IM6
+290,GENIE-MSK-P-0024494,MSK,Panitumumab,0,0.0,GENIE-MSK-P-0024494-T01-IM6
+291,GENIE-MSK-P-0024570,MSK,"Cetuximab, Investigational Drug",1,1.0,GENIE-MSK-P-0024570-T01-IM6
+292,GENIE-MSK-P-0024824,MSK,"Cetuximab, Cobimetinib, Vemurafenib",1,1.0,GENIE-MSK-P-0024824-T01-IM6
+293,GENIE-MSK-P-0025001,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0025001-T01-IM6
+294,GENIE-MSK-P-0025001,MSK,"Fluorouracil, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-MSK-P-0025001-T01-IM6
+295,GENIE-MSK-P-0025201,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",1,1.0,GENIE-MSK-P-0025201-T01-IM6
+296,GENIE-MSK-P-0025207,MSK,Panitumumab,1,1.0,GENIE-MSK-P-0025207-T01-IM6
+297,GENIE-MSK-P-0025362,MSK,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-MSK-P-0025362-T01-IM6
+298,GENIE-MSK-P-0025444,MSK,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-MSK-P-0025444-T01-IM6
+299,GENIE-MSK-P-0025468,MSK,"Irinotecan Hydrochloride, Panitumumab",0,1.0,GENIE-MSK-P-0025468-T01-IM6
+300,GENIE-MSK-P-0025686,MSK,"Irinotecan Hydrochloride, Panitumumab",0,0.0,GENIE-MSK-P-0025686-T01-IM6
+301,GENIE-MSK-P-0025791,MSK,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-MSK-P-0025791-T01-IM6
+302,GENIE-MSK-P-0025883,MSK,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-MSK-P-0025883-T01-IM6
+303,GENIE-VICC-101420,VICC,Panitumumab,1,1.0,GENIE-VICC-101420-unk-1
+304,GENIE-VICC-132564,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-132564-unk-1
+305,GENIE-VICC-154822,VICC,"Investigational Drug, Panitumumab",0,1.0,GENIE-VICC-154822-unk-1
+306,GENIE-VICC-156786,VICC,"Investigational Drug, Panitumumab",0,1.0,GENIE-VICC-156786-unk-1
+307,GENIE-VICC-165276,VICC,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,0.0,GENIE-VICC-165276-unk-1
+308,GENIE-VICC-194719,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-194719-unk-1
+309,GENIE-VICC-212081,VICC,"Irinotecan Hydrochloride, Panitumumab",0,0.0,GENIE-VICC-212081-unk-1
+310,GENIE-VICC-225013,VICC,"Investigational Drug, Panitumumab",0,1.0,GENIE-VICC-225013-unk-1
+311,GENIE-VICC-225013,VICC,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Panitumumab",0,1.0,GENIE-VICC-225013-unk-1
+312,GENIE-VICC-228685,VICC,"Cetuximab, Fluorouracil, Leucovorin Calcium, Oxaliplatin",0,0.0,GENIE-VICC-228685-unk-1
+313,GENIE-VICC-229928,VICC,Panitumumab,0,1.0,GENIE-VICC-229928-unk-1
+314,GENIE-VICC-231144,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-231144-unk-1
+315,GENIE-VICC-231144,VICC,"Investigational Drug, Panitumumab",1,1.0,GENIE-VICC-231144-unk-1
+316,GENIE-VICC-231144,VICC,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Panitumumab",1,0.0,GENIE-VICC-231144-unk-1
+317,GENIE-VICC-260421,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-260421-unk-1
+318,GENIE-VICC-264732,VICC,"Irinotecan Hydrochloride, Panitumumab",0,1.0,GENIE-VICC-264732-unk-1
+319,GENIE-VICC-264732,VICC,"Investigational Drug, Panitumumab",0,1.0,GENIE-VICC-264732-unk-1
+320,GENIE-VICC-274190,VICC,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-VICC-274190-unk-1
+321,GENIE-VICC-287420,VICC,Cetuximab,0,0.0,GENIE-VICC-287420-unk-1
+322,GENIE-VICC-287420,VICC,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-VICC-287420-unk-1
+323,GENIE-VICC-290689,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-290689-unk-1
+324,GENIE-VICC-290689,VICC,"Investigational Drug, Panitumumab",1,1.0,GENIE-VICC-290689-unk-1
+325,GENIE-VICC-313067,VICC,"Investigational Drug, Panitumumab",1,1.0,GENIE-VICC-313067-unk-1
+326,GENIE-VICC-329884,VICC,Panitumumab,1,1.0,GENIE-VICC-329884-unk-1
+327,GENIE-VICC-337653,VICC,Panitumumab,1,0.0,GENIE-VICC-337653-unk-1
+328,GENIE-VICC-339054,VICC,Panitumumab,1,1.0,GENIE-VICC-339054-unk-1
+329,GENIE-VICC-339054,VICC,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-VICC-339054-unk-1
+330,GENIE-VICC-345504,VICC,"Cetuximab, Irinotecan Hydrochloride",1,1.0,GENIE-VICC-345504-unk-1
+331,GENIE-VICC-358004,VICC,"Investigational Drug, Panitumumab",0,1.0,GENIE-VICC-358004-unk-1
+332,GENIE-VICC-358393,VICC,"Capecitabine, Irinotecan Hydrochloride, Panitumumab",0,,GENIE-VICC-358393-unk-1
+333,GENIE-VICC-380850,VICC,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-VICC-380850-unk-1
+334,GENIE-VICC-380850,VICC,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",1,1.0,GENIE-VICC-380850-unk-1
+335,GENIE-VICC-390430,VICC,Panitumumab,1,0.0,GENIE-VICC-390430-unk-1
+336,GENIE-VICC-403084,VICC,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,1.0,GENIE-VICC-403084-unk-1
+337,GENIE-VICC-434930,VICC,Panitumumab,0,1.0,GENIE-VICC-434930-unk-1
+338,GENIE-VICC-489032,VICC,"Irinotecan Hydrochloride, Panitumumab",0,1.0,GENIE-VICC-489032-unk-1
+339,GENIE-VICC-499960,VICC,Panitumumab,1,0.0,GENIE-VICC-499960-unk-1
+340,GENIE-VICC-499960,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-499960-unk-1
+341,GENIE-VICC-539749,VICC,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,1.0,GENIE-VICC-539749-unk-1
+342,GENIE-VICC-554828,VICC,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-VICC-554828-unk-1
+343,GENIE-VICC-582659,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-582659-unk-1
+344,GENIE-VICC-582659,VICC,"Investigational Drug, Panitumumab",1,0.0,GENIE-VICC-582659-unk-1
+345,GENIE-VICC-592606,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-592606-unk-1
+346,GENIE-VICC-624160,VICC,Panitumumab,1,1.0,GENIE-VICC-624160-unk-1
+347,GENIE-VICC-632020,VICC,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Panitumumab",1,0.0,GENIE-VICC-632020-unk-1
+348,GENIE-VICC-647576,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-647576-unk-1
+349,GENIE-VICC-669632,VICC,Panitumumab,1,1.0,GENIE-VICC-669632-unk-1
+350,GENIE-VICC-712482,VICC,"Fluorouracil, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-VICC-712482-unk-1
+351,GENIE-VICC-717874,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-717874-unk-1
+352,GENIE-VICC-756267,VICC,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,1.0,GENIE-VICC-756267-unk-1
+353,GENIE-VICC-773680,VICC,"Fluorouracil, Leucovorin Calcium, Oxaliplatin, Panitumumab",1,0.0,GENIE-VICC-773680-unk-1
+354,GENIE-VICC-781727,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-781727-unk-1
+355,GENIE-VICC-784009,VICC,"Cetuximab, Irinotecan Hydrochloride",0,0.0,GENIE-VICC-784009-unk-1
+356,GENIE-VICC-784009,VICC,"Cetuximab, Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium",0,0.0,GENIE-VICC-784009-unk-1
+357,GENIE-VICC-785919,VICC,"Investigational Drug, Panitumumab",1,1.0,GENIE-VICC-785919-unk-1
+358,GENIE-VICC-845967,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-845967-unk-1
+359,GENIE-VICC-858714,VICC,Panitumumab,0,0.0,GENIE-VICC-858714-unk-1
+360,GENIE-VICC-858714,VICC,"Capecitabine, Panitumumab",0,0.0,GENIE-VICC-858714-unk-1
+361,GENIE-VICC-863062,VICC,"Fluorouracil, Irinotecan Hydrochloride, Leucovorin Calcium, Panitumumab",0,0.0,GENIE-VICC-863062-unk-1
+362,GENIE-VICC-908007,VICC,Panitumumab,0,1.0,GENIE-VICC-908007-unk-1
+363,GENIE-VICC-908007,VICC,"Irinotecan Hydrochloride, Panitumumab",0,1.0,GENIE-VICC-908007-unk-1
+364,GENIE-VICC-957568,VICC,"Irinotecan Hydrochloride, Panitumumab",1,0.0,GENIE-VICC-957568-unk-1
+365,GENIE-VICC-976300,VICC,"Cetuximab, Irinotecan Hydrochloride",0,0.0,GENIE-VICC-976300-unk-1
+366,GENIE-VICC-977898,VICC,"Irinotecan Hydrochloride, Panitumumab",1,1.0,GENIE-VICC-977898-unk-1
+367,GENIE-VICC-996370,VICC,Panitumumab,1,1.0,GENIE-VICC-996370-unk-1
