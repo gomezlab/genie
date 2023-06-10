@@ -35,6 +35,7 @@ y_train = y.copy()
 
 #clinical data for test set
 test = pd.read_csv('../data/crc_ib_mut_act.csv', index_col=0)
+test = test.dropna(subset=[outcome])
 X_test = test[[col for col in test.columns if 'mut_' in col or 'act_' in col in col]]
 y_test = test[outcome]
 

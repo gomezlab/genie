@@ -34,6 +34,7 @@ X_train, X_valid, y_train, y_valid = train_test_split(X, y, train_size=0.8, test
 
 #clinical data for test set
 test = pd.read_csv('../data/crc_ib_mut_act.csv', index_col=0)
+test = test.dropna(subset=[outcome])
 X_test = test[[col for col in test.columns if 'mut_' in col or 'act_' in col in col]]
 y_test = test[outcome]
 
@@ -84,7 +85,7 @@ early_stopping = keras.callbacks.EarlyStopping(
 
 rnd_search_cv = BayesSearchCV(keras_clf, param_distribs, n_iter=100, scoring='roc_auc', cv=5, verbose=2)
 
-rnd_search_cv.fit(X_train, y_train, epochs=100, batch_size=32,
+rnd_search_cv.fit(X_train, y_train, epochs=100, batch_size=16,
                   validation_data=(X_valid, y_valid),
                   callbacks=[early_stopping])
 
