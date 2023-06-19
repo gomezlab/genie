@@ -83,7 +83,7 @@ rf_random = BayesSearchCV(rf, random_grid, n_iter = 150, cv = 5, verbose=2, scor
 # Fit the random search model
 rf_random.fit(X_train, y_train)
 results = pd.DataFrame(rf_random.cv_results_)
-results.sort_values(by='rank_test_score').to_csv('../results/hp_search/pdx/results_rf_{}_{}_{}_{}.csv'.format(drug, outcome, data_type, today_str))
+results.sort_values(by='rank_test_score').to_csv('../results/hp_search/pdx/results_rf_{}_{}_{}_{}_{}.csv'.format(pretrain, drug, outcome, data_type, today_str))
 best_rf = rf_random.best_estimator_
 
 from sklearn.metrics import average_precision_score, precision_recall_curve, roc_auc_score, roc_curve, auc
@@ -129,4 +129,4 @@ except:
     res_df.to_csv('../results/runs/pdx/res_rf_{}.csv'.format(today_str))
 
 test_preds = pd.DataFrame({'y_test': y_test, 'y_pred': y_pred}, index=X_test.index)
-test_preds.to_csv('../results/preds/pdx/preds_rf_{}_{}_{}_{}.csv'.format(drug, outcome, data_type, today_str), index=True, index_label='record_id')
+test_preds.to_csv('../results/preds/pdx/preds_rf_{}_{}_{}_{}_{}.csv'.format(pretrain, drug, outcome, data_type, today_str), index=True, index_label='record_id')
