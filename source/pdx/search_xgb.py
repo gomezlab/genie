@@ -1,11 +1,13 @@
 import argparse
 parser = argparse.ArgumentParser()
+parser.add_argument('--pretrain', type=str, default='crc')
 parser.add_argument('--drug', type=str, default='ib')
 parser.add_argument('--outcome', type=str, default='OS')
 parser.add_argument('--data_type', type=str, default='comb')
 
 args = parser.parse_args()
 
+pretrain = args.pretrain
 drug = args.drug
 outcome = args.outcome
 data_type = args.data_type
@@ -27,9 +29,14 @@ from xgboost import XGBClassifier
 from skopt import BayesSearchCV
 
 #pdx data for training
-data = pd.read_csv('../data/pdx_act_mut_cpr.csv', index_col=0)
-X = data[[col for col in data.columns if 'mut_' in col or 'act_' in col in col]]
-y = data['CRorPR']
+if pretrain == 'crc':
+    data = pd.read_csv('../data/pdx_act_mut_cpr_crc.csv', index_col=0)
+    X = data[[col for col in data.columns if 'mut_' in col or 'act_' in col in col]]
+    y = data['CRorPR']
+elif pretrain == 'total':
+    data = pd.read_csv('../data/pdx_act_mut_cpr_total.csv', index_col=0)
+    X = data[[col for col in data.columns if 'mut_' in col or 'act_' in col in col]]
+    y = data['CRorPR']
 X_train = X.copy()
 y_train = y.copy()
 
@@ -104,7 +111,7 @@ test_auprc_ci = str(test_auprc[0]) + '-' + str(test_auprc[2])
 
 val_auroc = bayes_xgb.best_score_
 
-res_df = pd.DataFrame({'drug': [drug], 'outcome': [outcome], 'data_type': [data_type], 'val_auroc': [val_auroc], 'test_auroc_mean': [test_auroc_mean], 'test_auroc_ci': [test_auroc_ci], 'test_auprc_mean': [test_auprc_mean], 'test_auprc_ci': [test_auprc_ci]})
+res_df = pd.DataFrame({'pretrain': [pretrain], 'outcome': [outcome], 'data_type': [data_type], 'val_auroc': [val_auroc], 'test_auroc_mean': [test_auroc_mean], 'test_auroc_ci': [test_auroc_ci], 'test_auprc_mean': [test_auprc_mean], 'test_auprc_ci': [test_auprc_ci]})
 
 #if results csv file exists, append to it, otherwise create it
 try:

@@ -1,11 +1,13 @@
 import argparse
 parser = argparse.ArgumentParser()
+parser.add_argument('--pretrain', type=str, default='crc')
 parser.add_argument('--drug', type=str, default='ib')
 parser.add_argument('--outcome', type=str, default='OS')
 parser.add_argument('--data_type', type=str, default='comb')
 
 args = parser.parse_args()
 
+pretrain = args.pretrain
 drug = args.drug
 outcome = args.outcome
 data_type = args.data_type
@@ -27,9 +29,14 @@ from xgboost import XGBClassifier
 from skopt import BayesSearchCV
 
 #pdx data for training
-data = pd.read_csv('../data/pdx_act_mut_cpr.csv', index_col=0)
-X = data[[col for col in data.columns if 'mut_' in col or 'act_' in col in col]]
-y = data['CRorPR']
+if pretrain == 'crc':
+    data = pd.read_csv('../data/pdx_act_mut_cpr_crc.csv', index_col=0)
+    X = data[[col for col in data.columns if 'mut_' in col or 'act_' in col in col]]
+    y = data['CRorPR']
+elif pretrain == 'total':
+    data = pd.read_csv('../data/pdx_act_mut_cpr_total.csv', index_col=0)
+    X = data[[col for col in data.columns if 'mut_' in col or 'act_' in col in col]]
+    y = data['CRorPR']
 X_train, X_valid, y_train, y_valid = train_test_split(X, y, train_size=0.8, test_size=0.2)
 
 #clinical data for test set
@@ -70,7 +77,7 @@ def build_model(n_hidden=1, n_neurons=100, dropout=0.4, activation = "relu", lea
 keras_clf = keras.wrappers.scikit_learn.KerasClassifier(build_model)
 
 param_distribs = {
-    "n_hidden": [1, 2, 3, 4],
+    "n_hidden": [1, 2, 4, 6],
     "n_neurons": [25, 50, 200, 500, 1000, 1500],
     "dropout": [0.2, 0.4, 0.6, 0.8],
     "activation": ["relu", "elu"],
@@ -92,7 +99,7 @@ rnd_search_cv.fit(X_train, y_train, epochs=100, batch_size=16,
 
 results = pd.DataFrame(rnd_search_cv.cv_results_)
 
-results.sort_values(by='rank_test_score').to_csv('../results/hp_search/pdx/results_nn_{}_{}_{}_{}.csv'.format(drug, outcome, data_type, today_str))
+results.sort_values(by='rank_test_score').to_csv('../results/hp_search/pdx/results_nn_{}_{}_{}_{}_{}.csv'.format(pretrain, drug, outcome, data_type, today_str))
 
 best_keras = rnd_search_cv.best_estimator_
 
@@ -128,7 +135,7 @@ test_auprc_ci = str(test_auprc[0]) + '-' + str(test_auprc[2])
 
 val_auroc = rnd_search_cv.best_score_
 
-res_df = pd.DataFrame({'drug': [drug], 'outcome': [outcome], 'data_type': [data_type], 'val_auroc': [val_auroc], 'test_auroc_mean': [test_auroc_mean], 'test_auroc_ci': [test_auroc_ci], 'test_auprc_mean': [test_auprc_mean], 'test_auprc_ci': [test_auprc_ci]})
+res_df = pd.DataFrame({'pretrain': [pretrain], 'outcome': [outcome], 'data_type': [data_type], 'val_auroc': [val_auroc], 'test_auroc_mean': [test_auroc_mean], 'test_auroc_ci': [test_auroc_ci], 'test_auprc_mean': [test_auprc_mean], 'test_auprc_ci': [test_auprc_ci]})
 
 #if results csv file exists, append to it, otherwise create it
 try:
@@ -139,4 +146,4 @@ except:
     res_df.to_csv('../results/runs/pdx/res_nn_{}.csv'.format(today_str))
 
 test_preds = pd.DataFrame({'y_test': y_test, 'y_pred': y_pred}, index=X_test.index)
-test_preds.to_csv('../results/preds/pdx/preds_nn_{}_{}_{}_{}.csv'.format(drug, outcome, data_type, today_str), index=True, index_label='record_id')
+test_preds.to_csv('../results/preds/pdx/preds_nn_{}_{}_{}_{}_{}.csv'.format(pretrain, drug, outcome, data_type, today_str), index=True, index_label='record_id')
