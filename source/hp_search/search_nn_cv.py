@@ -51,8 +51,8 @@ from skopt import BayesSearchCV
 
 
 
-
-data = pd.read_csv('../data/crc_{}_mut_cna_fus_clin.csv'.format(drug), index_col=0)
+data = pd.read_csv('../data/crc_{}_mut_cna_fus_clin.csv'.format(drug))
+data.rename(columns={'Unnamed: 0': 'id'}, inplace=True)
 data = data.dropna(subset=[outcome])
 
 #test set is VICC
@@ -63,11 +63,9 @@ data = data.dropna(subset=[outcome])
 
 #create 5 train, test splits, within each train, create 5 train, valid splits
 skf = StratifiedGroupKFold(n_splits=5, shuffle=True, random_state=1)
-groups = data.index
+groups = data['id']
 X = data[[col for col in data.columns if 'mut_' in col or 'cna_' in col or 'clin_' in col or 'fus' in col]]
 y = data[outcome]
-
-input_shape = [X.shape[1]]
 
 def build_model(n_hidden=1, n_neurons=100, dropout=0.4, activation = "relu", learning_rate=3e-3):
     model = keras.models.Sequential()
@@ -101,7 +99,7 @@ for train_index, test_index in skf.split(X, y, groups):
         X_test = X_test[[col for col in data.columns if 'mut_' in col or 'cna_' in col or 'clin_' in col or 'fus' in col]]
 
     X_train, X_valid, y_train, y_valid = train_test_split(X_train, y_train, train_size=0.8, test_size=0.2, random_state=1)
-
+    input_shape = [X_train.shape[1]]
     keras_clf = keras.wrappers.scikit_learn.KerasClassifier(build_model)
 
     param_distribs = {
